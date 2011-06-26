@@ -1,0 +1,59 @@
+TODO
+
+[ ] A srcipt that renders sif files into png folder
+
+============== Toolbox ==================
+[ ] New...				
+[ ] Open...				
+[ ] Save				
+[ ] Save As...				
+[ ] Save All				
+[ ] Undo				
+[ ] Redo				
+[ ] Setup				
+[ ] About Synfig Studio			
+[ ] Help				
+------------------------------------------
+[ ] Normal Tool				
+[ ] SmoothMove Tool			
+[ ] Scale Tool				
+[ ] Rotate Tool				
+[ ] Mirror Tool				
+[ ] Circle Tool				
+[ ] Rectangle Tool			
+[ ] Star Tool				
+[ ] Gradient Tool			
+[ ] Polygon Tool			
+[ ] BLine Tool				
+[ ] Draw Tool				
+[ ] Width Tool				
+[ ] Fill Tool				
+[ ] Eyedrop Tool			
+[ ] Text Tool				
+[ ] Sketch Tool				
+[ ] Zoom Tool				
+	
+=============== Canvas Window ============
+
+[ ] The In/Decrease Display Resolution	
+[ ] Low Res				
+[ ] Quality (lower is better)		
+[ ] Past/Future Onion skins		
+[ ] Shows onion skin when enable	
+[ ] Shwos the Render Settings Dialog	
+[ ] Shows the Preview Settings Dialog	
+[ ] Previous/Next KeyFrame		
+[ ] (non icon issue)The KeyFrame vs Kyeframe capital F
+[x] All/Past/Future Keyframe Locked
+[x] Animate Mode On/Off	
+[ ] Refresh / Stop: do we realy need them?
+[ ] progress bar: how about spin instead?
+[ ] Animate Mode On/Off size of the button is not the same as keyframe lock button
+============== Preview Window ============
+
+[ ] Toggle Looping				
+[ ] Play					
+[ ] Stop					
+[ ] Halt Render				
+[ ] Re-Preview				
+[ ] Erase All			
