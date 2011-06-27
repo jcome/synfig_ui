@@ -3,27 +3,27 @@ TODO
 [ ] A srcipt that renders sif files into png folder
 
 ============== Toolbox ==================
-[ ] New...				
-[ ] Open...				
-[ ] Save				
-[ ] Save As...				
+[x] New...				
+[x] Open...				
+[x] Save				
+[x] Save As...				
 [ ] Save All				
-[ ] Undo				
-[ ] Redo				
-[ ] Setup				
-[ ] About Synfig Studio			
-[ ] Help				
+[x] Undo				
+[x] Redo				
+[x] Setup				
+[x] About Synfig Studio			
+[x] Help				
 ------------------------------------------
-[ ] Normal Tool				
-[ ] SmoothMove Tool			
-[ ] Scale Tool				
-[ ] Rotate Tool				
-[ ] Mirror Tool				
-[ ] Circle Tool				
-[ ] Rectangle Tool			
-[ ] Star Tool				
-[ ] Gradient Tool			
-[ ] Polygon Tool			
+[x] Normal Tool				
+[x] SmoothMove Tool			
+[x] Scale Tool				
+[x] Rotate Tool				
+[x] Mirror Tool				
+[x] Circle Tool				
+[x] Rectangle Tool			
+[x] Star Tool				
+[x] Gradient Tool			
+[x] Polygon Tool			
 [ ] BLine Tool				
 [ ] Draw Tool				
 [ ] Width Tool				
@@ -49,6 +49,7 @@ TODO
 [ ] Refresh / Stop: do we realy need them?
 [ ] progress bar: how about spin instead?
 [ ] Animate Mode On/Off size of the button is not the same as keyframe lock button
+
 ============== Preview Window ============
 
 [ ] Toggle Looping				
