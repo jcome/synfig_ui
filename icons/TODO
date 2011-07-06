@@ -43,9 +43,9 @@ TODO
 [ ] Shwos the Render Settings Dialog	
 [ ] Shows the Preview Settings Dialog	
 [ ] Previous/Next KeyFrame		
-[ ] (non icon issue)The KeyFrame vs Kyeframe capital F
-[x] All/Past/Future Keyframe Locked
-[x] Animate Mode On/Off	
+[ ] (non icon issue but a tool tip issue)The KeyFrame vs Kyeframe capital F
+[x] All/Past/Future Keyframe Locked  			- Track the discussion on synfig forum:  
+[x] Animate Mode On/Off					- Track the discussion on synfig forum:
 [ ] Refresh / Stop: do we realy need them?
 [ ] progress bar: how about spin instead?
 [ ] Animate Mode On/Off size of the button is not the same as keyframe lock button
