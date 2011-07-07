@@ -1,4 +1,7 @@
 TODO
+[ ] - Planed 
+[-] - Work in progress
+[x] - Done
 
 [ ] A srcipt that renders sif files into png folder
 
@@ -40,12 +43,12 @@ TODO
 [ ] Quality (lower is better)		
 [ ] Past/Future Onion skins		
 [ ] Shows onion skin when enable	
-[ ] Shwos the Render Settings Dialog	
-[ ] Shows the Preview Settings Dialog	
+[-] Shwos the Render Settings Dialog    SEE http://synfig.org/forums/viewtopic.php?f=15&t=2895&sid=45d99fe4735cfa08650684ace2b814d2	
+[-] Shows the Preview Settings Dialog	SEE http://synfig.org/forums/viewtopic.php?f=15&t=2895&sid=45d99fe4735cfa08650684ace2b814d2
 [ ] Previous/Next KeyFrame		
 [ ] (non icon issue but a tool tip issue)The KeyFrame vs Kyeframe capital F
-[x] All/Past/Future Keyframe Locked  			- Track the discussion on synfig forum:  
-[x] Animate Mode On/Off					- Track the discussion on synfig forum:
+[-] All/Past/Future Keyframe Locked  			SEE  http://synfig.org/forums/viewtopic.php?f=15&t=2866&sid=45d99fe4735cfa08650684ace2b814d2
+[-] Animate Mode On/Off					SEE  http://synfig.org/forums/viewtopic.php?f=15&t=2866&sid=45d99fe4735cfa08650684ace2b814d2
 [ ] Refresh / Stop: do we realy need them?
 [ ] progress bar: how about spin instead?
 [ ] Animate Mode On/Off size of the button is not the same as keyframe lock button
