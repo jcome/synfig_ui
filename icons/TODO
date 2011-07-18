@@ -4,7 +4,7 @@ TODO
 [x] - Done
 
 [ ] A srcipt that renders sif files into png folder
-[ ] Tango color palette in synfig format
+[x] Tango color palette in synfig format | http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines#Color_Palette
 
 ============== Toolbox ==================
 [x] New...				

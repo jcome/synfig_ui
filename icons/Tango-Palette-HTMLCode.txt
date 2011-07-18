@@ -1,0 +1,28 @@
+HTMLCode	Name
+----------------------------
+#eeeeec		Aluminium 1
+#d3d7cf		Aluminium 2
+#babdb6		Aluminium 3
+#888a85		Aluminium 4
+#555753		Aluminium 5
+#2e3436		Aluminium 6
+#fce94f		Butter 1
+#edd400		Butter 2
+#c4a000		Butter 3
+#8ae234		Chameleon 1
+#73d216		Chameleon 2
+#4e9a06		Chameleon 3
+#e9b96e		Chocolate 1
+#c17d11		Chocolate 2
+#8f5902		Chocolate 3
+#f57900		Orange 2
+#ce5c00		Orange 3
+#ad7fa8		Plum 1
+#75507b		Plum 2
+#5c3566		Plum 3
+#ef2929		Scarlet Red 1
+#cc0000		Scarlet Red 2
+#a40000		Scarlet Red 3
+#729fcf		Sky Blue 1
+#3465a4		Sky Blue 2
+#204a87		Sky Blue 3
