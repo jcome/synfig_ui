@@ -44,7 +44,7 @@ TODO
 [ ] Quality (lower is better)		
 [ ] Past/Future Onion skins		
 [ ] Shows onion skin when enable	
-[-] Shwos the Render Settings Dialog    SEE http://synfig.org/forums/viewtopic.php?f=15&t=2895&sid=45d99fe4735cfa08650684ace2b814d2	
+[x] Shwos the Render Settings Dialog    SEE http://synfig.org/forums/viewtopic.php?f=15&t=2895&sid=45d99fe4735cfa08650684ace2b814d2	
 [-] Shows the Preview Settings Dialog	SEE http://synfig.org/forums/viewtopic.php?f=15&t=2895&sid=45d99fe4735cfa08650684ace2b814d2
 [ ] Previous/Next KeyFrame		
 [ ] (non icon issue but a tool tip issue)The KeyFrame vs Kyeframe capital F
