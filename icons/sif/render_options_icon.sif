@@ -2367,7 +2367,7 @@
                         </bline>
                       </param>
                       <param name="width">
-                        <real value="0.0156250005"/>
+                        <real value="0.0199999996"/>
                       </param>
                       <param name="expand">
                         <real value="0.0000000000"/>
@@ -2911,7 +2911,7 @@
             </vector>
           </param>
         </layer>
-        <layer type="outline" active="true" version="0.2" desc="NewBLine026 Outline">
+        <layer type="outline" active="true" version="0.2" desc="Connector Shadow">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -3054,7 +3054,7 @@
             <bool value="true"/>
           </param>
         </layer>
-        <layer type="PasteCanvas" active="true" version="0.1" desc="upper">
+        <layer type="PasteCanvas" active="true" version="0.1" desc="Chevrons">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -4427,7 +4427,7 @@
             </vector>
           </param>
         </layer>
-        <layer type="PasteCanvas" active="true" version="0.1">
+        <layer type="PasteCanvas" active="true" version="0.1" desc="Connector">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -4544,7 +4544,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite type="bline_point" guid="546B30C97D31DE593A3275740238B4A3">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>-0.3843262196</x>
@@ -4808,7 +4808,7 @@
                         </color>
                       </param>
                       <param name="origin">
-                        <vector guid="0E58859C32D690B853CC4C48EA665E4A">
+                        <vector>
                           <x>0.0000000000</x>
                           <y>0.0000000000</y>
                         </vector>
@@ -4829,7 +4829,7 @@
                         <integer value="0"/>
                       </param>
                       <param name="bline">
-                        <bline type="bline_point" loop="true" guid="FC69925EAC543ACB3E86B5B6D0E286BF">
+                        <bline type="bline_point" loop="true">
                           <entry>
                             <composite type="bline_point">
                               <point>
@@ -5052,7 +5052,7 @@
                       <param name="bline">
                         <bline type="bline_point" loop="false">
                           <entry>
-                            <composite type="bline_point" guid="403CA46B1D75B8C6ADD058781A8AC1F3">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>-0.4720661640</x>
@@ -5199,7 +5199,7 @@
                               <point>
                                 <vector>
                                   <x>-0.8744787574</x>
-                                  <y>0.5458353162</y>
+                                  <y>0.5636924505</y>
                                 </vector>
                               </point>
                               <width>
@@ -5238,7 +5238,7 @@
                               <point>
                                 <vector>
                                   <x>-0.9540439248</x>
-                                  <y>0.5399555564</y>
+                                  <y>0.5578126907</y>
                                 </vector>
                               </point>
                               <width>
@@ -5277,7 +5277,7 @@
                               <point>
                                 <vector>
                                   <x>-0.9489614964</x>
-                                  <y>-0.0107515976</y>
+                                  <y>-0.0330730267</y>
                                 </vector>
                               </point>
                               <width>
@@ -5316,7 +5316,7 @@
                               <point>
                                 <vector>
                                   <x>-0.8532676101</x>
-                                  <y>-0.0166775230</y>
+                                  <y>-0.0389989503</y>
                                 </vector>
                               </point>
                               <width>
