@@ -1179,9 +1179,9 @@
                             </param>
                             <param name="color">
                               <color guid="4F3E32C0DDD8A52B9F1152CE8A78FB68">
-                                <r>0.913725</r>
-                                <g>0.192157</g>
-                                <b>0.000000</b>
+                                <r>0.858824</r>
+                                <g>0.858824</g>
+                                <b>0.843137</b>
                                 <a>1.000000</a>
                               </color>
                             </param>
@@ -1367,6 +1367,63 @@
                               </bline>
                             </param>
                           </layer>
+                          <layer type="linear_gradient" active="true" version="0.0">
+                            <param name="z_depth">
+                              <real value="0.0000000000"/>
+                            </param>
+                            <param name="amount">
+                              <real value="1.0000000000"/>
+                            </param>
+                            <param name="blend_method">
+                              <integer value="13"/>
+                            </param>
+                            <param name="p1">
+                              <vector>
+                                <x>0.0156250000</x>
+                                <y>-0.2960874736</y>
+                              </vector>
+                            </param>
+                            <param name="p2">
+                              <vector>
+                                <x>0.0200892854</x>
+                                <y>0.1503411084</y>
+                              </vector>
+                            </param>
+                            <param name="gradient">
+                              <gradient>
+                                <color pos="0.000000">
+                                  <r>0.086274</r>
+                                  <g>0.090196</g>
+                                  <b>0.082353</b>
+                                  <a>1.000000</a>
+                                </color>
+                                <color pos="0.576923">
+                                  <r>0.736669</r>
+                                  <g>0.737289</g>
+                                  <b>0.722842</b>
+                                  <a>1.000000</a>
+                                </color>
+                                <color pos="0.905983">
+                                  <r>0.561690</r>
+                                  <g>0.563198</g>
+                                  <b>0.550528</b>
+                                  <a>1.000000</a>
+                                </color>
+                                <color pos="1.000000">
+                                  <r>0.858824</r>
+                                  <g>0.858824</g>
+                                  <b>0.843137</b>
+                                  <a>1.000000</a>
+                                </color>
+                              </gradient>
+                            </param>
+                            <param name="loop">
+                              <bool value="false"/>
+                            </param>
+                            <param name="zigzag">
+                              <bool value="false"/>
+                            </param>
+                          </layer>
                           <layer type="PasteCanvas" active="true" version="0.1">
                             <param name="z_depth">
                               <real value="0.0000000000"/>
@@ -1400,7 +1457,7 @@
                                       <r>0.019608</r>
                                       <g>0.027451</g>
                                       <b>0.031373</b>
-                                      <a>0.994220</a>
+                                      <a>1.000000</a>
                                     </color>
                                   </param>
                                   <param name="origin">
@@ -1608,7 +1665,7 @@
                                       <r>0.019608</r>
                                       <g>0.027451</g>
                                       <b>0.031373</b>
-                                      <a>0.994220</a>
+                                      <a>1.000000</a>
                                     </color>
                                   </param>
                                   <param name="origin">
@@ -1816,7 +1873,7 @@
                                       <r>0.019608</r>
                                       <g>0.027451</g>
                                       <b>0.031373</b>
-                                      <a>0.994220</a>
+                                      <a>1.000000</a>
                                     </color>
                                   </param>
                                   <param name="origin">
@@ -2024,7 +2081,7 @@
                                       <r>0.019608</r>
                                       <g>0.027451</g>
                                       <b>0.031373</b>
-                                      <a>0.994220</a>
+                                      <a>1.000000</a>
                                     </color>
                                   </param>
                                   <param name="origin">
@@ -3084,9 +3141,9 @@
                 </param>
                 <param name="color">
                   <color guid="4F3E32C0DDD8A52B9F1152CE8A78FB68">
-                    <r>0.913725</r>
-                    <g>0.192157</g>
-                    <b>0.000000</b>
+                    <r>0.858824</r>
+                    <g>0.858824</g>
+                    <b>0.843137</b>
                     <a>1.000000</a>
                   </color>
                 </param>
@@ -3272,6 +3329,63 @@
                   </bline>
                 </param>
               </layer>
+              <layer type="linear_gradient" active="true" version="0.0">
+                <param name="z_depth">
+                  <real value="0.0000000000"/>
+                </param>
+                <param name="amount">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="blend_method">
+                  <integer value="13"/>
+                </param>
+                <param name="p1">
+                  <vector>
+                    <x>0.0334027782</x>
+                    <y>0.2865018249</y>
+                  </vector>
+                </param>
+                <param name="p2">
+                  <vector>
+                    <x>0.0378670655</x>
+                    <y>0.7329304218</y>
+                  </vector>
+                </param>
+                <param name="gradient">
+                  <gradient>
+                    <color pos="0.000000">
+                      <r>0.086274</r>
+                      <g>0.090196</g>
+                      <b>0.082353</b>
+                      <a>1.000000</a>
+                    </color>
+                    <color pos="0.576923">
+                      <r>0.736669</r>
+                      <g>0.737289</g>
+                      <b>0.722842</b>
+                      <a>1.000000</a>
+                    </color>
+                    <color pos="0.905983">
+                      <r>0.561690</r>
+                      <g>0.563198</g>
+                      <b>0.550528</b>
+                      <a>1.000000</a>
+                    </color>
+                    <color pos="1.000000">
+                      <r>0.858824</r>
+                      <g>0.858824</g>
+                      <b>0.843137</b>
+                      <a>1.000000</a>
+                    </color>
+                  </gradient>
+                </param>
+                <param name="loop">
+                  <bool value="false"/>
+                </param>
+                <param name="zigzag">
+                  <bool value="false"/>
+                </param>
+              </layer>
               <layer type="PasteCanvas" active="true" version="0.1">
                 <param name="z_depth">
                   <real value="0.0000000000"/>
@@ -3305,7 +3419,7 @@
                           <r>0.019608</r>
                           <g>0.027451</g>
                           <b>0.031373</b>
-                          <a>0.994220</a>
+                          <a>1.000000</a>
                         </color>
                       </param>
                       <param name="origin">
@@ -3513,7 +3627,7 @@
                           <r>0.019608</r>
                           <g>0.027451</g>
                           <b>0.031373</b>
-                          <a>0.994220</a>
+                          <a>1.000000</a>
                         </color>
                       </param>
                       <param name="origin">
@@ -3721,7 +3835,7 @@
                           <r>0.019608</r>
                           <g>0.027451</g>
                           <b>0.031373</b>
-                          <a>0.994220</a>
+                          <a>1.000000</a>
                         </color>
                       </param>
                       <param name="origin">
@@ -3929,7 +4043,7 @@
                           <r>0.019608</r>
                           <g>0.027451</g>
                           <b>0.031373</b>
-                          <a>0.994220</a>
+                          <a>1.000000</a>
                         </color>
                       </param>
                       <param name="origin">
