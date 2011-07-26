@@ -1397,10 +1397,10 @@
                                   <b>0.082353</b>
                                   <a>1.000000</a>
                                 </color>
-                                <color pos="0.576923">
-                                  <r>0.736669</r>
-                                  <g>0.737289</g>
-                                  <b>0.722842</b>
+                                <color pos="0.585470">
+                                  <r>0.558413</r>
+                                  <g>0.559937</g>
+                                  <b>0.547301</b>
                                   <a>1.000000</a>
                                 </color>
                                 <color pos="0.905983">
@@ -1409,7 +1409,7 @@
                                   <b>0.550528</b>
                                   <a>1.000000</a>
                                 </color>
-                                <color pos="1.000000">
+                                <color pos="0.995726">
                                   <r>0.858824</r>
                                   <g>0.858824</g>
                                   <b>0.843137</b>
@@ -3013,8 +3013,8 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>-0.8087649345</x>
-                      <y>-0.0199203193</y>
+                      <x>-0.8156555295</x>
+                      <y>-0.0164750144</y>
                     </vector>
                   </point>
                   <width>
@@ -3052,8 +3052,8 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>-0.3505976200</x>
-                      <y>-0.0199203193</y>
+                      <x>-0.3712694645</x>
+                      <y>-0.0164750144</y>
                     </vector>
                   </point>
                   <width>
@@ -3359,10 +3359,10 @@
                       <b>0.082353</b>
                       <a>1.000000</a>
                     </color>
-                    <color pos="0.576923">
-                      <r>0.736669</r>
-                      <g>0.737289</g>
-                      <b>0.722842</b>
+                    <color pos="0.585470">
+                      <r>0.558413</r>
+                      <g>0.559937</g>
+                      <b>0.547301</b>
                       <a>1.000000</a>
                     </color>
                     <color pos="0.905983">
@@ -3371,7 +3371,7 @@
                       <b>0.550528</b>
                       <a>1.000000</a>
                     </color>
-                    <color pos="1.000000">
+                    <color pos="0.995726">
                       <r>0.858824</r>
                       <g>0.858824</g>
                       <b>0.843137</b>
@@ -4844,12 +4844,12 @@
                       </param>
                       <param name="center">
                         <vector>
-                          <x>-0.7218543291</x>
-                          <y>0.2913907170</y>
+                          <x>-0.7549669147</x>
+                          <y>0.4039735198</y>
                         </vector>
                       </param>
                       <param name="radius">
-                        <real value="0.4834437086"/>
+                        <real value="0.6192052980"/>
                       </param>
                       <param name="loop">
                         <bool value="false"/>
@@ -4891,7 +4891,7 @@
                         <angle value="135.000000"/>
                       </param>
                       <param name="depth">
-                        <real value="0.0199999996"/>
+                        <real value="0.0399999991"/>
                       </param>
                       <param name="softness">
                         <real value="0.0599999987"/>
@@ -5561,7 +5561,7 @@
                               </color>
                             </param>
                             <param name="radius">
-                              <real value="0.0599337755" guid="D992F4DA4436C517AEE9859AE7B22BD4"/>
+                              <real value="0.0665962060" guid="D992F4DA4436C517AEE9859AE7B22BD4"/>
                             </param>
                             <param name="feather">
                               <real value="0.0000000000"/>
@@ -5643,7 +5643,7 @@
                               </color>
                             </param>
                             <param name="radius">
-                              <real value="0.0295594981" guid="AC37F4E944E14AE9ED885C37F72FBA6F"/>
+                              <real value="0.0354544066" guid="AC37F4E944E14AE9ED885C37F72FBA6F"/>
                             </param>
                             <param name="feather">
                               <real value="0.0049999999" guid="96C2F1EEE7F4FC4757174D84048199BE"/>
@@ -5716,7 +5716,7 @@
                               </color>
                             </param>
                             <param name="radius">
-                              <real value="0.0599337755" guid="D992F4DA4436C517AEE9859AE7B22BD4"/>
+                              <real value="0.0665962060" guid="D992F4DA4436C517AEE9859AE7B22BD4"/>
                             </param>
                             <param name="feather">
                               <real value="0.0000000000"/>
@@ -5798,7 +5798,7 @@
                               </color>
                             </param>
                             <param name="radius">
-                              <real value="0.0295594981" guid="AC37F4E944E14AE9ED885C37F72FBA6F"/>
+                              <real value="0.0354544066" guid="AC37F4E944E14AE9ED885C37F72FBA6F"/>
                             </param>
                             <param name="feather">
                               <real value="0.0049999999" guid="96C2F1EEE7F4FC4757174D84048199BE"/>
@@ -5871,7 +5871,7 @@
                               </color>
                             </param>
                             <param name="radius">
-                              <real value="0.0599337755" guid="D992F4DA4436C517AEE9859AE7B22BD4"/>
+                              <real value="0.0665962060" guid="D992F4DA4436C517AEE9859AE7B22BD4"/>
                             </param>
                             <param name="feather">
                               <real value="0.0000000000"/>
@@ -5953,7 +5953,7 @@
                               </color>
                             </param>
                             <param name="radius">
-                              <real value="0.0295594981" guid="AC37F4E944E14AE9ED885C37F72FBA6F"/>
+                              <real value="0.0354544066" guid="AC37F4E944E14AE9ED885C37F72FBA6F"/>
                             </param>
                             <param name="feather">
                               <real value="0.0049999999" guid="96C2F1EEE7F4FC4757174D84048199BE"/>
