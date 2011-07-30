@@ -29285,7 +29285,7 @@
               <r>0.000000</r>
               <g>0.000000</g>
               <b>0.000000</b>
-              <a>0.497110</a>
+              <a>0.375723</a>
             </color>
           </param>
           <param name="origin">
@@ -33667,7 +33667,7 @@
                           <real value="0.5633292198"/>
                         </position>
                         <width>
-                          <real value="2.0060788963"/>
+                          <real value="1.6954621208"/>
                         </width>
                         <side_before>
                           <integer value="0"/>
@@ -34171,7 +34171,7 @@
                           <real value="0.5633292198"/>
                         </position>
                         <width>
-                          <real value="1.9855511497"/>
+                          <real value="1.5541389617"/>
                         </width>
                         <side_before>
                           <integer value="0"/>
