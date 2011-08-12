@@ -34,7 +34,7 @@
     </param>
     <param name="canvas">
       <canvas>
-        <layer type="PasteCanvas" active="false" version="0.1" desc="play">
+        <layer type="PasteCanvas" active="true" version="0.1" desc="play">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -5792,7 +5792,7 @@
             </vector>
           </param>
         </layer>
-        <layer type="PasteCanvas" active="true" version="0.1" desc="seek to next keyframe">
+        <layer type="PasteCanvas" active="false" version="0.1" desc="seek to next keyframe">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
