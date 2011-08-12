@@ -46,14 +46,14 @@ TODO
 [ ] Shows onion skin when enable	
 [x] Shwos the Render Settings Dialog    SEE http://synfig.org/forums/viewtopic.php?f=15&t=2895&sid=45d99fe4735cfa08650684ace2b814d2	
 [x] Shows the Preview Settings Dialog	SEE http://synfig.org/forums/viewtopic.php?f=15&t=2895&sid=45d99fe4735cfa08650684ace2b814d2
-[ ] Previous/Next KeyFrame		
+[-] Previous/Next KeyFrame		
 [ ] (non icon issue but a tool tip issue)The KeyFrame vs Kyeframe capital F
-[-] All/Past/Future Keyframe Locked  			SEE  http://synfig.org/forums/viewtopic.php?f=15&t=2866&sid=45d99fe4735cfa08650684ace2b814d2
+[x] All/Past/Future Keyframe Locked  			SEE  http://synfig.org/forums/viewtopic.php?f=15&t=2866&sid=45d99fe4735cfa08650684ace2b814d2
 [-] Animate Mode On/Off					SEE  http://synfig.org/forums/viewtopic.php?f=15&t=2866&sid=45d99fe4735cfa08650684ace2b814d2
 [ ] Refresh / Stop: do we realy need them?
 [ ] progress bar: how about spin instead?
-[ ] Animate Mode On/Off size of the button is not the same as keyframe lock button
-
+[x] Animate Mode On/Off size of the button is not the same as keyframe lock button
+[-] Framedial (seek to begin/end, prev frame/keyframe, next frame/keyrame, play/stop)
 ============== Preview Window ============
 
 [ ] Toggle Looping				
