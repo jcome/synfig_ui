@@ -28,7 +28,7 @@
     </param>
     <param name="canvas">
       <canvas width="51" height="20" xres="10.000000" yres="10.000000" view-box="-0.429166 0.169145 0.429166 -0.169145">
-        <layer type="PasteCanvas" active="true" version="0.1" desc="future locks">
+        <layer type="PasteCanvas" active="false" version="0.1" desc="future locks">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -41,7 +41,7 @@
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
-              <y>0.0000000000</y>
+              <y>-0.0783235133</y>
             </vector>
           </param>
           <param name="canvas">
@@ -51,7 +51,7 @@
                   <real value="0.0000000000"/>
                 </param>
                 <param name="amount">
-                  <real value="1.0000000000"/>
+                  <real value="0.2000000030"/>
                 </param>
                 <param name="blend_method">
                   <integer value="1"/>
@@ -3972,7 +3972,7 @@
             </vector>
           </param>
         </layer>
-        <layer type="PasteCanvas" active="false" version="0.1" desc="past locks">
+        <layer type="PasteCanvas" active="true" version="0.1" desc="past locks">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -3985,7 +3985,7 @@
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
-              <y>0.0000000000</y>
+              <y>-0.0783235133</y>
             </vector>
           </param>
           <param name="canvas">
@@ -3995,7 +3995,7 @@
                   <real value="0.0000000000"/>
                 </param>
                 <param name="amount">
-                  <real value="1.0000000000"/>
+                  <real value="0.2000000030"/>
                 </param>
                 <param name="blend_method">
                   <integer value="1"/>
