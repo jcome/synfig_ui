@@ -28,7 +28,7 @@
     </param>
     <param name="canvas">
       <canvas width="51" height="20" xres="10.000000" yres="10.000000" view-box="-0.429166 0.169145 0.429166 -0.169145">
-        <layer type="PasteCanvas" active="false" version="0.1" desc="future locks">
+        <layer type="PasteCanvas" active="true" version="0.1" desc="future locks">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -302,7 +302,7 @@
                               <point>
                                 <vector>
                                   <x>-0.5269846916</x>
-                                  <y>0.8623778820</y>
+                                  <y>0.9430018067</y>
                                 </vector>
                               </point>
                               <width>
@@ -380,7 +380,7 @@
                               <point>
                                 <vector>
                                   <x>-0.5452944636</x>
-                                  <y>-0.8088957071</y>
+                                  <y>-0.8860142231</y>
                                 </vector>
                               </point>
                               <width>
@@ -575,7 +575,7 @@
                               <point>
                                 <vector>
                                   <x>-0.5269846916</x>
-                                  <y>0.8623778820</y>
+                                  <y>0.9430018067</y>
                                 </vector>
                               </point>
                               <width>
@@ -736,7 +736,7 @@
                               <point>
                                 <vector>
                                   <x>-0.5452944636</x>
-                                  <y>-0.8053902984</y>
+                                  <y>-0.8825088143</y>
                                 </vector>
                               </point>
                               <width>
@@ -936,7 +936,7 @@
                               <point>
                                 <vector>
                                   <x>-0.5269846916</x>
-                                  <y>0.8623778820</y>
+                                  <y>0.9430018067</y>
                                 </vector>
                               </point>
                               <width>
@@ -1014,7 +1014,7 @@
                               <point>
                                 <vector>
                                   <x>-0.5452944636</x>
-                                  <y>-0.8053902984</y>
+                                  <y>-0.8825088143</y>
                                 </vector>
                               </point>
                               <width>
@@ -1209,7 +1209,7 @@
                               <point>
                                 <vector>
                                   <x>-0.5269846916</x>
-                                  <y>0.8623778820</y>
+                                  <y>0.9430018067</y>
                                 </vector>
                               </point>
                               <width>
@@ -1313,7 +1313,7 @@
                               <point>
                                 <vector>
                                   <x>-0.5269846916</x>
-                                  <y>0.8623778820</y>
+                                  <y>0.9430018067</y>
                                 </vector>
                               </point>
                               <width>
@@ -1391,7 +1391,7 @@
                               <point>
                                 <vector>
                                   <x>-0.5452944636</x>
-                                  <y>-0.8088957071</y>
+                                  <y>-0.8860142231</y>
                                 </vector>
                               </point>
                               <width>
@@ -1586,7 +1586,7 @@
                               <point>
                                 <vector>
                                   <x>-0.5269846916</x>
-                                  <y>0.8623778820</y>
+                                  <y>0.9430018067</y>
                                 </vector>
                               </point>
                               <width>
@@ -3972,7 +3972,7 @@
             </vector>
           </param>
         </layer>
-        <layer type="PasteCanvas" active="true" version="0.1" desc="past locks">
+        <layer type="PasteCanvas" active="false" version="0.1" desc="past locks">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -4246,7 +4246,7 @@
                               <point>
                                 <vector>
                                   <x>0.5226463079</x>
-                                  <y>0.8623778820</y>
+                                  <y>0.9430018067</y>
                                 </vector>
                               </point>
                               <width>
@@ -4324,7 +4324,7 @@
                               <point>
                                 <vector>
                                   <x>0.5409560800</x>
-                                  <y>-0.8053902984</y>
+                                  <y>-0.8860142231</y>
                                 </vector>
                               </point>
                               <width>
@@ -4519,7 +4519,7 @@
                               <point>
                                 <vector>
                                   <x>0.5226463079</x>
-                                  <y>0.8623778820</y>
+                                  <y>0.9430018067</y>
                                 </vector>
                               </point>
                               <width>
@@ -4680,7 +4680,7 @@
                               <point>
                                 <vector>
                                   <x>0.5409560800</x>
-                                  <y>-0.8053902984</y>
+                                  <y>-0.8860142231</y>
                                 </vector>
                               </point>
                               <width>
@@ -4880,7 +4880,7 @@
                               <point>
                                 <vector>
                                   <x>0.5226463079</x>
-                                  <y>0.8623778820</y>
+                                  <y>0.9430018067</y>
                                 </vector>
                               </point>
                               <width>
@@ -4958,7 +4958,7 @@
                               <point>
                                 <vector>
                                   <x>0.5409560800</x>
-                                  <y>-0.8053902984</y>
+                                  <y>-0.8860142231</y>
                                 </vector>
                               </point>
                               <width>
@@ -5153,7 +5153,7 @@
                               <point>
                                 <vector>
                                   <x>0.5226463079</x>
-                                  <y>0.8623778820</y>
+                                  <y>0.9430018067</y>
                                 </vector>
                               </point>
                               <width>
@@ -5257,7 +5257,7 @@
                               <point>
                                 <vector>
                                   <x>0.5226463079</x>
-                                  <y>0.8623778820</y>
+                                  <y>0.9430018067</y>
                                 </vector>
                               </point>
                               <width>
@@ -5335,7 +5335,7 @@
                               <point>
                                 <vector>
                                   <x>0.5409560800</x>
-                                  <y>-0.8053902984</y>
+                                  <y>-0.8860142231</y>
                                 </vector>
                               </point>
                               <width>
@@ -5530,7 +5530,7 @@
                               <point>
                                 <vector>
                                   <x>0.5226463079</x>
-                                  <y>0.8623778820</y>
+                                  <y>0.9430018067</y>
                                 </vector>
                               </point>
                               <width>
