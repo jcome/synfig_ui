@@ -23,16 +23,16 @@
       <a>1.000000</a>
     </color>
     <gradient id="gradient">
-      <color pos="0.409836">
-        <r>0.858824</r>
-        <g>0.858824</g>
-        <b>0.843137</b>
-        <a>1.000000</a>
-      </color>
-      <color pos="1.000000">
+      <color pos="0.000000">
         <r>0.247059</r>
         <g>0.258824</g>
         <b>0.235294</b>
+        <a>1.000000</a>
+      </color>
+      <color pos="0.430328">
+        <r>0.858824</r>
+        <g>0.858824</g>
+        <b>0.843137</b>
         <a>1.000000</a>
       </color>
     </gradient>
@@ -111,7 +111,7 @@
                       <composite type="bline_point">
                         <point>
                           <vector>
-                            <x>0.7841433883</x>
+                            <x>0.7206513286</x>
                             <y>0.0079771839</y>
                           </vector>
                         </point>
@@ -150,7 +150,7 @@
                       <composite type="bline_point">
                         <point>
                           <vector>
-                            <x>-0.7870296836</x>
+                            <x>-0.6865006089</x>
                             <y>-0.7855399251</y>
                           </vector>
                         </point>
@@ -189,7 +189,7 @@
                       <composite type="bline_point">
                         <point>
                           <vector>
-                            <x>-0.7916895151</x>
+                            <x>-0.6911604404</x>
                             <y>0.7902926207</y>
                           </vector>
                         </point>
@@ -245,7 +245,7 @@
                 </param>
                 <param name="p2">
                   <vector>
-                    <x>-0.7397260070</x>
+                    <x>-0.7132709622</x>
                     <y>0.9931507111</y>
                   </vector>
                 </param>
@@ -302,7 +302,7 @@
                       <composite type="bline_point">
                         <point>
                           <vector>
-                            <x>0.7841433883</x>
+                            <x>0.7206513286</x>
                             <y>0.0079771839</y>
                           </vector>
                         </point>
@@ -341,7 +341,7 @@
                       <composite type="bline_point">
                         <point>
                           <vector>
-                            <x>-0.7870296836</x>
+                            <x>-0.6865006089</x>
                             <y>-0.7855399251</y>
                           </vector>
                         </point>
@@ -380,7 +380,7 @@
                       <composite type="bline_point">
                         <point>
                           <vector>
-                            <x>-0.7916895151</x>
+                            <x>-0.6911604404</x>
                             <y>0.7902926207</y>
                           </vector>
                         </point>
@@ -477,7 +477,7 @@
                       <composite type="bline_point">
                         <point>
                           <vector>
-                            <x>0.7841433883</x>
+                            <x>0.7206513286</x>
                             <y>0.0079771839</y>
                           </vector>
                         </point>
@@ -516,7 +516,7 @@
                       <composite type="bline_point">
                         <point>
                           <vector>
-                            <x>-0.7870296836</x>
+                            <x>-0.6865006089</x>
                             <y>-0.7855399251</y>
                           </vector>
                         </point>
@@ -555,7 +555,7 @@
                       <composite type="bline_point">
                         <point>
                           <vector>
-                            <x>-0.7916895151</x>
+                            <x>-0.6911604404</x>
                             <y>0.7902926207</y>
                           </vector>
                         </point>
@@ -8736,7 +8736,7 @@
                 </param>
                 <param name="origin">
                   <vector>
-                    <x>0.0000000000</x>
+                    <x>0.0156250000</x>
                     <y>0.0000000000</y>
                   </vector>
                 </param>
@@ -8782,12 +8782,12 @@
                         <integer value="1"/>
                       </param>
                       <param name="bline">
-                        <bline type="bline_point" loop="true" guid="B1A3E7BB9E078E3316639A4DE6C61AD4">
+                        <bline type="bline_point" loop="true" guid="7C05CE4F8FDE422715E82B245B8CE9B7">
                           <entry>
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.7386158705</x>
+                                  <x>-0.7427566648</x>
                                   <y>0.8918536901</y>
                                 </vector>
                               </point>
@@ -8826,7 +8826,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.7435883284</x>
+                                  <x>-0.7477291226</x>
                                   <y>0.7712484598</y>
                                 </vector>
                               </point>
@@ -8865,7 +8865,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.9607012272</x>
+                                  <x>-0.9606314898</x>
                                   <y>0.7171911001</y>
                                 </vector>
                               </point>
@@ -8904,7 +8904,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.9607012272</x>
+                                  <x>-0.9606314898</x>
                                   <y>0.5150657296</y>
                                 </vector>
                               </point>
@@ -8943,7 +8943,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.7386187911</x>
+                                  <x>-0.7427595854</x>
                                   <y>0.5150657296</y>
                                 </vector>
                               </point>
@@ -8982,7 +8982,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.7386187911</x>
+                                  <x>-0.7427595854</x>
                                   <y>-0.3898933232</y>
                                 </vector>
                               </point>
@@ -9008,7 +9008,7 @@
                               <t2>
                                 <radial_composite type="vector">
                                   <radius>
-                                    <real value="0.3998641448"/>
+                                    <real value="0.3998641491"/>
                                   </radius>
                                   <theta>
                                     <angle value="-158.659851"/>
@@ -9021,7 +9021,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.9509788156</x>
+                                  <x>-0.9551196098</x>
                                   <y>-0.6300082207</y>
                                 </vector>
                               </point>
@@ -9060,7 +9060,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.6173444986</x>
+                                  <x>-0.6214852929</x>
                                   <y>-0.8894664645</y>
                                 </vector>
                               </point>
@@ -9099,7 +9099,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.2842211127</x>
+                                  <x>-0.2883619070</x>
                                   <y>-0.6300082207</y>
                                 </vector>
                               </point>
@@ -9138,7 +9138,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.4960692525</x>
+                                  <x>-0.5002100468</x>
                                   <y>-0.3898933232</y>
                                 </vector>
                               </point>
@@ -9154,7 +9154,7 @@
                               <t1>
                                 <radial_composite type="vector">
                                   <radius>
-                                    <real value="0.3998637093"/>
+                                    <real value="0.3998637180"/>
                                   </radius>
                                   <theta>
                                     <angle value="158.659821"/>
@@ -9177,7 +9177,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.4960692525</x>
+                                  <x>-0.5002100468</x>
                                   <y>0.8918536901</y>
                                 </vector>
                               </point>
@@ -9227,14 +9227,14 @@
                       </param>
                       <param name="p1">
                         <vector>
-                          <x>-0.6708860993</x>
-                          <y>1.0000000000</y>
+                          <x>-0.3935483992</x>
+                          <y>-1.8016629219</y>
                         </vector>
                       </param>
                       <param name="p2">
                         <vector>
-                          <x>-0.6489796042</x>
-                          <y>-2.4892210960</y>
+                          <x>-0.4079999924</x>
+                          <y>1.0000000000</y>
                         </vector>
                       </param>
                       <param name="gradient" use=":gradient"/>
@@ -9253,13 +9253,13 @@
                         <real value="1.0000000000"/>
                       </param>
                       <param name="blend_method">
-                        <integer value="13" guid="1BD34FAF006CEADAD08BBFFB1E606811"/>
+                        <integer value="13" guid="D675665B11B526CED3000E92A32A9B72"/>
                       </param>
                       <param name="color">
-                        <color guid="1E089AD5CBA69A08BB8D5E5FCF2F8342">
-                          <r>0.247059</r>
-                          <g>0.258824</g>
-                          <b>0.235294</b>
+                        <color guid="D3AEB321DA7F561CB806EF3672657021">
+                          <r>0.858824</r>
+                          <g>0.858824</g>
+                          <b>0.843137</b>
                           <a>1.000000</a>
                         </color>
                       </param>
@@ -9290,7 +9290,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.7386158705</x>
+                                  <x>-0.7427566648</x>
                                   <y>0.8918536901</y>
                                 </vector>
                               </point>
@@ -9329,7 +9329,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.7435883284</x>
+                                  <x>-0.7477291226</x>
                                   <y>0.7712484598</y>
                                 </vector>
                               </point>
@@ -9368,7 +9368,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.9607012272</x>
+                                  <x>-0.9606314898</x>
                                   <y>0.7171911001</y>
                                 </vector>
                               </point>
@@ -9407,7 +9407,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.9607012272</x>
+                                  <x>-0.9606314898</x>
                                   <y>0.5150657296</y>
                                 </vector>
                               </point>
@@ -9446,7 +9446,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.7386187911</x>
+                                  <x>-0.7427595854</x>
                                   <y>0.5150657296</y>
                                 </vector>
                               </point>
@@ -9485,7 +9485,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.7386187911</x>
+                                  <x>-0.7427595854</x>
                                   <y>-0.3898933232</y>
                                 </vector>
                               </point>
@@ -9511,7 +9511,7 @@
                               <t2>
                                 <radial_composite type="vector">
                                   <radius>
-                                    <real value="0.3998641448"/>
+                                    <real value="0.3998641491"/>
                                   </radius>
                                   <theta>
                                     <angle value="-158.659851"/>
@@ -9524,7 +9524,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.9509788156</x>
+                                  <x>-0.9551196098</x>
                                   <y>-0.6300082207</y>
                                 </vector>
                               </point>
@@ -9563,7 +9563,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.6173444986</x>
+                                  <x>-0.6214852929</x>
                                   <y>-0.8894664645</y>
                                 </vector>
                               </point>
@@ -9602,7 +9602,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.2842211127</x>
+                                  <x>-0.2883619070</x>
                                   <y>-0.6300082207</y>
                                 </vector>
                               </point>
@@ -9641,7 +9641,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.4960692525</x>
+                                  <x>-0.5002100468</x>
                                   <y>-0.3898933232</y>
                                 </vector>
                               </point>
@@ -9657,7 +9657,7 @@
                               <t1>
                                 <radial_composite type="vector">
                                   <radius>
-                                    <real value="0.3998637093"/>
+                                    <real value="0.3998637180"/>
                                   </radius>
                                   <theta>
                                     <angle value="158.659821"/>
@@ -9680,7 +9680,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.4960692525</x>
+                                  <x>-0.5002100468</x>
                                   <y>0.8918536901</y>
                                 </vector>
                               </point>
@@ -9749,14 +9749,7 @@
                       <param name="blend_method">
                         <integer value="0"/>
                       </param>
-                      <param name="color">
-                        <color>
-                          <r>0.086274</r>
-                          <g>0.090196</g>
-                          <b>0.082353</b>
-                          <a>1.000000</a>
-                        </color>
-                      </param>
+                      <param name="color" use=":outlinecolor"/>
                       <param name="origin">
                         <vector>
                           <x>0.0000000000</x>
@@ -9779,12 +9772,12 @@
                         <integer value="0"/>
                       </param>
                       <param name="bline">
-                        <bline type="bline_point" loop="true" guid="B1A3E7BB9E078E3316639A4DE6C61AD4">
+                        <bline type="bline_point" loop="true" guid="7C05CE4F8FDE422715E82B245B8CE9B7">
                           <entry>
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.7386158705</x>
+                                  <x>-0.7427566648</x>
                                   <y>0.8918536901</y>
                                 </vector>
                               </point>
@@ -9823,7 +9816,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.7435883284</x>
+                                  <x>-0.7477291226</x>
                                   <y>0.7712484598</y>
                                 </vector>
                               </point>
@@ -9862,7 +9855,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.9607012272</x>
+                                  <x>-0.9606314898</x>
                                   <y>0.7171911001</y>
                                 </vector>
                               </point>
@@ -9901,7 +9894,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.9607012272</x>
+                                  <x>-0.9606314898</x>
                                   <y>0.5150657296</y>
                                 </vector>
                               </point>
@@ -9940,7 +9933,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.7386187911</x>
+                                  <x>-0.7427595854</x>
                                   <y>0.5150657296</y>
                                 </vector>
                               </point>
@@ -9979,7 +9972,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.7386187911</x>
+                                  <x>-0.7427595854</x>
                                   <y>-0.3898933232</y>
                                 </vector>
                               </point>
@@ -10005,7 +9998,7 @@
                               <t2>
                                 <radial_composite type="vector">
                                   <radius>
-                                    <real value="0.3998641448"/>
+                                    <real value="0.3998641491"/>
                                   </radius>
                                   <theta>
                                     <angle value="-158.659851"/>
@@ -10018,7 +10011,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.9509788156</x>
+                                  <x>-0.9551196098</x>
                                   <y>-0.6300082207</y>
                                 </vector>
                               </point>
@@ -10057,7 +10050,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.6173444986</x>
+                                  <x>-0.6214852929</x>
                                   <y>-0.8894664645</y>
                                 </vector>
                               </point>
@@ -10096,7 +10089,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.2842211127</x>
+                                  <x>-0.2883619070</x>
                                   <y>-0.6300082207</y>
                                 </vector>
                               </point>
@@ -10135,7 +10128,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.4960692525</x>
+                                  <x>-0.5002100468</x>
                                   <y>-0.3898933232</y>
                                 </vector>
                               </point>
@@ -10151,7 +10144,7 @@
                               <t1>
                                 <radial_composite type="vector">
                                   <radius>
-                                    <real value="0.3998637093"/>
+                                    <real value="0.3998637180"/>
                                   </radius>
                                   <theta>
                                     <angle value="158.659821"/>
@@ -10174,7 +10167,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-0.4960692525</x>
+                                  <x>-0.5002100468</x>
                                   <y>0.8918536901</y>
                                 </vector>
                               </point>
@@ -10212,7 +10205,7 @@
                         </bline>
                       </param>
                       <param name="width">
-                        <real value="0.0500000000"/>
+                        <real value="0.1000000000"/>
                       </param>
                       <param name="expand">
                         <real value="0.0000000000"/>
@@ -10252,7 +10245,7 @@
                         </color>
                       </param>
                       <param name="origin">
-                        <vector guid="12C2B3309503E80F26E1DA4F337FB733">
+                        <vector guid="DF649AC484DA241B256A6B268E354450">
                           <x>0.8508428335</x>
                           <y>-0.8819712400</y>
                         </vector>
@@ -10273,12 +10266,12 @@
                         <integer value="0"/>
                       </param>
                       <param name="bline">
-                        <bline type="bline_point" loop="true" guid="32BA77B0680B8A1FA4F4D613025B8D6A">
+                        <bline type="bline_point" loop="true" guid="FF1C5E4479D2460BA77F677ABF117E09">
                           <entry>
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-1.5989787579</x>
+                                  <x>-1.6031194925</x>
                                   <y>0.2502346635</y>
                                 </vector>
                               </point>
@@ -10317,7 +10310,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-1.3336465359</x>
+                                  <x>-1.3377872705</x>
                                   <y>0.2502346337</y>
                                 </vector>
                               </point>
@@ -10363,13 +10356,13 @@
                         <real value="1.0000000000"/>
                       </param>
                       <param name="blend_method">
-                        <integer value="13" guid="1BD34FAF006CEADAD08BBFFB1E606811"/>
+                        <integer value="13" guid="D675665B11B526CED3000E92A32A9B72"/>
                       </param>
                       <param name="color">
-                        <color guid="1E089AD5CBA69A08BB8D5E5FCF2F8342">
-                          <r>0.247059</r>
-                          <g>0.258824</g>
-                          <b>0.235294</b>
+                        <color guid="D3AEB321DA7F561CB806EF3672657021">
+                          <r>0.858824</r>
+                          <g>0.858824</g>
+                          <b>0.843137</b>
                           <a>1.000000</a>
                         </color>
                       </param>
@@ -10400,7 +10393,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-1.5989787579</x>
+                                  <x>-1.6031194925</x>
                                   <y>0.2502346635</y>
                                 </vector>
                               </point>
@@ -10439,7 +10432,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-1.3336465359</x>
+                                  <x>-1.3377872705</x>
                                   <y>0.2502346337</y>
                                 </vector>
                               </point>
@@ -10508,16 +10501,9 @@
                       <param name="blend_method">
                         <integer value="0"/>
                       </param>
-                      <param name="color">
-                        <color>
-                          <r>0.086274</r>
-                          <g>0.090196</g>
-                          <b>0.082353</b>
-                          <a>1.000000</a>
-                        </color>
-                      </param>
+                      <param name="color" use=":outlinecolor"/>
                       <param name="origin">
-                        <vector guid="12C2B3309503E80F26E1DA4F337FB733">
+                        <vector guid="DF649AC484DA241B256A6B268E354450">
                           <x>0.8508428335</x>
                           <y>-0.8819712400</y>
                         </vector>
@@ -10538,12 +10524,12 @@
                         <integer value="0"/>
                       </param>
                       <param name="bline">
-                        <bline type="bline_point" loop="true" guid="32BA77B0680B8A1FA4F4D613025B8D6A">
+                        <bline type="bline_point" loop="true" guid="FF1C5E4479D2460BA77F677ABF117E09">
                           <entry>
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-1.5989787579</x>
+                                  <x>-1.6031194925</x>
                                   <y>0.2502346635</y>
                                 </vector>
                               </point>
@@ -10582,7 +10568,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>-1.3336465359</x>
+                                  <x>-1.3377872705</x>
                                   <y>0.2502346337</y>
                                 </vector>
                               </point>
@@ -11861,7 +11847,7 @@
                 </param>
                 <param name="origin">
                   <vector>
-                    <x>0.0000000000</x>
+                    <x>-0.0234375000</x>
                     <y>0.0000000000</y>
                   </vector>
                 </param>
@@ -11990,7 +11976,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>0.9648420215</x>
+                                  <x>0.9606314898</x>
                                   <y>0.7171911001</y>
                                 </vector>
                               </point>
@@ -12029,7 +12015,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>0.9648420215</x>
+                                  <x>0.9606314898</x>
                                   <y>0.5150657296</y>
                                 </vector>
                               </point>
@@ -12352,14 +12338,14 @@
                       </param>
                       <param name="p1">
                         <vector>
-                          <x>-0.6708860993</x>
-                          <y>1.0000000000</y>
+                          <x>-0.3935483992</x>
+                          <y>-1.8016629219</y>
                         </vector>
                       </param>
                       <param name="p2">
                         <vector>
-                          <x>-0.6489796042</x>
-                          <y>-2.4892210960</y>
+                          <x>-0.4079999924</x>
+                          <y>1.0000000000</y>
                         </vector>
                       </param>
                       <param name="gradient" use=":gradient"/>
@@ -12382,9 +12368,9 @@
                       </param>
                       <param name="color">
                         <color guid="7675070944B4E250AE6850A55CC4610B">
-                          <r>0.247059</r>
-                          <g>0.258824</g>
-                          <b>0.235294</b>
+                          <r>0.858824</r>
+                          <g>0.858824</g>
+                          <b>0.843137</b>
                           <a>1.000000</a>
                         </color>
                       </param>
@@ -12493,7 +12479,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>0.9648420215</x>
+                                  <x>0.9606314898</x>
                                   <y>0.7171911001</y>
                                 </vector>
                               </point>
@@ -12532,7 +12518,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>0.9648420215</x>
+                                  <x>0.9606314898</x>
                                   <y>0.5150657296</y>
                                 </vector>
                               </point>
@@ -12874,14 +12860,7 @@
                       <param name="blend_method">
                         <integer value="0"/>
                       </param>
-                      <param name="color">
-                        <color>
-                          <r>0.086274</r>
-                          <g>0.090196</g>
-                          <b>0.082353</b>
-                          <a>1.000000</a>
-                        </color>
-                      </param>
+                      <param name="color" use=":outlinecolor"/>
                       <param name="origin">
                         <vector>
                           <x>0.0000000000</x>
@@ -12987,7 +12966,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>0.9648420215</x>
+                                  <x>0.9606314898</x>
                                   <y>0.7171911001</y>
                                 </vector>
                               </point>
@@ -13026,7 +13005,7 @@
                             <composite type="bline_point">
                               <point>
                                 <vector>
-                                  <x>0.9648420215</x>
+                                  <x>0.9606314898</x>
                                   <y>0.5150657296</y>
                                 </vector>
                               </point>
@@ -13337,7 +13316,7 @@
                         </bline>
                       </param>
                       <param name="width">
-                        <real value="0.0500000000"/>
+                        <real value="0.1000000000"/>
                       </param>
                       <param name="expand">
                         <real value="0.0000000000"/>
@@ -13492,9 +13471,9 @@
                       </param>
                       <param name="color">
                         <color guid="7675070944B4E250AE6850A55CC4610B">
-                          <r>0.247059</r>
-                          <g>0.258824</g>
-                          <b>0.235294</b>
+                          <r>0.858824</r>
+                          <g>0.858824</g>
+                          <b>0.843137</b>
                           <a>1.000000</a>
                         </color>
                       </param>
@@ -13633,14 +13612,7 @@
                       <param name="blend_method">
                         <integer value="0"/>
                       </param>
-                      <param name="color">
-                        <color>
-                          <r>0.086274</r>
-                          <g>0.090196</g>
-                          <b>0.082353</b>
-                          <a>1.000000</a>
-                        </color>
-                      </param>
+                      <param name="color" use=":outlinecolor"/>
                       <param name="origin">
                         <vector guid="7ABF2EEC1A1190573304D4B5A094557A">
                           <x>0.8508428335</x>
