@@ -30,7 +30,7 @@
       <b>0.082353</b>
       <a>1.000000</a>
     </color>
-    <real value="0.0781250000" id="outline.width"/>
+    <real value="0.0833333333" id="outline.width"/>
     <gradient id="gradient">
       <color pos="0.000000">
         <r>0.747016</r>
