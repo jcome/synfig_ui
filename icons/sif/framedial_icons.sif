@@ -30,7 +30,7 @@
       <b>0.082353</b>
       <a>1.000000</a>
     </color>
-    <real value="0.0666666667" id="outline.width"/>
+    <real value="0.0781250000" id="outline.width"/>
     <gradient id="gradient">
       <color pos="0.000000">
         <r>0.747016</r>
@@ -57,7 +57,7 @@
         <a>1.000000</a>
       </color>
     </gradient>
-    <real value="0.2000000000" id="outline1.width"/>
+    <real value="0.1875000000" id="outline1.width"/>
     <color id="outline1.color">
       <r>0.858824</r>
       <g>0.858824</g>
@@ -533,9 +533,7 @@
                     </entry>
                   </bline>
                 </param>
-                <param name="width">
-                  <real value="0.2666666667"/>
-                </param>
+                <param name="width" use=":outline1.width"/>
                 <param name="expand">
                   <real value="0.0000000000"/>
                 </param>
@@ -747,9 +745,7 @@
                     </entry>
                   </bline>
                 </param>
-                <param name="width">
-                  <real value="0.0666666667"/>
-                </param>
+                <param name="width" use=":outline.width"/>
                 <param name="expand">
                   <real value="0.0000000000"/>
                 </param>
@@ -1159,9 +1155,7 @@
                     </entry>
                   </bline>
                 </param>
-                <param name="width">
-                  <real value="0.2666666667"/>
-                </param>
+                <param name="width" use=":outline1.width"/>
                 <param name="expand">
                   <real value="0.0000000000"/>
                 </param>
@@ -1334,9 +1328,7 @@
                     </entry>
                   </bline>
                 </param>
-                <param name="width">
-                  <real value="0.0666666667"/>
-                </param>
+                <param name="width" use=":outline.width"/>
                 <param name="expand">
                   <real value="0.0000000000"/>
                 </param>
@@ -3625,9 +3617,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.2000000000" guid="BD26C2F905DE2F94EB56FD597A3D5085"/>
-                      </param>
+                      <param name="width" use=":outline1.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -3800,9 +3790,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.0666666667" guid="E4B84FA3BC15C6C31628389738039DC6"/>
-                      </param>
+                      <param name="width" use=":outline.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -4202,9 +4190,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.2000000000" guid="BD26C2F905DE2F94EB56FD597A3D5085"/>
-                      </param>
+                      <param name="width" use=":outline1.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -4377,9 +4363,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.0666666667" guid="E4B84FA3BC15C6C31628389738039DC6"/>
-                      </param>
+                      <param name="width" use=":outline.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -4857,9 +4841,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.2000000000" guid="BD26C2F905DE2F94EB56FD597A3D5085"/>
-                      </param>
+                      <param name="width" use=":outline1.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -5071,9 +5053,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.0666666667" guid="E4B84FA3BC15C6C31628389738039DC6"/>
-                      </param>
+                      <param name="width" use=":outline.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -5519,9 +5499,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.2000000000" guid="F5BDAA8B57981685FE3769000C7A4AC1"/>
-                      </param>
+                      <param name="width" use=":outline1.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -5694,9 +5672,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.0666666667"/>
-                      </param>
+                      <param name="width" use=":outline.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -6096,9 +6072,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.2000000000" guid="F5BDAA8B57981685FE3769000C7A4AC1"/>
-                      </param>
+                      <param name="width" use=":outline1.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -6271,9 +6245,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.0666666667"/>
-                      </param>
+                      <param name="width" use=":outline.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -6797,9 +6769,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.2000000000" guid="4002421ADA7A9EEF137F6EC52CAE6B7D"/>
-                      </param>
+                      <param name="width" use=":outline1.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -6972,9 +6942,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.0666666667"/>
-                      </param>
+                      <param name="width" use=":outline.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -7374,9 +7342,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.2000000000" guid="4002421ADA7A9EEF137F6EC52CAE6B7D"/>
-                      </param>
+                      <param name="width" use=":outline1.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -7549,9 +7515,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.0666666667"/>
-                      </param>
+                      <param name="width" use=":outline.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -7997,9 +7961,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.2000000000" guid="466FAAAD25ADD428199ECDAE5A97986D"/>
-                      </param>
+                      <param name="width" use=":outline1.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -8172,9 +8134,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.0666666667" guid="D83EAED29829007CDF718AC8EBAF1063"/>
-                      </param>
+                      <param name="width" use=":outline.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -8574,9 +8534,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.2000000000" guid="466FAAAD25ADD428199ECDAE5A97986D"/>
-                      </param>
+                      <param name="width" use=":outline1.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -8749,9 +8707,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.0666666667" guid="D83EAED29829007CDF718AC8EBAF1063"/>
-                      </param>
+                      <param name="width" use=":outline.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -10269,9 +10225,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.0666666667"/>
-                      </param>
+                      <param name="width" use=":outline.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -11115,9 +11069,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.2000000000" guid="AC923560791DFD47F2D12E098831B7A4"/>
-                      </param>
+                      <param name="width" use=":outline1.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -11290,9 +11242,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.0666666667" guid="7764ABA45A1A7A30A4936940CAF6494E"/>
-                      </param>
+                      <param name="width" use=":outline.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -11692,9 +11642,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.2000000000" guid="AC923560791DFD47F2D12E098831B7A4"/>
-                      </param>
+                      <param name="width" use=":outline1.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -11867,9 +11815,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.0666666667" guid="7764ABA45A1A7A30A4936940CAF6494E"/>
-                      </param>
+                      <param name="width" use=":outline.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
@@ -13387,9 +13333,7 @@
                           </entry>
                         </bline>
                       </param>
-                      <param name="width">
-                        <real value="0.0666666667"/>
-                      </param>
+                      <param name="width" use=":outline.width"/>
                       <param name="expand">
                         <real value="0.0000000000"/>
                       </param>
