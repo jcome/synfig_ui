@@ -43,17 +43,26 @@ TODO
 [ ] Low Res				
 [ ] Quality (lower is better)		
 [ ] Past/Future Onion skins		
-[ ] Shows onion skin when enable	
-[x] Shwos the Render Settings Dialog    SEE http://synfig.org/forums/viewtopic.php?f=15&t=2895&sid=45d99fe4735cfa08650684ace2b814d2	
-[x] Shows the Preview Settings Dialog	SEE http://synfig.org/forums/viewtopic.php?f=15&t=2895&sid=45d99fe4735cfa08650684ace2b814d2
-[x] Previous/Next KeyFrame		MERGE TO FRAMEDIAL ALREADY	
-[x] (non icon issue but a tool tip issue)The KeyFrame vs Kyeframe capital F, MEMTIONED IN THE FORUM AND ADVICED THAT WE CAN FOLLOW OSX HIG OR GNOME HIG
-[x] All/Past/Future Keyframe Locked  			SEE  http://synfig.org/forums/viewtopic.php?f=15&t=2866&sid=45d99fe4735cfa08650684ace2b814d2
-[-] Animate Mode On/Off					SEE  http://synfig.org/forums/viewtopic.php?f=15&t=2866&sid=45d99fe4735cfa08650684ace2b814d2
+[-] Shows onion skin when enable	
+[x] Shwos the Render Settings Dialog    
+	SEE http://synfig.org/forums/viewtopic.php?f=15&t=2895&sid=45d99fe4735cfa08650684ace2b814d2	
+[x] Shows the Preview Settings Dialog	
+	SEE http://synfig.org/forums/viewtopic.php?f=15&t=2895&sid=45d99fe4735cfa08650684ace2b814d2
+[x] Previous/Next KeyFrame		
+	MERGED INTO FRAMEDIAL ALREADY	
+[x] (non icon issue but a tool tip issue)The KeyFrame vs Kyeframe capital F, 
+	MEMTIONED IN THE FORUM AND ADVICED THAT WE CAN FOLLOW OSX HIG OR GNOME HIG
+[x] All/Past/Future Keyframe Locked  			
+	SEE  http://synfig.org/forums/viewtopic.php?f=15&t=2866&sid=45d99fe4735cfa08650684ace2b814d2
+[x] Animate Mode On/Off					
+	SEE  http://synfig.org/forums/viewtopic.php?f=15&t=2866&sid=45d99fe4735cfa08650684ace2b814d2
 [ ] Refresh / Stop: do we realy need them?
 [ ] progress bar: how about spin instead?
-[x] Animate Mode On/Off size of the button is not the same as keyframe lock button
+[x] Animate Mode On/Off size of the button is not the same as keyframe lock button 
+	FIXED BY REWORKED ANIMATE AND KEYFROM LOCK BUTTONS, THE ICONS ARE FINISHED AS WELL.
+	SEE http://www.synfig.org/forums/viewtopic.php?f=15&t=2866
 [x] Framedial (seek to begin/end, prev frame/keyframe, next frame/keyrame, play/stop)
+	SEE http://www.synfig.org/forums/viewtopic.php?f=15&t=2966
 
 ============== Preview Window ============
 
