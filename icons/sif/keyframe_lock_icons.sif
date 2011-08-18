@@ -14,6 +14,16 @@
   <keyframe time="1f"/>
   <keyframe time="2f"/>
   <keyframe time="3f"/>
+  <defs>
+    <vector id="right_lock.position">
+      <x>0.1002575904</x>
+      <y>0.0674499720</y>
+    </vector>
+    <vector id="left_lock.position">
+      <x>-0.1093750000</x>
+      <y>0.0674499720</y>
+    </vector>
+  </defs>
   <layer type="PasteCanvas" active="true" version="0.1" desc="keyframe locks - 0f,1f,2f,3f">
     <param name="z_depth">
       <real value="0.0000000000"/>
@@ -39,13 +49,13 @@
           <param name="amount">
             <animated type="real">
               <waypoint time="0s" before="auto" after="auto">
-                <real value="0.0000000000" guid="F41553CC78FFE5BCE3A3314DB6DFCBD4"/>
+                <real value="0.0000000000"/>
               </waypoint>
               <waypoint time="0.04166667s" before="auto" after="auto">
-                <real value="0.0000000000" guid="1CF901FE179FC8FCD8210F811BDF5CA8"/>
+                <real value="0.0000000000"/>
               </waypoint>
               <waypoint time="0.08333334s" before="auto" after="auto">
-                <real value="1.0000000000" guid="13D0DDEE031B18940F712F209E80FA13"/>
+                <real value="1.0000000000"/>
               </waypoint>
             </animated>
           </param>
@@ -1683,25 +1693,20 @@
                 <param name="amount">
                   <animated type="real">
                     <waypoint time="0.04166667s" before="auto" after="auto">
-                      <real value="1.0000000000" guid="6E27406449F2C54B55D244E4AD8D5036"/>
+                      <real value="1.0000000000"/>
                     </waypoint>
                     <waypoint time="0.08333334s" before="auto" after="auto">
-                      <real value="0.0000000000" guid="90FB2B03BEB1162930F07C53A8C57AE4"/>
+                      <real value="0.0000000000"/>
                     </waypoint>
                     <waypoint time="0.125s" before="auto" after="auto">
-                      <real value="1.0000000000" guid="48D2CBC611779CEEFB62C68A93C5A0AA"/>
+                      <real value="1.0000000000"/>
                     </waypoint>
                   </animated>
                 </param>
                 <param name="blend_method">
                   <integer value="0"/>
                 </param>
-                <param name="origin">
-                  <vector>
-                    <x>0.1002575904</x>
-                    <y>0.0674499720</y>
-                  </vector>
-                </param>
+                <param name="origin" use=":right_lock.position"/>
                 <param name="canvas">
                   <canvas>
                     <layer type="outline" active="true" version="0.2" desc="rect6751">
@@ -2839,22 +2844,17 @@
                 <param name="amount">
                   <animated type="real">
                     <waypoint time="0.08333334s" before="auto" after="auto">
-                      <real value="1.0000000000" guid="2ECA8A8C015F9B992A2BB5E86848895F"/>
+                      <real value="1.0000000000"/>
                     </waypoint>
                     <waypoint time="0.125s" before="auto" after="auto">
-                      <real value="0.0000000000" guid="243B1A8A0E19F0E454C4D5BEA2D867D4"/>
+                      <real value="0.0000000000"/>
                     </waypoint>
                   </animated>
                 </param>
                 <param name="blend_method">
                   <integer value="0"/>
                 </param>
-                <param name="origin">
-                  <vector>
-                    <x>0.0937500000</x>
-                    <y>0.0674499720</y>
-                  </vector>
-                </param>
+                <param name="origin" use=":right_lock.position"/>
                 <param name="canvas">
                   <canvas>
                     <layer type="outline" active="true" version="0.2" desc="rect6751">
@@ -4010,13 +4010,13 @@
           <param name="amount">
             <animated type="real">
               <waypoint time="0.04166667s" before="auto" after="auto">
-                <real value="1.0000000000" guid="D1EB65D469692FC515762F6E096731AF"/>
+                <real value="1.0000000000"/>
               </waypoint>
               <waypoint time="0.08333334s" before="auto" after="auto">
-                <real value="0.0000000000" guid="7DB812DB1C96FBEDF38A1E49CCBFA789"/>
+                <real value="0.0000000000"/>
               </waypoint>
               <waypoint time="0.125s" before="auto" after="auto">
-                <real value="0.0000000000" guid="B03A7BE279EC244A30CC62DF2ABAE766"/>
+                <real value="0.0000000000"/>
               </waypoint>
             </animated>
           </param>
@@ -5654,10 +5654,10 @@
                 <param name="amount">
                   <animated type="real">
                     <waypoint time="0s" before="auto" after="auto">
-                      <real value="0.0000000000" guid="349C5098965B6F86D9B9FB6BE1B4FA15"/>
+                      <real value="0.0000000000"/>
                     </waypoint>
                     <waypoint time="0.04166667s" before="auto" after="auto">
-                      <real value="1.0000000000" guid="C742AD7FDEBE1788FAFEE08CAEDC56FB"/>
+                      <real value="1.0000000000"/>
                     </waypoint>
                   </animated>
                 </param>
@@ -6807,25 +6807,20 @@
                 <param name="amount">
                   <animated type="real">
                     <waypoint time="0s" before="auto" after="auto">
-                      <real value="1.0000000000" guid="47D2BD7175959CF096F3558D4C23D14B"/>
+                      <real value="1.0000000000"/>
                     </waypoint>
                     <waypoint time="0.04166667s" before="auto" after="auto">
-                      <real value="0.0000000000" guid="410E4F2D8C64A99D7091307E8C3F6456"/>
+                      <real value="0.0000000000"/>
                     </waypoint>
                     <waypoint time="0.08333334s" before="auto" after="auto">
-                      <real value="1.0000000000" guid="7D3EBCC7D14124297822B6010769007B"/>
+                      <real value="1.0000000000"/>
                     </waypoint>
                   </animated>
                 </param>
                 <param name="blend_method">
                   <integer value="0"/>
                 </param>
-                <param name="origin">
-                  <vector>
-                    <x>-0.1093750000</x>
-                    <y>0.0674499720</y>
-                  </vector>
-                </param>
+                <param name="origin" use=":left_lock.position"/>
                 <param name="canvas">
                   <canvas>
                     <layer type="outline" active="true" version="0.2" desc="rect6751">
