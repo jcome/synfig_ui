@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="preview window.svg"
+   sodipodi:docname="preview_window.svg"
    style="display:inline">
   <sodipodi:namedview
      id="base"
@@ -27,9 +27,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.77994792"
      inkscape:cx="512"
-     inkscape:cy="384"
+     inkscape:cy="386.11958"
      inkscape:document-units="px"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer15"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -1242,7 +1242,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2200,14 +2200,14 @@
            y="349.86768"
            id="text6467"
            sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan6469"
-             x="267.10587"
-             y="349.86768">The &quot;Preview option window&quot; is merged, </tspan><tspan
              id="tspan6473"
              sodipodi:role="line"
              x="267.10587"
-             y="376.8457">So we have only one window workflow now.</tspan><tspan
+             y="349.86768">The &quot;Preview option window&quot; is merged, So </tspan><tspan
+             sodipodi:role="line"
+             x="267.10587"
+             y="376.8457"
+             id="tspan3706">we have an only one window workflow now.</tspan><tspan
              sodipodi:role="line"
              x="267.10587"
              y="403.82376"
