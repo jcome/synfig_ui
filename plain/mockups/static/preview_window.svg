@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1500018"
-     inkscape:cx="366.94491"
-     inkscape:cy="250.08347"
+     inkscape:zoom="1.8754091"
+     inkscape:cx="612.35392"
+     inkscape:cy="146.6611"
      inkscape:document-units="px"
-     inkscape:current-layer="layer18"
+     inkscape:current-layer="layer15"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -2574,6 +2574,22 @@
        y1="533.617"
        x2="377.44135"
        y2="652.85571" />
+    <filter
+       inkscape:collect="always"
+       id="filter4866">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.6162816"
+         id="feGaussianBlur4868" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4874">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.5189726"
+         id="feGaussianBlur4876" />
+    </filter>
   </defs>
   <metadata
      id="metadata7">
@@ -2583,7 +2599,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2601,6 +2617,13 @@
        inkscape:label="window"
        id="layer9"
        inkscape:groupmode="layer">
+      <rect
+         style="fill:#babdb6;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4874)"
+         id="rect4836"
+         width="671.35858"
+         height="432.43594"
+         x="-78.753876"
+         y="344.65454" />
       <rect
          y="344.55576"
          x="-78.852676"
@@ -2642,7 +2665,7 @@
          style="display:inline">
         <path
            transform="matrix(1.6107516,0,0,1.6112765,-781.49888,-199.7521)"
-           d="m 986.97456,721.99042 a 1.2310253,1.2310253 0 1 1 -2.46206,0 1.2310253,1.2310253 0 1 1 2.46206,0 z"
+           d="m 986.97456,721.99042 c 0,0.67987 -0.55115,1.23102 -1.23103,1.23102 -0.67988,0 -1.23103,-0.55115 -1.23103,-1.23102 0,-0.67988 0.55115,-1.23103 1.23103,-1.23103 0.67988,0 1.23103,0.55115 1.23103,1.23103 z"
            sodipodi:ry="1.2310253"
            sodipodi:rx="1.2310253"
            sodipodi:cy="721.99042"
@@ -2659,10 +2682,10 @@
            sodipodi:cy="721.99042"
            sodipodi:rx="1.2310253"
            sodipodi:ry="1.2310253"
-           d="m 986.97456,721.99042 a 1.2310253,1.2310253 0 1 1 -2.46206,0 1.2310253,1.2310253 0 1 1 2.46206,0 z" />
+           d="m 986.97456,721.99042 c 0,0.67987 -0.55115,1.23102 -1.23103,1.23102 -0.67988,0 -1.23103,-0.55115 -1.23103,-1.23102 0,-0.67988 0.55115,-1.23103 1.23103,-1.23103 0.67988,0 1.23103,0.55115 1.23103,1.23103 z" />
         <path
            transform="matrix(1.6107516,0,0,1.6112765,-767.93622,-199.7521)"
-           d="m 986.97456,721.99042 a 1.2310253,1.2310253 0 1 1 -2.46206,0 1.2310253,1.2310253 0 1 1 2.46206,0 z"
+           d="m 986.97456,721.99042 c 0,0.67987 -0.55115,1.23102 -1.23103,1.23102 -0.67988,0 -1.23103,-0.55115 -1.23103,-1.23102 0,-0.67988 0.55115,-1.23103 1.23103,-1.23103 0.67988,0 1.23103,0.55115 1.23103,1.23103 z"
            sodipodi:ry="1.2310253"
            sodipodi:rx="1.2310253"
            sodipodi:cy="721.99042"
@@ -2679,10 +2702,10 @@
            sodipodi:cy="721.99042"
            sodipodi:rx="1.2310253"
            sodipodi:ry="1.2310253"
-           d="m 986.97456,721.99042 a 1.2310253,1.2310253 0 1 1 -2.46206,0 1.2310253,1.2310253 0 1 1 2.46206,0 z" />
+           d="m 986.97456,721.99042 c 0,0.67987 -0.55115,1.23102 -1.23103,1.23102 -0.67988,0 -1.23103,-0.55115 -1.23103,-1.23102 0,-0.67988 0.55115,-1.23103 1.23103,-1.23103 0.67988,0 1.23103,0.55115 1.23103,1.23103 z" />
         <path
            transform="matrix(1.6107516,0,0,1.6112765,-767.93622,-213.42363)"
-           d="m 986.97456,721.99042 a 1.2310253,1.2310253 0 1 1 -2.46206,0 1.2310253,1.2310253 0 1 1 2.46206,0 z"
+           d="m 986.97456,721.99042 c 0,0.67987 -0.55115,1.23102 -1.23103,1.23102 -0.67988,0 -1.23103,-0.55115 -1.23103,-1.23102 0,-0.67988 0.55115,-1.23103 1.23103,-1.23103 0.67988,0 1.23103,0.55115 1.23103,1.23103 z"
            sodipodi:ry="1.2310253"
            sodipodi:rx="1.2310253"
            sodipodi:cy="721.99042"
@@ -2699,7 +2722,7 @@
            sodipodi:cy="721.99042"
            sodipodi:rx="1.2310253"
            sodipodi:ry="1.2310253"
-           d="m 986.97456,721.99042 a 1.2310253,1.2310253 0 1 1 -2.46206,0 1.2310253,1.2310253 0 1 1 2.46206,0 z" />
+           d="m 986.97456,721.99042 c 0,0.67987 -0.55115,1.23102 -1.23103,1.23102 -0.67988,0 -1.23103,-0.55115 -1.23103,-1.23102 0,-0.67988 0.55115,-1.23103 1.23103,-1.23103 0.67988,0 1.23103,0.55115 1.23103,1.23103 z" />
       </g>
     </g>
     <g
@@ -2785,6 +2808,12 @@
        id="layer15"
        inkscape:groupmode="layer"
        style="display:inline">
+      <path
+         sodipodi:nodetypes="scccccsssssss"
+         inkscape:connector-curvature="0"
+         id="path4010"
+         d="m 316.82682,788.29359 45.58491,0 23.72792,-20.81983 -6.52406,11.76589 -5.02033,9.05394 259.98251,0 c 4.21522,0 7.60872,3.45461 7.60872,7.74577 l 0,192.3484 c 0,4.29116 -3.3935,7.74577 -7.60872,7.74577 l -317.75095,0 c -4.21523,0 -7.60872,-3.45461 -7.60872,-7.74577 l 0,-192.3484 c 0,-4.29116 3.39349,-7.74577 7.60872,-7.74577 z"
+         style="fill:#babdb6;stroke:none;stroke-width:3.09522033000000008;stroke-opacity:1;display:inline;filter:url(#filter4866)" />
       <g
          id="g4315"
          transform="translate(198.27045,37.95993)">
@@ -2832,7 +2861,7 @@
          id="g6613" />
       <path
          style="fill:#e9b96e;stroke:#888a85;stroke-width:3;stroke-opacity:1;display:inline"
-         d="m 316.61126,787.42615 44.57872,0 23.20418,-20 -6.38006,11.30258 -4.90951,8.69742 226.24394,0 c 4.12218,0 7.44077,3.31858 7.44077,7.44077 l 0,184.77426 c 0,4.12219 -3.31859,7.44077 -7.44077,7.44077 l -282.73727,0 c -4.12218,0 -7.44077,-3.31858 -7.44077,-7.44077 l 0,-184.77426 c 0,-4.12219 3.31859,-7.44077 7.44077,-7.44077 z"
+         d="m 316.61126,787.42615 44.57872,0 23.20418,-20 -6.38006,11.30258 -4.90951,8.69742 254.24394,0 c 4.12218,0 7.44077,3.31858 7.44077,7.44077 l 0,184.77426 c 0,4.12219 -3.31859,7.44077 -7.44077,7.44077 l -310.73727,0 c -4.12218,0 -7.44077,-3.31858 -7.44077,-7.44077 l 0,-184.77426 c 0,-4.12219 3.31859,-7.44077 7.44077,-7.44077 z"
          id="rect6141"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="scccccsssssss" />
@@ -3101,37 +3130,46 @@
       <text
          xml:space="preserve"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-         x="488.42249"
+         x="482.42249"
          y="806.87769"
          id="text6301"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan6303"
-           x="488.42249"
+           x="482.42249"
            y="806.87769"
-           style="font-size:7.5px;fill:#2e3436">normal status, </tspan><tspan
+           style="font-size:7.5px;fill:#2e3436">normal status, non of frames rendered, </tspan><tspan
            sodipodi:role="line"
-           x="488.42249"
+           x="482.42249"
            y="816.25269"
            style="font-size:7.5px;fill:#2e3436"
-           id="tspan6305">[Play] is disabled.</tspan></text>
+           id="tspan6305"><tspan
+   style="font-weight:bold"
+   id="tspan3971">[Play]</tspan> is disabled.</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text6307"
          y="844.87769"
-         x="488.42249"
+         x="482.42249"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
          xml:space="preserve"><tspan
-           style="font-size:7.5px;fill:#2e3436"
-           y="844.87769"
-           x="488.42249"
-           id="tspan6309"
-           sodipodi:role="line">rendering started,</tspan><tspan
            id="tspan6311"
            style="font-size:7.5px;fill:#2e3436"
+           y="844.87769"
+           x="482.42249"
+           sodipodi:role="line">rendering started, <tspan
+   style="font-weight:bold"
+   id="tspan3973">[Play]</tspan> is enabled</tspan><tspan
+           style="font-size:7.5px;fill:#2e3436"
            y="854.25269"
-           x="488.42249"
-           sodipodi:role="line">[Play] auto enabled.</tspan></text>
+           x="482.42249"
+           sodipodi:role="line"
+           id="tspan4005">automatically, We can start to play </tspan><tspan
+           style="font-size:7.5px;fill:#2e3436"
+           y="863.62769"
+           x="482.42249"
+           sodipodi:role="line"
+           id="tspan4007">during renendering in process.</tspan></text>
       <g
          style="display:inline"
          id="g6313"
@@ -3258,25 +3296,25 @@
       <text
          xml:space="preserve"
          style="font-size:29.94053078px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-         x="488.56122"
+         x="482.56122"
          y="880.96698"
          id="text6491"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           x="488.56122"
+           x="482.56122"
            y="880.96698"
            style="font-size:7.69999981px;fill:#2e3436"
-           id="tspan6495">rendering finished,</tspan><tspan
+           id="tspan6499">rendering finished, render button pups</tspan><tspan
            sodipodi:role="line"
-           x="488.56122"
+           x="482.56122"
            y="890.59198"
            style="font-size:7.69999981px;fill:#2e3436"
-           id="tspan6499">button auto pup-up. </tspan><tspan
+           id="tspan3867">up automatically. Click it again to </tspan><tspan
            sodipodi:role="line"
-           x="488.56122"
+           x="482.56122"
            y="900.21698"
            style="font-size:7.69999981px;fill:#2e3436"
-           id="tspan3867">click it again to re-render.</tspan></text>
+           id="tspan3981">re-render the frames.</tspan></text>
       <g
          id="g6850"
          style="opacity:0.66804983;fill:url(#linearGradient6861-6);fill-opacity:1;display:inline"
@@ -3456,20 +3494,24 @@
       <text
          xml:space="preserve"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-         x="488.42249"
+         x="482.42249"
          y="920.87769"
          id="text6626"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan6628"
-           x="488.42249"
+           x="482.42249"
            y="920.87769"
-           style="font-size:7.5px;fill:#2e3436">once [Erase] clicked,</tspan><tspan
+           style="font-size:7.5px;fill:#2e3436">once <tspan
+   style="font-weight:bold"
+   id="tspan3983">[Erase]</tspan> clicked, all renendered</tspan><tspan
            sodipodi:role="line"
-           x="488.42249"
+           x="482.42249"
            y="930.25269"
            style="font-size:7.5px;fill:#2e3436"
-           id="tspan6630">[Play] is disabled.</tspan></text>
+           id="tspan6630">frames are deleted, <tspan
+   style="font-weight:bold"
+   id="tspan3985">[Play] </tspan>is disabled.</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:19.16290092px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -3645,24 +3687,26 @@
          sodipodi:linespacing="125%"
          id="text4723"
          y="956.87769"
-         x="488.42249"
+         x="482.42249"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
          xml:space="preserve"><tspan
-           style="font-size:7.5px;fill:#2e3436"
-           y="956.87769"
-           x="488.42249"
-           id="tspan4725"
-           sodipodi:role="line">When playing</tspan><tspan
            id="tspan4727"
            style="font-size:7.5px;fill:#2e3436"
+           y="956.87769"
+           x="482.42249"
+           sodipodi:role="line">When playing, button toggled,icon of </tspan><tspan
+           style="font-size:7.5px;fill:#2e3436"
            y="966.25269"
-           x="488.42249"
-           sodipodi:role="line">[Play] button icon doesn't </tspan><tspan
+           x="482.42249"
+           sodipodi:role="line"
+           id="tspan4797"><tspan
+   style="font-weight:bold"
+   id="tspan3995">[Play]</tspan> button doesn't  change to a stop</tspan><tspan
            style="font-size:7.5px;fill:#2e3436"
            y="975.62769"
-           x="488.42249"
+           x="482.42249"
            sodipodi:role="line"
-           id="tspan4797">change to a stop symbol.</tspan></text>
+           id="tspan4001">symbol. Using toggling instead.</tspan></text>
       <text
          transform="scale(1.0327077,0.96832821)"
          sodipodi:linespacing="125%"
@@ -4704,7 +4748,7 @@
          style="display:inline">
         <path
            transform="matrix(0.862387,0,0,0.862387,59.528243,76.065004)"
-           d="m 31.035046,703.97998 a 12.671415,12.671415 0 1 1 -25.342831,0 12.671415,12.671415 0 1 1 25.342831,0 z"
+           d="m 31.035046,703.97998 c 0,6.99823 -5.673186,12.67142 -12.671416,12.67142 -6.998229,0 -12.671415,-5.67319 -12.671415,-12.67142 0,-6.99823 5.673186,-12.67141 12.671415,-12.67141 6.99823,0 12.671416,5.67318 12.671416,12.67141 z"
            sodipodi:ry="12.671415"
            sodipodi:rx="12.671415"
            sodipodi:cy="703.97998"
@@ -4748,7 +4792,7 @@
      inkscape:groupmode="layer"
      id="layer17"
      inkscape:label="sound track"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,-68)">
     <rect
        ry="0"
@@ -4787,7 +4831,7 @@
            sodipodi:end="6.7674215"
            sodipodi:start="5.7391671"
            transform="matrix(1.2635118,0,0,1.3462648,7.9722833,-199.11308)"
-           d="m 55.359338,629.22255 a 4.2963042,5.9552736 0 0 1 0.126289,5.85469"
+           d="m 55.359338,629.22255 c 0.779411,1.78602 0.827326,4.00731 0.126289,5.85469"
            sodipodi:ry="5.9552736"
            sodipodi:rx="4.2963042"
            sodipodi:cy="632.30487"
@@ -4803,7 +4847,7 @@
            sodipodi:cy="632.30487"
            sodipodi:rx="4.2963042"
            sodipodi:ry="5.9552736"
-           d="m 54.281032,627.56155 a 4.2963042,5.9552736 0 0 1 0.569888,8.76651"
+           d="m 54.281032,627.56155 c 1.889899,1.98871 2.258905,5.72452 0.824198,8.34419 -0.08003,0.14613 -0.164892,0.28705 -0.25431,0.42232"
            transform="matrix(0.84158685,0,0,1.3877321,33.751408,-225.04195)"
            sodipodi:start="5.3617172"
            sodipodi:end="7.0249205"
@@ -5478,7 +5522,7 @@
              sodipodi:cy="339.70218"
              sodipodi:rx="4.4583879"
              sodipodi:ry="4.4583879"
-             d="m 951.12276,339.70218 a 4.4583879,4.4583879 0 1 1 -8.91678,0 4.4583879,4.4583879 0 1 1 8.91678,0 z"
+             d="m 951.12276,339.70218 c 0,2.4623 -1.99609,4.45839 -4.45839,4.45839 -2.4623,0 -4.45839,-1.99609 -4.45839,-4.45839 0,-2.4623 1.99609,-4.45839 4.45839,-4.45839 2.4623,0 4.45839,1.99609 4.45839,4.45839 z"
              transform="translate(0,308.2677)" />
         </g>
       </g>
@@ -5635,7 +5679,7 @@
              sodipodi:cy="520.0863"
              sodipodi:rx="23.44425"
              sodipodi:ry="23.44425"
-             d="m -78.916307,520.0863 a 23.44425,23.44425 0 1 1 -46.888503,0 23.44425,23.44425 0 1 1 46.888503,0 z"
+             d="m -78.916307,520.0863 c 0,12.94791 -10.496349,23.44425 -23.444253,23.44425 -12.9479,0 -23.44425,-10.49634 -23.44425,-23.44425 0,-12.9479 10.49635,-23.44425 23.44425,-23.44425 12.947904,0 23.444253,10.49635 23.444253,23.44425 z"
              transform="matrix(1.2297983,0,0,1.2297983,-44.104011,187.31068)" />
           <g
              transform="translate(0.75433216,-0.10847502)"
