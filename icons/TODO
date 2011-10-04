@@ -71,4 +71,5 @@ TODO
 [-] Stop					
 [-] Halt Render				
 [-] Re-Preview				
-[-] Erase All			
+[-] Erase All	
+[ ] Pause instead of Stop icon, since the Stop is not really stop but pause.		
