@@ -2,25 +2,31 @@
 <canvas version="0.8" width="128" height="128" xres="2834.645752" yres="2834.645752" view-box="-1.000000 1.000000 1.000000 -1.000000" antialias="1" fps="24.000" begin-time="0f" end-time="13f" bgcolor="0.500000 0.500000 0.500000 1.000000">
   <name>Synfig Studio : Render Icons</name>
   <desc>Placed in the Public Domain in 2011 by Yu Chen (jcome)</desc>
-  <meta name="grid_show" content="0"/>
+  <meta name="grid_show" content="1"/>
   <meta name="grid_size" content="0.250000 0.250000"/>
   <meta name="grid_snap" content="0"/>
-  <meta name="guide_show" content="0"/>
+  <meta name="guide_show" content="1"/>
   <meta name="guide_snap" content="0"/>
-  <meta name="guide_x" content="0.515793 0.544433 0.708305"/>
+  <meta name="guide_x" content="0.201408 0.515793 0.544433 0.708305"/>
   <meta name="onion_skin" content="0"/>
   <keyframe time="0f">open</keyframe>
   <keyframe time="1f">closed</keyframe>
   <defs>
-    <animated type="vector" id="scroll" guid="07ECF7FE404DBA55646B8CE87594DF97">
+    <animated type="vector" id="scroll" guid="2D0ADB060DA2AF7E88C182D930DF88AB">
       <waypoint time="0.04166667s" before="auto" after="auto">
-        <vector guid="AE9941614427F005E55A611317789DF6">
+        <vector guid="CB4F01A70D3514B0113AA5B8E8D01F32">
           <x>0.0000000000</x>
           <y>0.0000000000</y>
         </vector>
       </waypoint>
+      <waypoint time="0.29166666s" before="auto" after="auto">
+        <vector guid="33ED8A65F06B9F59E82D2E5EBC4086D2">
+          <x>0.2000000030</x>
+          <y>0.0000000000</y>
+        </vector>
+      </waypoint>
       <waypoint time="0.54166669s" before="auto" after="auto">
-        <vector guid="B9F2E366C55CA626F5019D55989C7578">
+        <vector guid="7BE1D8BB112DBB3650F1751610289F70">
           <x>0.4000000060</x>
           <y>0.0000000000</y>
         </vector>
