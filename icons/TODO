@@ -66,10 +66,11 @@ TODO
 
 ============== Preview Window ============
 
-[-] Toggle Looping				
-[-] Play					
-[-] Stop					
-[-] Halt Render				
-[-] Re-Preview				
-[-] Erase All	
-[ ] Pause instead of Stop icon, since the Stop is not really stop but pause.		
+[x] Toggle Looping				
+[x] Play					
+[x] Stop
+[x] Pause					
+[ ] Halt Render
+[x] Rendering				
+[ ] Re-Preview				
+[ ] Erase All			
