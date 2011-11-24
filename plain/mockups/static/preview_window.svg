@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98979962"
-     inkscape:cx="473.32812"
-     inkscape:cy="298.8125"
+     inkscape:zoom="1.9362051"
+     inkscape:cx="494.54454"
+     inkscape:cy="78.803829"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -5637,7 +5637,7 @@
     <rect
        style="fill:#fcaf3e;fill-opacity:1;stroke:none;display:inline"
        id="rect13021"
-       width="334.22742"
+       width="390.00662"
        height="68.95945"
        x="132.35934"
        y="471.1824" />
@@ -5672,7 +5672,11 @@
          x="145.43701"
          y="499.59756"
          style="font-size:15.31753635px;line-height:150%"
-         id="tspan11346">If no any frame is rendered, when press </tspan><tspan
+         id="tspan11346">If no any frame is rendered, when press <tspan
+   style="font-weight:bold"
+   id="tspan13294">[play]<tspan
+   style="font-weight:normal"
+   id="tspan13296">, </tspan></tspan></tspan><tspan
          sodipodi:role="line"
          x="145.43701"
          y="522.57385"
