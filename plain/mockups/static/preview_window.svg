@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99402502"
-     inkscape:cx="473.32813"
+     inkscape:zoom="1.0458063"
+     inkscape:cx="436.99253"
      inkscape:cy="298.8125"
      inkscape:document-units="px"
-     inkscape:current-layer="g6073"
+     inkscape:current-layer="layer4"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -3659,15 +3659,6 @@
          offset="1"
          id="stop6587-4-7" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       id="filter13174"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.40802687"
-         id="feGaussianBlur13176" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5898"
@@ -3703,7 +3694,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5702,12 +5693,12 @@
        id="rect13021"
        width="390.00662"
        height="68.95945"
-       x="132.35934"
+       x="100.35934"
        y="471.1824" />
     <g
        id="g11171"
        style="fill:#fcaf3e;stroke:#fcaf3e;stroke-opacity:1;display:inline"
-       transform="translate(-747.67096,-198.88589)">
+       transform="translate(-749.67096,-198.88589)">
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#fcaf3e;fill-opacity:1;stroke:#fcaf3e;stroke-width:1.06900001;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
          d="m 909.15625,636.28125 0,62.75 0,0.53125 0.5625,0 183.28125,0 0.5625,0 0,-0.53125 0,-60.15625 -1.0937,0 0,59.625 -182.2188,0 0,-62.21875 -1.09375,0 z"
@@ -5727,26 +5718,26 @@
     <text
        xml:space="preserve"
        style="font-size:61.27014542px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="145.43701"
+       x="113.43701"
        y="499.59756"
        id="text9303"
        sodipodi:linespacing="150%"><tspan
          sodipodi:role="line"
-         x="145.43701"
+         x="113.43701"
          y="499.59756"
          style="font-size:15.31753635px;line-height:150%"
          id="tspan11346">If there is no any frame rendered, press <tspan
    style="font-weight:bold"
    id="tspan13294">[play]</tspan>, </tspan><tspan
          sodipodi:role="line"
-         x="145.43701"
+         x="113.43701"
          y="522.57385"
          style="font-size:15.31753635px;line-height:150%"
          id="tspan13287"><tspan
    style="font-weight:bold;line-height:150%"
    id="tspan13289">[render] </tspan>will be enabled automatically.</tspan><tspan
          sodipodi:role="line"
-         x="145.43701"
+         x="113.43701"
          y="545.55017"
          style="font-size:15.31753635px"
          id="tspan11344" /></text>
@@ -5762,6 +5753,50 @@
          x="-85.061325"
          y="242.94193"
          style="font-size:15.74917984px">Popup Widget</tspan></text>
+    <path
+       style="fill:#fcaf3e;fill-opacity:1;stroke:none;display:inline"
+       d="m 505.68909,455.1824 36.04362,0 3.44174,16 225.83569,0 0,68.15958 -265.32105,0 z"
+       id="rect4417"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       sodipodi:linespacing="150%"
+       id="text4419"
+       y="499.59756"
+       x="515.08783"
+       style="font-size:61.27014542px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4421"
+         style="font-size:15.31753635px;line-height:150%"
+         y="499.59756"
+         x="515.08783"
+         sodipodi:role="line"><tspan
+   style="font-weight:bold"
+   id="tspan4437">[render] </tspan>has an animated icon</tspan><tspan
+         id="tspan4429"
+         style="font-size:15.31753635px"
+         y="522.57385"
+         x="515.08783"
+         sodipodi:role="line">indicating render process. </tspan><tspan
+         style="font-size:15.31753635px"
+         y="545.55017"
+         x="515.08783"
+         sodipodi:role="line"
+         id="tspan4435" /></text>
+    <image
+       y="503.79434"
+       x="737.20776"
+       id="image4560"
+       xlink:href="file:///home/jcome/synfig_ui/icons/png/rendering_icon.png"
+       height="23.596643"
+       width="23.596643" />
+    <image
+       y="457.63605"
+       x="512.85858"
+       id="image4622"
+       xlink:href="file:///home/jcome/synfig_ui/icons/png/render_options_icon.png"
+       height="23.596643"
+       width="23.596643" />
   </g>
   <g
      inkscape:groupmode="layer"
