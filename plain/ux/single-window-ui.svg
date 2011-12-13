@@ -2322,7 +2322,7 @@
        inkscape:export-ydpi="45.510212" />
     <g
        id="g13018"
-       transform="matrix(0.11632704,0,0,0.11632704,1185.4407,1065.2064)">
+       transform="matrix(0.16535333,0,0,0.16535333,1369.2321,1000.454)">
       <g
          inkscape:export-ydpi="45.510212"
          inkscape:export-xdpi="45.510212"
@@ -2592,16 +2592,16 @@
     <text
        xml:space="preserve"
        style="font-size:17.83041px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1277.0175"
-       y="1138.4027"
+       x="1271.7072"
+       y="1134.8625"
        id="text11191"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212"><tspan
          sodipodi:role="line"
-         x="1277.0175"
-         y="1138.4027"
+         x="1271.7072"
+         y="1134.8625"
          id="tspan13055">Synfig Studio UI Redesign</tspan></text>
     <text
        xml:space="preserve"
