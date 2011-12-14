@@ -17,8 +17,8 @@
    inkscape:version="0.48.1 r9760"
    sodipodi:docname="single-window-ui.svg"
    inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-   inkscape:export-xdpi="49.799301"
-   inkscape:export-ydpi="49.799301">
+   inkscape:export-xdpi="51.19899"
+   inkscape:export-ydpi="51.19899">
   <defs
      id="defs4">
     <linearGradient
@@ -255,7 +255,7 @@
      inkscape:cx="723.05078"
      inkscape:cy="484.90126"
      inkscape:document-units="px"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="g4100-2"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="844"
@@ -274,7 +274,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -829,25 +829,24 @@
     <g
        id="g4100-2"
        transform="matrix(0.82931889,0,0,0.82931889,5.561451,158.92103)">
-      <g
-         id="text4061-2"
-         style="font-size:14.3624115px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5c3566;fill-opacity:1;stroke:none;font-family:Sans">
-        <path
-           id="path4095-7"
-           style="font-size:32px;font-weight:bold;fill:#5c3566;-inkscape-font-specification:Sans Bold"
-           d="m 19.118957,921.06787 0,8.1875 8.15625,0 0,3.6875 -8.15625,0 0,8.1875 -3.71875,0 0,-8.1875 -8.15625,0 0,-3.6875 8.15625,0 0,-8.1875 3.71875,0"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="text4090-6"
-         style="font-size:14.3624115px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5c3566;fill-opacity:1;stroke:none;font-family:Sans">
-        <path
-           sodipodi:nodetypes="cccc"
-           inkscape:connector-curvature="0"
-           id="path4098-1"
-           style="font-size:32px;font-weight:bold;fill:#5c3566;-inkscape-font-specification:Sans Bold"
-           d="m 57.923756,929.25537 0,3.6875 -20.03125,0 0,-3.6875" />
-      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:48.23235321px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="6.3713326"
+         y="934.96729"
+         id="text5203"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5205"
+           x="6.3713326"
+           y="934.96729"
+           style="font-size:12.05808735px">Convert     Animation    Export    Link</tspan></text>
+      <path
+         style="fill:#555753;stroke:#2e3436;stroke-width:0.90435659000000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 56.168454,930.34929 4.152423,5.88921 3.852355,-5.97572 z"
+         id="path5207"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
     </g>
   </g>
   <g
