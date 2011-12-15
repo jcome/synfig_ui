@@ -251,16 +251,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.56494441"
+     inkscape:zoom="0.42627843"
      inkscape:cx="723.05078"
-     inkscape:cy="484.90126"
+     inkscape:cy="340.83488"
      inkscape:document-units="px"
-     inkscape:current-layer="g4100-2"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1440"
-     inkscape:window-height="844"
+     inkscape:window-height="809"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -282,7 +282,6 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="bg"
-     sodipodi:insensitive="true"
      style="display:inline">
     <rect
        style="fill:#729fcf;fill-opacity:1;stroke:#d3d7cf;stroke-width:1.00956166;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -292,8 +291,8 @@
        x="-67.476196"
        y="-100.27516"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-       inkscape:export-xdpi="47.445156"
-       inkscape:export-ydpi="47.445156" />
+       inkscape:export-xdpi="51.19899"
+       inkscape:export-ydpi="51.19899" />
   </g>
   <g
      inkscape:label="main window"
@@ -312,12 +311,12 @@
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <rect
-       y="-819.86963"
+       y="-818.1604"
        x="1234.8446"
-       height="283.06909"
+       height="281.35986"
        width="203.96764"
        id="rect2993"
-       style="fill:#c17d11;fill-opacity:1;stroke:#2e3436;stroke-width:0.53568584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#c17d11;fill-opacity:1;stroke:#2e3436;stroke-width:0.53406608;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
@@ -334,26 +333,15 @@
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <rect
-       style="fill:#c17d11;fill-opacity:1;stroke:#2e3436;stroke-width:0.99450696;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#d3d7cf;fill-opacity:1;stroke:#2e3436;stroke-width:1.14338231;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2995"
-       width="205.54973"
+       width="271.69662"
        height="234.91992"
        x="1.2803971"
        y="819.86639"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
-    <image
-       y="880.58612"
-       x="5.8911314"
-       id="image3409"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/params_icon.png"
-       height="128"
-       width="128"
-       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-       inkscape:export-xdpi="45.510212"
-       inkscape:export-ydpi="45.510212"
-       style="opacity:0.6" />
     <image
        y="628.44617"
        x="1268.5039"
@@ -432,26 +420,6 @@
          id="tspan5044"
          x="33.135777"
          y="139.47255">Synfig Studio - Little duck.sifz </tspan></text>
-    <rect
-       y="819.86639"
-       x="145.98094"
-       height="234.91992"
-       width="60.849186"
-       id="rect8797"
-       style="fill:#e9b96e;fill-opacity:1;stroke:#2e3436;stroke-width:0.54109901;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-       inkscape:export-xdpi="45.510212"
-       inkscape:export-ydpi="45.510212" />
-    <image
-       y="827.61572"
-       x="149.91225"
-       id="image4706"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/children_icon.png"
-       height="48"
-       width="48"
-       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-       inkscape:export-xdpi="45.510212"
-       inkscape:export-ydpi="45.510212" />
     <g
        id="g13018"
        transform="matrix(0.16535333,0,0,0.16535333,1369.2321,1000.454)">
@@ -692,16 +660,6 @@
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <image
-       y="897.41003"
-       x="149.69022"
-       id="image11054"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/keyframe_icon.png"
-       height="48"
-       width="48"
-       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-       inkscape:export-xdpi="45.510212"
-       inkscape:export-ydpi="45.510212" />
-    <image
        y="231.8989"
        x="1265.153"
        id="image11119"
@@ -810,6 +768,484 @@
          x="532.35785"
          y="456.47461" />
     </g>
+    <rect
+       ry="2.7585649"
+       y="892.33099"
+       x="118.48547"
+       height="16.091627"
+       width="82.269341"
+       id="rect4576"
+       style="fill:#d3d7cf;fill-opacity:1;stroke:#2e3436;stroke-width:0.88548487;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.87978894px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 188.12293,897.63529 4.1734,5.5951 4.27672,-5.73362"
+       id="path4574"
+       inkscape:connector-curvature="0" />
+    <rect
+       inkscape:export-ydpi="78.374367"
+       inkscape:export-xdpi="78.374367"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       y="1192.3787"
+       x="-69.842178"
+       height="242.62706"
+       width="757.90088"
+       id="rect5358"
+       style="fill:#729fcf;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       ry="9.6295681" />
+    <rect
+       style="fill:#eeeeec;fill-opacity:1;stroke:none"
+       id="rect5376"
+       width="270.98633"
+       height="162.91563"
+       x="-47.658508"
+       y="1256.9921"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <rect
+       inkscape:export-ydpi="78.064804"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       style="fill:#cbcfc7;fill-opacity:1;stroke:none;display:inline"
+       id="rect4227-1"
+       width="270.70978"
+       height="22.208189"
+       x="-47.367416"
+       y="1269.8302" />
+    <rect
+       inkscape:export-ydpi="78.064804"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       y="1312.7184"
+       x="-47.412552"
+       height="22.208189"
+       width="270.75488"
+       id="rect4229-8"
+       style="fill:#cbcfc7;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       style="fill:#babdb6;fill-opacity:1;stroke:none;display:inline"
+       id="rect4334-6"
+       width="1.8003136"
+       height="22.056904"
+       x="62.854713"
+       y="1269.7916"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <rect
+       y="1269.7916"
+       x="155.93329"
+       height="22.056904"
+       width="1.8003136"
+       id="rect4354-3"
+       style="fill:#babdb6;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <image
+       style="display:inline"
+       y="1275.0253"
+       x="-36.236092"
+       id="image4515-1"
+       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/type_color_icon.png"
+       height="12"
+       width="12"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4518-4"
+       y="1285.4989"
+       x="-22.501539"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804"><tspan
+         style="font-size:12px"
+         y="1285.4989"
+         x="-22.501539"
+         id="tspan4520-5"
+         sodipodi:role="line">Color </tspan></text>
+    <rect
+       style="fill:#ce5c00;fill-opacity:1;stroke:none;display:inline"
+       id="rect4522-1"
+       width="82.841248"
+       height="14.235595"
+       x="69.252167"
+       y="1273.9075"
+       ry="2.440388"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="163.91335"
+       y="1285.4989"
+       id="text4542-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804"><tspan
+         sodipodi:role="line"
+         x="163.91335"
+         y="1285.4989"
+         style="font-size:12px;fill:#555753"
+         id="tspan4546-0">color </tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3438-2"
+       y="1284.8008"
+       x="90.203888"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804"><tspan
+         id="tspan3440-4"
+         style="font-size:12px"
+         y="1284.8008"
+         x="90.203888"
+         sodipodi:role="line">orange</tspan></text>
+    <image
+       style="display:inline"
+       width="12"
+       height="12"
+       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/type_color_icon.png"
+       id="image4867-5"
+       x="-36.236092"
+       y="1318.24"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="-22.501539"
+       y="1328.7136"
+       id="text4869-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804"><tspan
+         sodipodi:role="line"
+         id="tspan4871-9"
+         x="-22.501539"
+         y="1328.7136"
+         style="font-size:12px">Color </tspan></text>
+    <rect
+       ry="2.440388"
+       y="1317.1222"
+       x="69.252167"
+       height="14.235595"
+       width="82.841248"
+       id="rect4873-5"
+       style="fill:#ce5c00;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4875-9"
+       y="1328.7136"
+       x="163.91335"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804"><tspan
+         id="tspan4877-7"
+         style="font-size:12px;fill:#555753"
+         y="1328.7136"
+         x="163.91335"
+         sodipodi:role="line">color </tspan></text>
+    <rect
+       style="fill:#eeeeec;fill-opacity:1;stroke:none;display:inline"
+       id="rect4899-2"
+       width="49.055214"
+       height="14.235595"
+       x="86.145172"
+       y="1317.1222"
+       ry="2.440388"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="90.203888"
+       y="1328.0155"
+       id="text4879-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804"><tspan
+         sodipodi:role="line"
+         x="90.203888"
+         y="1328.0155"
+         style="font-size:12px"
+         id="tspan4881-4">oran</tspan></text>
+    <rect
+       style="fill:#cbcfc7;fill-opacity:1;stroke:none;display:inline"
+       id="rect5194"
+       width="270.75488"
+       height="22.208189"
+       x="-47.412552"
+       y="1357.7827"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <image
+       style="display:inline"
+       y="1363.4275"
+       x="-36.236092"
+       id="image4883-7"
+       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/type_color_icon.png"
+       height="12"
+       width="12"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4885-1"
+       y="1373.9011"
+       x="-22.501539"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804"><tspan
+         style="font-size:12px"
+         y="1373.9011"
+         x="-22.501539"
+         id="tspan4887-3"
+         sodipodi:role="line">Color </tspan></text>
+    <rect
+       style="fill:#3465a4;fill-opacity:1;stroke:none;display:inline"
+       id="rect4889-1"
+       width="82.841248"
+       height="14.235595"
+       x="69.252167"
+       y="1362.3097"
+       ry="2.440388"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="163.91335"
+       y="1373.9011"
+       id="text4891-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804"><tspan
+         sodipodi:role="line"
+         x="163.91335"
+         y="1373.9011"
+         style="font-size:12px;fill:#555753"
+         id="tspan4893-8">color </tspan></text>
+    <rect
+       ry="2.440388"
+       y="1390.3063"
+       x="69.544426"
+       height="14.235595"
+       width="82.548988"
+       id="rect4935-2"
+       style="fill:#babdb6;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <rect
+       style="fill:#babdb6;fill-opacity:1;stroke:none;display:inline"
+       id="rect4937-7"
+       width="82.548988"
+       height="14.235595"
+       x="69.544426"
+       y="1376.308"
+       ry="2.440388"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <rect
+       ry="2.0571418"
+       y="1377.4258"
+       x="70.629028"
+       height="11.999992"
+       width="11.643586"
+       id="rect4907-0"
+       style="fill:#204a87;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <text
+       sodipodi:linespacing="116%"
+       id="text4895-8"
+       y="1373.203"
+       x="88.203888"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:115.99999666%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804"><tspan
+         id="tspan4897-8"
+         style="font-size:12px;line-height:115.99999666%;fill:#000000"
+         y="1373.203"
+         x="88.203888"
+         sodipodi:role="line">blue0</tspan><tspan
+         style="font-size:12px;line-height:115.99999666%;fill:#eeeeec"
+         y="1387.123"
+         x="88.203888"
+         sodipodi:role="line"
+         id="tspan4903-4">blue1</tspan><tspan
+         style="font-size:12px;fill:#000000"
+         y="1401.043"
+         x="88.203888"
+         sodipodi:role="line"
+         id="tspan4905-5"><tspan
+   style="line-height:115.99999666%"
+   id="tspan5296">pi</tspan>nk1</tspan></text>
+    <path
+       style="fill:#2e3436;stroke:#2e3436;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 118.05761,1317.5924 0,12.4336"
+       id="path4901-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <rect
+       y="1313.2839"
+       x="62.854713"
+       height="22.056904"
+       width="1.8003136"
+       id="rect5190"
+       style="fill:#babdb6;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <rect
+       style="fill:#babdb6;fill-opacity:1;stroke:none;display:inline"
+       id="rect5192"
+       width="1.8003136"
+       height="22.056904"
+       x="155.93329"
+       y="1313.2839"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <rect
+       style="fill:#babdb6;fill-opacity:1;stroke:none;display:inline"
+       id="rect5196"
+       width="1.8003136"
+       height="22.056904"
+       x="62.854713"
+       y="1357.3003"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <rect
+       y="1357.3003"
+       x="155.93329"
+       height="22.056904"
+       width="1.8003136"
+       id="rect5198"
+       style="fill:#babdb6;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <rect
+       style="fill:#ff67ff;fill-opacity:1;stroke:none;display:inline"
+       id="rect5200"
+       width="11.643586"
+       height="11.999992"
+       x="70.629028"
+       y="1391.5101"
+       ry="2.0571418"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <rect
+       ry="2.440388"
+       y="1376.308"
+       x="69.544426"
+       height="14.235595"
+       width="82.548988"
+       id="rect5356"
+       style="fill:none;stroke:#555753;stroke-width:0.75;display:inline"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       x="259.53955"
+       y="1287.4907"
+       id="text5360"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804"><tspan
+         sodipodi:role="line"
+         id="tspan5362"
+         x="259.53955"
+         y="1287.4907"
+         style="font-size:16px;fill:#2e3436">normal mode, with color name </tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5364"
+       y="1330.4282"
+       x="260.10986"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804"><tspan
+         style="font-size:16px;fill:#2e3436"
+         y="1330.4282"
+         x="260.10986"
+         sodipodi:role="line"
+         id="tspan5372">edit mode, directly enter a name existing in palette </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       x="260.10986"
+       y="1374.1"
+       id="text5368"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804"><tspan
+         sodipodi:role="line"
+         id="tspan5370"
+         x="260.10986"
+         y="1374.1"
+         style="font-size:16px;fill:#2e3436">edit mode, choose a color from dropdown list</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:33.65345001px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       x="235.97302"
+       y="1290.1255"
+       id="text5378"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804"><tspan
+         sodipodi:role="line"
+         id="tspan5380"
+         x="235.97302"
+         y="1290.1255">1</tspan><tspan
+         sodipodi:role="line"
+         x="235.97302"
+         y="1332.1923"
+         id="tspan5382">2</tspan><tspan
+         sodipodi:role="line"
+         x="235.97302"
+         y="1374.2592"
+         id="tspan5384">3</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -820,12 +1256,44 @@
        inkscape:export-xdpi="45.510212"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        transform="scale(-1,-1)"
-       style="fill:#babdb6;fill-opacity:1;stroke:#2e3436;stroke-width:0.09035841;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#babdb6;fill-opacity:1;stroke:#2e3436;stroke-width:0.10404859;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4040-4"
-       width="204.11304"
+       width="270.6488"
        height="27.745987"
-       x="-208.86078"
+       x="-275.39655"
        y="-944.73236" />
+    <rect
+       style="opacity:0.6;fill:#eeeeec;fill-opacity:1;stroke:#2e3436;stroke-width:0.81706709;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3349"
+       width="53.317684"
+       height="17.421921"
+       x="8.1629181"
+       y="922.34747"
+       ry="2.160526" />
+    <rect
+       ry="2.160526"
+       y="922.34747"
+       x="70.033539"
+       height="17.421921"
+       width="56.43325"
+       id="rect3369"
+       style="opacity:0.6;fill:#eeeeec;fill-opacity:1;stroke:#2e3436;stroke-width:0.84060049;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       ry="2.160526"
+       y="922.34747"
+       x="177.48865"
+       height="17.421921"
+       width="28.23164"
+       id="rect3373"
+       style="opacity:0.6;fill:#eeeeec;fill-opacity:1;stroke:#2e3436;stroke-width:0.59455246;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="opacity:0.6;fill:#eeeeec;fill-opacity:1;stroke:#2e3436;stroke-width:0.68350214;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3371"
+       width="37.310886"
+       height="17.421921"
+       x="134.5919"
+       y="922.34747"
+       ry="2.160526" />
     <g
        id="g4100-2"
        transform="matrix(0.82931889,0,0,0.82931889,5.561451,158.92103)">
@@ -840,7 +1308,7 @@
            id="tspan5205"
            x="6.3713326"
            y="934.96729"
-           style="font-size:12.05808735px">Convert     Animation    Export    Link</tspan></text>
+           style="font-size:12.05808735px">Convert       Animation    Export    Link</tspan></text>
       <path
          style="fill:#555753;stroke:#2e3436;stroke-width:0.90435659000000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 56.168454,930.34929 4.152423,5.88921 3.852355,-5.97572 z"
@@ -848,6 +1316,66 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="param title">
+    <rect
+       inkscape:export-ydpi="45.510212"
+       inkscape:export-xdpi="45.510212"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
+       y="710.3786"
+       x="-275.30463"
+       height="24.102682"
+       width="270.64139"
+       id="rect3393"
+       style="fill:#888a85;fill-opacity:1;stroke:#2e3436;stroke-width:0.18005826;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       transform="scale(-1,1)" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.80700302px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="10.781649"
+       y="728.18152"
+       id="text3414"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3416"
+         x="10.781649"
+         y="728.18152">Name              Value           Type</tspan></text>
+    <image
+       y="645.06476"
+       x="-40.556297"
+       id="image3409"
+       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/params_icon.png"
+       height="24"
+       width="24"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
+       inkscape:export-xdpi="45.510212"
+       inkscape:export-ydpi="45.510212"
+       style="display:inline" />
+    <image
+       style="display:inline"
+       y="687.03253"
+       x="-42.27702"
+       id="image4706"
+       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/children_icon.png"
+       height="24"
+       width="24"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
+       inkscape:export-xdpi="45.510212"
+       inkscape:export-ydpi="45.510212" />
+    <image
+       style="display:inline"
+       y="615.31171"
+       x="-47.960865"
+       id="image11054"
+       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/keyframe_icon.png"
+       height="24"
+       width="24"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
+       inkscape:export-xdpi="45.510212"
+       inkscape:export-ydpi="45.510212" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -892,37 +1420,37 @@
      style="display:inline">
     <rect
        y="710.3786"
-       x="209.49361"
+       x="276.85092"
        height="234.91992"
-       width="1232.6458"
+       width="1165.2885"
        id="rect3077"
-       style="fill:#d3d7cf;fill-opacity:1;stroke:#2e3436;stroke-width:1.19967139;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#d3d7cf;fill-opacity:1;stroke:#2e3436;stroke-width:1.16643322;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <rect
        style="fill:#cbcfc7;fill-opacity:1;stroke:none"
        id="rect8980"
-       width="1231.2074"
+       width="1163.9287"
        height="22.208189"
-       x="210.10918"
-       y="775.12903"
+       x="277.43283"
+       y="757.12903"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <rect
-       style="fill:#888a85;fill-opacity:1;stroke:#2e3436;stroke-width:0.46522531;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#888a85;fill-opacity:1;stroke:#2e3436;stroke-width:0.37347326;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3079"
-       width="1232.2302"
-       height="35.340145"
-       x="209.49361"
+       width="1164.3596"
+       height="24.102682"
+       x="277.36426"
        y="710.3786"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 821.12873,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 821.12873,711.10337 0,18.46807"
        id="path3081"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -931,14 +1459,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3083"
-       d="m 790.97731,711.44128 0,27.07849"
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 790.97731,711.10337 0,18.46807"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 760.82593,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 760.82593,711.10337 0,18.46807"
        id="path3085"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -947,14 +1475,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3087"
-       d="m 730.6745,711.44128 0,27.07849"
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 730.6745,711.10337 0,18.46807"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 700.52308,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 700.52308,711.10337 0,18.46807"
        id="path3089"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -963,14 +1491,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3091"
-       d="m 670.37165,711.44128 0,27.07849"
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 670.37165,711.10337 0,18.46807"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 640.22022,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 640.22022,711.10337 0,18.46807"
        id="path3093"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -979,30 +1507,22 @@
     <path
        inkscape:connector-curvature="0"
        id="path3095"
-       d="m 610.06886,711.44128 0,27.07849"
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 610.06886,711.10337 0,18.46807"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 579.91742,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 579.91742,711.10337 0,18.46807"
        id="path3097"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       inkscape:connector-curvature="0"
-       id="path3099"
-       d="m 218.10047,711.44128 0,27.07849"
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-       inkscape:export-xdpi="45.510212"
-       inkscape:export-ydpi="45.510212" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 519.61457,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 519.61457,711.10337 0,18.46807"
        id="path3101"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1011,14 +1531,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3103"
-       d="m 489.46323,711.44128 0,27.07849"
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 489.46323,711.10337 0,18.46807"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 459.31179,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 459.31179,711.10337 0,18.46807"
        id="path3105"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1027,14 +1547,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3107"
-       d="m 429.16036,711.44128 0,27.07849"
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 429.16036,711.10337 0,18.46807"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 399.00893,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 399.00893,711.10337 0,18.46807"
        id="path3109"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1043,14 +1563,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3111"
-       d="m 368.85754,711.44128 0,27.07849"
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 368.85754,711.10337 0,18.46807"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 338.70614,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 338.70614,711.10337 0,18.46807"
        id="path3113"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1059,30 +1579,22 @@
     <path
        inkscape:connector-curvature="0"
        id="path3115"
-       d="m 308.55471,711.44128 0,27.07849"
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 308.55471,711.10337 0,18.46807"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 278.40328,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 278.40328,711.10337 0,18.46807"
        id="path3117"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       inkscape:connector-curvature="0"
-       id="path3119"
-       d="m 248.25188,711.44128 0,27.07849"
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-       inkscape:export-xdpi="45.510212"
-       inkscape:export-ydpi="45.510212" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 549.766,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 549.766,711.10337 0,18.46807"
        id="path3121"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1091,14 +1603,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3123"
-       d="m 1394.0056,711.44128 0,27.07849"
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1394.0056,711.10337 0,18.46807"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1363.8542,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1363.8542,711.10337 0,18.46807"
        id="path3125"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1107,14 +1619,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3127"
-       d="m 1333.7028,711.44128 0,27.07849"
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1333.7028,711.10337 0,18.46807"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1303.5514,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1303.5514,711.10337 0,18.46807"
        id="path3129"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1123,14 +1635,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3131"
-       d="m 1273.3999,711.44128 0,27.07849"
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1273.3999,711.10337 0,18.46807"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1243.2485,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1243.2485,711.10337 0,18.46807"
        id="path3133"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1139,14 +1651,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3135"
-       d="m 1213.0971,711.44128 0,27.07849"
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1213.0971,711.10337 0,18.46807"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1182.9457,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1182.9457,711.10337 0,18.46807"
        id="path3137"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1155,14 +1667,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3139"
-       d="m 1152.7942,711.44128 0,27.07849"
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1152.7942,711.10337 0,18.46807"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 851.28016,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 851.28016,711.10337 0,18.46807"
        id="path3141"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1171,14 +1683,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3143"
-       d="m 1122.6428,711.44128 0,27.07849"
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1122.6428,711.10337 0,18.46807"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1092.4915,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1092.4915,711.10337 0,18.46807"
        id="path3145"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1187,14 +1699,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3147"
-       d="m 1062.34,711.44128 0,27.07849"
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1062.34,711.10337 0,18.46807"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1032.1886,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1032.1886,711.10337 0,18.46807"
        id="path3149"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1203,14 +1715,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3151"
-       d="m 1002.0372,711.44128 0,27.07849"
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1002.0372,711.10337 0,18.46807"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 971.88581,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 971.88581,711.10337 0,18.46807"
        id="path3153"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1219,14 +1731,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3155"
-       d="m 941.73439,711.44128 0,27.07849"
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 941.73439,711.10337 0,18.46807"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 911.58295,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 911.58295,711.10337 0,18.46807"
        id="path3157"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1235,24 +1747,24 @@
     <path
        inkscape:connector-curvature="0"
        id="path3159"
-       d="m 881.43152,711.44128 0,27.07849"
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 881.43152,711.10337 0,18.46807"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.91713363px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1424.157,711.44128 0,27.07849"
+       style="fill:none;stroke:#000000;stroke-width:0.75741017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1424.157,711.10337 0,18.46807"
        id="path3161"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <rect
-       y="818.01733"
-       x="210.10918"
+       y="800.01733"
+       x="277.43283"
        height="22.208189"
-       width="1231.2758"
+       width="1163.9933"
        id="rect8982"
        style="fill:#cbcfc7;fill-opacity:1;stroke:none"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1261,26 +1773,26 @@
     <rect
        style="fill:#cbcfc7;fill-opacity:1;stroke:none"
        id="rect8984"
-       width="1231.481"
+       width="1164.1873"
        height="22.208189"
-       x="209.90399"
-       y="860.90558"
+       x="277.23886"
+       y="842.90558"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <rect
        y="903.79388"
-       x="210.10918"
+       x="277.43283"
        height="22.208189"
-       width="1230.9722"
+       width="1163.7063"
        id="rect8986"
        style="fill:#cbcfc7;fill-opacity:1;stroke:none"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 669.44733,749.37959 0,180.3937"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 669.44733,730.66075 0,199.11254"
        id="path3173"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1289,14 +1801,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3175"
-       d="m 639.29596,749.37959 0,180.3937"
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 639.29596,730.66075 0,199.11254"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 609.14454,749.37959 0,180.3937"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 609.14454,730.66075 0,199.11254"
        id="path3177"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1305,30 +1817,22 @@
     <path
        inkscape:connector-curvature="0"
        id="path3179"
-       d="m 578.99311,749.37959 0,180.3937"
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-       inkscape:export-xdpi="45.510212"
-       inkscape:export-ydpi="45.510212" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 217.17617,749.37959 0,180.3937"
-       id="path3181"
-       inkscape:connector-curvature="0"
+       d="m 578.99311,730.66075 0,199.11254"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
        inkscape:connector-curvature="0"
        id="path3183"
-       d="m 518.69031,749.37959 0,180.3937"
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 518.69031,730.66075 0,199.11254"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 488.53891,749.37959 0,180.3937"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 488.53891,730.66075 0,199.11254"
        id="path3185"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1337,14 +1841,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3187"
-       d="m 458.38747,749.37959 0,180.3937"
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 458.38747,730.66075 0,199.11254"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 428.23605,749.37959 0,180.3937"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 428.23605,730.66075 0,199.11254"
        id="path3189"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1353,14 +1857,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3191"
-       d="m 398.08468,749.37959 0,180.3937"
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 398.08468,730.66075 0,199.11254"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 367.93325,749.37959 0,180.3937"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 367.93325,730.66075 0,199.11254"
        id="path3193"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1369,14 +1873,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3195"
-       d="m 337.78182,749.37959 0,180.3937"
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 337.78182,730.66075 0,199.11254"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 307.63042,749.37959 0,180.3937"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 307.63042,730.66075 0,199.11254"
        id="path3197"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1391,24 +1895,16 @@
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 247.3276,749.37959 0,180.3937"
-       id="path3201"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-       inkscape:export-xdpi="45.510212"
-       inkscape:export-ydpi="45.510212" />
-    <path
        inkscape:connector-curvature="0"
        id="path3203"
-       d="m 548.84169,749.37959 0,180.3937"
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 548.84169,730.66075 0,199.11254"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1393.0813,749.37959 0,180.3937"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1393.0813,730.66075 0,199.11254"
        id="path3205"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1417,14 +1913,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3207"
-       d="m 1362.9298,749.37959 0,180.3937"
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1362.9298,730.66075 0,199.11254"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1332.7785,749.37959 0,180.3937"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1332.7785,730.66075 0,199.11254"
        id="path3209"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1433,14 +1929,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3211"
-       d="m 1302.6271,749.37959 0,180.3937"
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1302.6271,730.66075 0,199.11254"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1272.4756,749.37959 0,180.3937"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1272.4756,730.66075 0,199.11254"
        id="path3213"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1449,14 +1945,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3215"
-       d="m 1242.3242,749.37959 0,180.3937"
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1242.3242,730.66075 0,199.11254"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1212.1728,749.37959 0,180.3937"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1212.1728,730.66075 0,199.11254"
        id="path3217"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1465,22 +1961,22 @@
     <path
        inkscape:connector-curvature="0"
        id="path3219"
-       d="m 1182.0214,749.37959 0,180.3937"
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1182.0214,730.66075 0,199.11254"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1151.87,749.37959 0,180.3937"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1151.87,730.66075 0,199.11254"
        id="path3221"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1121.7185,749.37959 0,180.3937"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1121.7185,730.66075 0,199.11254"
        id="path3225"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1489,14 +1985,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3227"
-       d="m 1091.5671,749.37959 0,180.3937"
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1091.5671,730.66075 0,199.11254"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1061.4157,749.37959 0,180.3937"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1061.4157,730.66075 0,199.11254"
        id="path3229"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1505,14 +2001,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3231"
-       d="m 1031.2643,749.37959 0,180.3937"
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1031.2643,730.66075 0,199.11254"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1001.1129,749.37959 0,180.3937"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1001.1129,730.66075 0,199.11254"
        id="path3233"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1521,14 +2017,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3235"
-       d="m 970.96149,749.37959 0,180.3937"
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 970.96149,730.66075 0,199.11254"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 940.81007,749.37959 0,180.3937"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 940.81007,730.66075 0,199.11254"
        id="path3237"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1537,30 +2033,30 @@
     <path
        inkscape:connector-curvature="0"
        id="path3239"
-       d="m 910.6587,749.37959 0,180.3937"
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 910.6587,730.66075 0,199.11254"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
        inkscape:connector-curvature="0"
        id="path3243"
-       d="m 1423.2327,749.37959 0,180.3937"
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1423.2327,730.66075 0,199.11254"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
        inkscape:connector-curvature="0"
        id="path3245"
-       d="m 837.12873,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 837.12873,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 806.97731,711.44128 0,14.92331"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 806.97731,711.10337 0,10.17799"
        id="path3247"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1569,14 +2065,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3249"
-       d="m 776.82593,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 776.82593,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 746.6745,711.44128 0,14.92331"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 746.6745,711.10337 0,10.17799"
        id="path3251"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1585,14 +2081,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3253"
-       d="m 716.52308,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 716.52308,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 686.37165,711.44128 0,14.92331"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 686.37165,711.10337 0,10.17799"
        id="path3255"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1601,14 +2097,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3257"
-       d="m 656.22022,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 656.22022,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 626.06886,711.44128 0,14.92331"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 626.06886,711.10337 0,10.17799"
        id="path3259"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1617,30 +2113,22 @@
     <path
        inkscape:connector-curvature="0"
        id="path3261"
-       d="m 595.91742,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-       inkscape:export-xdpi="45.510212"
-       inkscape:export-ydpi="45.510212" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 234.10047,711.44128 0,14.92331"
-       id="path3263"
-       inkscape:connector-curvature="0"
+       d="m 595.91742,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
        inkscape:connector-curvature="0"
        id="path3265"
-       d="m 535.61457,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 535.61457,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 505.46323,711.44128 0,14.92331"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 505.46323,711.10337 0,10.17799"
        id="path3267"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1649,14 +2137,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3269"
-       d="m 475.31179,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 475.31179,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 445.16036,711.44128 0,14.92331"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 445.16036,711.10337 0,10.17799"
        id="path3271"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1665,14 +2153,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3273"
-       d="m 415.00893,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 415.00893,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 384.85754,711.44128 0,14.92331"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 384.85754,711.10337 0,10.17799"
        id="path3275"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1681,14 +2169,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3277"
-       d="m 354.70614,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 354.70614,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 324.55471,711.44128 0,14.92331"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 324.55471,711.10337 0,10.17799"
        id="path3279"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1697,30 +2185,22 @@
     <path
        inkscape:connector-curvature="0"
        id="path3281"
-       d="m 294.40328,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-       inkscape:export-xdpi="45.510212"
-       inkscape:export-ydpi="45.510212" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 264.25188,711.44128 0,14.92331"
-       id="path3283"
-       inkscape:connector-curvature="0"
+       d="m 294.40328,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
        inkscape:connector-curvature="0"
        id="path3285"
-       d="m 565.766,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 565.766,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1410.0056,711.44128 0,14.92331"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1410.0056,711.10337 0,10.17799"
        id="path3287"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1729,14 +2209,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3289"
-       d="m 1379.8542,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1379.8542,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1349.7028,711.44128 0,14.92331"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1349.7028,711.10337 0,10.17799"
        id="path3291"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1745,14 +2225,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3293"
-       d="m 1319.5514,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1319.5514,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1289.3999,711.44128 0,14.92331"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1289.3999,711.10337 0,10.17799"
        id="path3295"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1761,14 +2241,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3297"
-       d="m 1259.2485,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1259.2485,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1229.0971,711.44128 0,14.92331"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1229.0971,711.10337 0,10.17799"
        id="path3299"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1777,14 +2257,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3301"
-       d="m 1198.9457,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1198.9457,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1168.7942,711.44128 0,14.92331"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1168.7942,711.10337 0,10.17799"
        id="path3303"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1793,14 +2273,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3305"
-       d="m 867.28016,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 867.28016,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1138.6428,711.44128 0,14.92331"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1138.6428,711.10337 0,10.17799"
        id="path3307"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1809,14 +2289,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3309"
-       d="m 1108.4915,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1108.4915,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1078.34,711.44128 0,14.92331"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1078.34,711.10337 0,10.17799"
        id="path3311"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1825,14 +2305,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3313"
-       d="m 1048.1886,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1048.1886,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1018.0372,711.44128 0,14.92331"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1018.0372,711.10337 0,10.17799"
        id="path3315"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1841,14 +2321,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3317"
-       d="m 987.88581,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 987.88581,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 957.73439,711.44128 0,14.92331"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 957.73439,711.10337 0,10.17799"
        id="path3319"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1857,14 +2337,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3321"
-       d="m 927.58295,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 927.58295,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 897.43152,711.44128 0,14.92331"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 897.43152,711.10337 0,10.17799"
        id="path3323"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1873,8 +2353,8 @@
     <path
        inkscape:connector-curvature="0"
        id="path3325"
-       d="m 1440.157,711.44128 0,14.92331"
-       style="fill:none;stroke:#000000;stroke-width:0.68085247px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1440.157,711.10337 0,10.17799"
+       style="fill:none;stroke:#000000;stroke-width:0.56227857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
@@ -1887,12 +2367,12 @@
        sodipodi:rx="15.396579"
        sodipodi:ry="15.396579"
        d="m 379.31571,776.82739 a 15.396579,15.396579 0 1 1 -30.79316,0 15.396579,15.396579 0 1 1 30.79316,0 z"
-       transform="matrix(0.64259765,0,0,0.64259765,133.77269,372.13555)"
+       transform="matrix(0.64259765,0,0,0.64259765,133.77269,354.13555)"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       transform="matrix(0.64259765,0,0,0.64259765,133.77269,372.13555)"
+       transform="matrix(0.64259765,0,0,0.64259765,133.77269,354.13555)"
        d="m 364.51396,761.44231 a 15.396579,15.396579 0 0 1 -0.53047,30.78153 l -0.0644,-15.39645 z"
        sodipodi:ry="15.396579"
        sodipodi:rx="15.396579"
@@ -1907,7 +2387,7 @@
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       transform="matrix(0.64259765,0,0,0.64259765,163.16616,372.13555)"
+       transform="matrix(0.64259765,0,0,0.64259765,163.16616,354.13555)"
        d="m 379.31571,776.82739 a 15.396579,15.396579 0 1 1 -30.79316,0 15.396579,15.396579 0 1 1 30.79316,0 z"
        sodipodi:ry="15.396579"
        sodipodi:rx="15.396579"
@@ -1930,7 +2410,7 @@
        sodipodi:rx="15.396579"
        sodipodi:ry="15.396579"
        d="m 364.51396,761.44231 a 15.396579,15.396579 0 0 1 -0.53047,30.78153 l -0.0644,-15.39645 z"
-       transform="matrix(0.64259765,0,0,0.64259765,163.16616,372.13555)"
+       transform="matrix(0.64259765,0,0,0.64259765,163.16616,354.13555)"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
@@ -1943,12 +2423,12 @@
        sodipodi:rx="15.396579"
        sodipodi:ry="15.396579"
        d="m 379.31571,776.82739 a 15.396579,15.396579 0 1 1 -30.79316,0 15.396579,15.396579 0 1 1 30.79316,0 z"
-       transform="matrix(0.64259765,0,0,0.64259765,193.95932,372.13555)"
+       transform="matrix(0.64259765,0,0,0.64259765,193.95932,354.13555)"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       transform="matrix(0.64259765,0,0,0.64259765,193.95932,372.13555)"
+       transform="matrix(0.64259765,0,0,0.64259765,193.95932,354.13555)"
        d="m 364.51396,761.44231 a 15.396579,15.396579 0 0 1 -0.53047,30.78153 l -0.0644,-15.39645 z"
        sodipodi:ry="15.396579"
        sodipodi:rx="15.396579"
@@ -1976,14 +2456,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3163"
-       d="m 820.20441,749.37959 0,180.3937"
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 820.20441,730.66075 0,199.11254"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 790.05305,749.37959 0,180.3937"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 790.05305,730.66075 0,199.11254"
        id="path3165"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1992,14 +2472,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path3167"
-       d="m 759.90162,749.37959 0,180.3937"
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 759.90162,730.66075 0,199.11254"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 729.75019,749.37959 0,180.3937"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 729.75019,730.66075 0,199.11254"
        id="path3169"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -2008,29 +2488,29 @@
     <path
        inkscape:connector-curvature="0"
        id="path3171"
-       d="m 699.59876,749.37959 0,180.3937"
-       style="fill:#ce5c00;stroke:#ce5c00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 700.58401,730.66075 0,199.11254"
+       style="fill:#eeeeec;stroke:#ce5c00;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
        inkscape:connector-curvature="0"
        id="path3223"
-       d="m 850.35584,749.37959 0,180.3937"
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 850.35584,730.66075 0,199.11254"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.09007613;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 880.50727,749.37959 0,180.3937"
+       style="fill:#eeeeec;stroke:#000000;stroke-width:0.09463426000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 880.50727,730.66075 0,199.11254"
        id="path3241"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       transform="matrix(0.64259765,0,0,0.64259765,556.47876,308.13555)"
+       transform="matrix(0.64259765,0,0,0.64259765,556.47876,290.13555)"
        d="m 379.31571,776.82739 a 15.396579,15.396579 0 1 1 -30.79316,0 15.396579,15.396579 0 1 1 30.79316,0 z"
        sodipodi:ry="15.396579"
        sodipodi:rx="15.396579"
@@ -2044,7 +2524,7 @@
        inkscape:export-ydpi="45.510212" />
     <path
        sodipodi:end="7.8498015"
-       sodipodi:start="4.7510327"
+       sodipodi:start="4.7147968"
        sodipodi:type="arc"
        style="fill:#73d216;fill-opacity:1;stroke:#2e3436;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path3341"
@@ -2052,8 +2532,8 @@
        sodipodi:cy="776.82739"
        sodipodi:rx="15.396579"
        sodipodi:ry="15.396579"
-       d="m 364.51396,761.44231 a 15.396579,15.396579 0 0 1 -0.53047,30.78153 l -0.0644,-15.39645 z"
-       transform="matrix(0.64259765,0,0,0.64259765,556.47876,308.13555)"
+       d="m 363.9562,761.43086 a 15.396579,15.396579 0 0 1 0.0273,30.79298 l -0.0644,-15.39645 z"
+       transform="matrix(0.64259765,0,0,0.64259765,556.47876,290.13555)"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
@@ -2066,12 +2546,12 @@
        sodipodi:rx="15.396579"
        sodipodi:ry="15.396579"
        d="m 379.31571,776.82739 a 15.396579,15.396579 0 1 1 -30.79316,0 15.396579,15.396579 0 1 1 30.79316,0 z"
-       transform="matrix(0.64259765,0,0,0.64259765,616.66539,308.13555)"
+       transform="matrix(0.64259765,0,0,0.64259765,616.66539,290.13555)"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <path
-       transform="matrix(0.64259765,0,0,0.64259765,616.66539,308.13555)"
+       transform="matrix(0.64259765,0,0,0.64259765,616.66539,290.13555)"
        d="m 364.51396,761.44231 a 15.396579,15.396579 0 0 1 -0.53047,30.78153 l -0.0644,-15.39645 z"
        sodipodi:ry="15.396579"
        sodipodi:rx="15.396579"
@@ -2085,6 +2565,406 @@
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
+    <rect
+       inkscape:export-ydpi="45.510212"
+       inkscape:export-xdpi="45.510212"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
+       y="757.12903"
+       x="4.6837287"
+       height="22.208189"
+       width="270.69473"
+       id="rect4225"
+       style="fill:#cbcfc7;fill-opacity:1;stroke:none" />
+    <rect
+       inkscape:export-ydpi="45.510212"
+       inkscape:export-xdpi="45.510212"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
+       style="fill:#cbcfc7;fill-opacity:1;stroke:none"
+       id="rect4227"
+       width="270.70978"
+       height="22.208189"
+       x="4.6837287"
+       y="800.01733" />
+    <rect
+       inkscape:export-ydpi="45.510212"
+       inkscape:export-xdpi="45.510212"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
+       y="842.90558"
+       x="4.6386065"
+       height="22.208189"
+       width="270.75488"
+       id="rect4229"
+       style="fill:#cbcfc7;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="29.54961"
+       y="748.9165"
+       id="text4231"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4233"
+         x="29.54961"
+         y="748.9165"
+         style="font-size:12px">Z Depth</tspan></text>
+    <image
+       style="display:inline"
+       y="739.60596"
+       x="14.224186"
+       id="image4313"
+       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/type_real_icon.png"
+       height="12"
+       width="12" />
+    <rect
+       style="fill:#babdb6;fill-opacity:1;stroke:none;display:inline"
+       id="rect4334"
+       width="1.8003136"
+       height="206.20482"
+       x="114.90586"
+       y="711.19965" />
+    <rect
+       y="711.19965"
+       x="207.98442"
+       height="206.20482"
+       width="1.8003136"
+       id="rect4354"
+       style="fill:#babdb6;fill-opacity:1;stroke:none;display:inline" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4358"
+       y="771.18677"
+       x="29.54961"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px"
+         y="771.18677"
+         x="29.54961"
+         id="tspan4360"
+         sodipodi:role="line">Amount </tspan></text>
+    <image
+       width="12"
+       height="12"
+       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/type_real_icon.png"
+       id="image4362"
+       x="14.224186"
+       y="760.89771"
+       style="display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="29.54961"
+       y="794.51904"
+       id="text4364"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4366"
+         x="29.54961"
+         y="794.51904"
+         style="font-size:12px">Blend Method </tspan></text>
+    <image
+       style="display:inline"
+       y="784.04541"
+       x="13.641308"
+       id="image4432"
+       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/type_integer_icon.png"
+       height="12"
+       width="12" />
+    <image
+       y="805.2124"
+       x="15.815054"
+       id="image4515"
+       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/type_color_icon.png"
+       height="12"
+       width="12" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4518"
+       y="815.68604"
+       x="29.54961"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px"
+         y="815.68604"
+         x="29.54961"
+         id="tspan4520"
+         sodipodi:role="line">Color </tspan></text>
+    <rect
+       style="fill:#ce5c00;fill-opacity:1;stroke:none"
+       id="rect4522"
+       width="82.841248"
+       height="14.235595"
+       x="121.30331"
+       y="804.0946"
+       ry="2.440388" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
+       x="215.96448"
+       y="815.68604"
+       id="text4542"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="215.96448"
+         y="815.68604"
+         style="font-size:12px;fill:#555753"
+         id="tspan4546">color </tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4558"
+       y="793.35596"
+       x="215.49573"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4560"
+         style="font-size:12px;fill:#555753"
+         y="793.35596"
+         x="215.49573"
+         sodipodi:role="line">integer </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
+       x="215.53674"
+       y="771.37134"
+       id="text4562"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="215.53674"
+         y="771.37134"
+         style="font-size:12px;fill:#555753"
+         id="tspan4564">real </tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4566"
+       y="750.07959"
+       x="215.53674"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4568"
+         style="font-size:12px;fill:#555753"
+         y="750.07959"
+         x="215.53674"
+         sodipodi:role="line">real </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="125.23709"
+       y="794.19952"
+       id="text4570"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="125.23709"
+         y="794.19952"
+         style="font-size:12px"
+         id="tspan4572">compoiste </tspan></text>
+    <rect
+       style="fill:#eeeeec;fill-opacity:1;stroke:#2e3436;stroke-width:0.73051804;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4669"
+       width="78.685616"
+       height="15.430412"
+       x="123.56047"
+       y="737.94965"
+       ry="2.3097069" />
+    <rect
+       ry="2.3097069"
+       y="737.94965"
+       x="123.5145"
+       height="15.430412"
+       width="16.829861"
+       id="rect4679"
+       style="fill:#babdb6;fill-opacity:1;stroke:#2e3436;stroke-width:0.33784968;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:#babdb6;fill-opacity:1;stroke:#2e3436;stroke-width:0.33784968;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4681"
+       width="16.829861"
+       height="15.430412"
+       x="185.5145"
+       y="737.94965"
+       ry="2.3097069" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4596"
+       y="749.63116"
+       x="125.92575"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4598"
+         style="font-size:12px"
+         y="749.63116"
+         x="125.92575"
+         sodipodi:role="line"><tspan
+   style="fill:#2e3436"
+   id="tspan4671">&lt;</tspan>     1.0    <tspan
+   style="fill:#2e3436"
+   id="tspan4677">&gt;</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="150.31151"
+       y="771.77368"
+       id="text4600"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="150.31151"
+         y="771.77368"
+         style="font-size:12px"
+         id="tspan4602">1.0</tspan></text>
+    <image
+       y="826.26056"
+       x="15.656212"
+       id="image4666"
+       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/type_vector_icon.png"
+       height="12"
+       width="12" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="29.54961"
+       y="836.4491"
+       id="text4687"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4689"
+         x="29.54961"
+         y="836.4491"
+         style="font-size:12px">Origin </tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4691"
+       y="836.4491"
+       x="125.26085"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px"
+         y="836.4491"
+         x="125.26085"
+         id="tspan4693"
+         sodipodi:role="line">-0.0u, -1.0u </tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3438"
+       y="814.98792"
+       x="142.25504"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3440"
+         style="font-size:12px"
+         y="814.98792"
+         x="142.25504"
+         sodipodi:role="line">orange</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3442"
+       y="836.70959"
+       x="215.96448"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3444"
+         style="font-size:12px;fill:#555753"
+         y="836.70959"
+         x="215.96448"
+         sodipodi:role="line">vector </tspan></text>
+    <g
+       style="font-size:35.20240021px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       id="text4784"
+       transform="matrix(0.82790728,0,0,0.82790728,135.66651,135.83674)">
+      <path
+         d="m 790.34093,797.4962 -1.46103,0 0,-5.91291 -5.74102,3.16272 -1.30634,-2.4236 5.74102,-2.99083 -5.74102,-2.97364 1.30634,-2.42361 5.74102,3.12834 0,-5.9129 1.46103,0"
+         style="font-weight:bold;fill:#555753;-inkscape-font-specification:Sans Bold"
+         id="path4810"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccc" />
+      <path
+         sodipodi:nodetypes="ccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4812"
+         style="font-weight:bold;fill:#555753;-inkscape-font-specification:Sans Bold"
+         d="m 790.34093,797.4962 -1.46103,0 0,-5.91291 -5.74102,3.16272 -1.30634,-2.4236 5.74102,-2.99083 -5.74102,-2.97364 1.30634,-2.42361 5.74102,3.12834 0,-5.9129 1.46103,0" />
+    </g>
+    <g
+       id="g4814"
+       style="font-size:35.20240021px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="matrix(-0.82790728,0,0,0.82790728,1445.0146,135.83674)">
+      <path
+         sodipodi:nodetypes="ccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4816"
+         style="font-weight:bold;fill:#888a85;-inkscape-font-specification:Sans Bold"
+         d="m 790.34093,797.4962 -1.46103,0 0,-5.91291 -5.74102,3.16272 -1.30634,-2.4236 5.74102,-2.99083 -5.74102,-2.97364 1.30634,-2.42361 5.74102,3.12834 0,-5.9129 1.46103,0" />
+      <path
+         d="m 790.34093,797.4962 -1.46103,0 0,-5.91291 -5.74102,3.16272 -1.30634,-2.4236 5.74102,-2.99083 -5.74102,-2.97364 1.30634,-2.42361 5.74102,3.12834 0,-5.9129 1.46103,0"
+         style="font-weight:bold;fill:#888a85;-inkscape-font-specification:Sans Bold"
+         id="path4818"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccc" />
+    </g>
+    <rect
+       style="fill:#888a85;fill-opacity:1;stroke:none;opacity:0.51555556"
+       id="rect4820"
+       width="6.4206362"
+       height="210.16878"
+       x="269.23862"
+       y="734.47424" />
+    <rect
+       y="743.48065"
+       x="-274.59213"
+       height="161.08539"
+       width="4.2863526"
+       id="rect4822"
+       style="fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="scale(-1,1)"
+       ry="1.5766284" />
+    <g
+       transform="translate(-4.7363282e-6,-7.226563e-7)"
+       style="display:inline"
+       id="g4828">
+      <rect
+         ry="1.8978262"
+         y="710.51935"
+         x="277.31985"
+         height="23.722828"
+         width="25.146198"
+         id="rect4824"
+         style="fill:#babdb6;fill-opacity:1;stroke:#2e3436" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4826"
+         d="m 293.45138,714.31498 -9.01467,9.01467 9.15116,7.18125"
+         style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,1719.3016,-0.03096388)"
+       style="display:inline"
+       id="g4828-0">
+      <rect
+         ry="1.8978262"
+         y="710.51935"
+         x="277.31985"
+         height="23.722828"
+         width="25.146198"
+         id="rect4824-4"
+         style="fill:#babdb6;fill-opacity:1;stroke:#2e3436" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4826-3"
+         d="m 293.45138,714.31498 -9.01467,9.01467 9.15116,7.18125"
+         style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-48.010689"
+       y="1130.3212"
+       id="text5386"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804"><tspan
+         sodipodi:role="line"
+         id="tspan5388"
+         x="-48.010689"
+         y="1130.3212">Color Parameter Widget</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2093,63 +2973,18 @@
      style="display:inline">
     <rect
        y="-944.5498"
-       x="210.1367"
+       x="277.46899"
        height="27.563412"
-       width="1231.6227"
+       width="1164.2904"
        id="rect4774-8"
-       style="fill:#babdb6;fill-opacity:1;stroke:#2e3436;stroke-width:0.22122718;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#babdb6;fill-opacity:1;stroke:#2e3436;stroke-width:0.215095;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        transform="scale(1,-1)"
-       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-       inkscape:export-xdpi="45.510212"
-       inkscape:export-ydpi="45.510212" />
-    <image
-       y="919.22931"
-       x="218.10422"
-       id="image5033-1"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_transform_zoom_icon.png"
-       height="24"
-       width="24"
-       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-       inkscape:export-xdpi="45.510212"
-       inkscape:export-ydpi="45.510212" />
-    <image
-       inkscape:export-ydpi="45.510212"
-       inkscape:export-xdpi="45.510212"
-       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-       width="24"
-       height="24"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_transform_zoom_icon.png"
-       id="image4251"
-       x="250.29321"
-       y="919.22931" />
-    <g
-       style="font-size:14.3624115px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5c3566;fill-opacity:1;stroke:none;font-family:Sans"
-       id="text5036-3">
-      <path
-         d="m 228.82855,923.9811 0,4.30796 4.29153,0 0,1.94024 -4.29153,0 0,4.30796 -1.95667,0 0,-4.30796 -4.29153,0 0,-1.94024 4.29153,0 0,-4.30796 1.95667,0"
-         style="font-size:32px;font-weight:bold;fill:#eeeeec;-inkscape-font-specification:Sans Bold"
-         id="path4247"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4253"
-         style="font-size:32px;font-weight:bold;fill:#eeeeec;-inkscape-font-specification:Sans Bold"
-         d="m 264.61097,928.28906 0,1.94024 -10.53973,0 0,-1.94024"
-         sodipodi:nodetypes="cccc" />
-    </g>
-    <image
-       y="919.0777"
-       x="292.31549"
-       id="image5199"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/curves_icon.png"
-       height="24"
-       width="24"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
     <g
        id="g6729"
-       transform="matrix(1.7006155,0,0,1.7147931,214.26732,-187.50994)"
+       transform="matrix(1.7006155,0,0,1.7147931,282.84672,-187.50994)"
        style="fill:#2e3436;display:inline"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
@@ -2160,33 +2995,140 @@
          inkscape:connector-curvature="0"
          id="path6731"
          d="m 35.650927,653.2378 -2.783463,2.78571 -3.218379,0 0,7.42858 3.218379,0 2.783463,2.78571 1.500461,0 0,-13 z"
-         style="fill:none;stroke:#555753;display:inline" />
+         style="fill:none;stroke:#555753;display:inline;stroke-width:1.75675956" />
       <path
          sodipodi:open="true"
          sodipodi:end="6.7674215"
          sodipodi:start="5.7391671"
          transform="matrix(1.2635118,0,0,1.3462648,7.9722833,-199.11308)"
-         d="m 55.359338,629.22255 a 4.2963042,5.9552736 0 0 1 0.126289,5.85469"
+         d="m 55.359338,629.22255 c 0.779411,1.78602 0.827326,4.00731 0.126289,5.85469"
          sodipodi:ry="5.9552736"
          sodipodi:rx="4.2963042"
          sodipodi:cy="632.30487"
          sodipodi:cx="51.683266"
          id="path6733"
-         style="fill:none;stroke:#555753;stroke-width:0.87875992"
+         style="fill:none;stroke:#555753;stroke-width:0.89797898"
          sodipodi:type="arc" />
       <path
          sodipodi:type="arc"
-         style="fill:none;stroke:#555753;stroke-width:1.06052983"
+         style="fill:none;stroke:#555753;stroke-width:1.08372422"
          id="path6735"
          sodipodi:cx="51.683266"
          sodipodi:cy="632.30487"
          sodipodi:rx="4.2963042"
          sodipodi:ry="5.9552736"
-         d="m 54.281032,627.56155 a 4.2963042,5.9552736 0 0 1 0.569888,8.76651"
+         d="m 54.281032,627.56155 c 1.889899,1.98871 2.258905,5.72452 0.824198,8.34419 -0.08003,0.14613 -0.164892,0.28705 -0.25431,0.42232"
          transform="matrix(0.84158685,0,0,1.3877321,33.751408,-225.04195)"
          sodipodi:start="5.3617172"
          sodipodi:end="7.0249205"
          sodipodi:open="true" />
+    </g>
+    <path
+       style="fill:none;stroke:#555753;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 368.30464,932.96468 c 0,0 1.51055,-4.68155 5.33248,-4.84771 3.82192,-0.16617 4.84954,6.03047 10.18019,5.81725 5.33064,-0.21323 2.66623,-13.33121 7.51394,-14.05836"
+       id="path3446"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzc" />
+    <path
+       style="fill:none;stroke:#555753;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 371.69803,919.63348 0,22.54184"
+       id="path3484"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#555753;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 368.30464,939.26669 22.54184,0"
+       id="path3486"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#555753;fill-opacity:1;stroke:none"
+       d="m 388.97581,936.99055 3.5208,2.21789 -3.5208,2.2179 z"
+       id="rect4724"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4727"
+       d="m 369.45017,921.44028 2.28834,-3.63265 2.28836,3.63265 z"
+       style="fill:#555753;fill-opacity:1;stroke:none" />
+    <g
+       id="g4739">
+      <g
+         id="g4765">
+        <g
+           inkscape:transform-center-y="2.1675056"
+           transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,752.81043,39.757804)"
+           inkscape:transform-center-x="-2.0512743"
+           id="g4755">
+          <path
+             transform="matrix(1.1730769,0,0,1.1730769,-58.818085,-163.02125)"
+             d="m 338.09369,930.56366 c 0,4.33466 -3.51394,7.8486 -7.8486,7.8486 -4.33467,0 -7.84861,-3.51394 -7.84861,-7.8486 0,-4.33466 3.51394,-7.8486 7.84861,-7.8486 4.33466,0 7.8486,3.51394 7.8486,7.8486 z"
+             sodipodi:ry="7.8486032"
+             sodipodi:rx="7.8486032"
+             sodipodi:cy="930.56366"
+             sodipodi:cx="330.24509"
+             id="path4729"
+             style="fill:#555753;fill-opacity:1;stroke:none"
+             sodipodi:type="arc" />
+          <rect
+             y="925.8894"
+             x="332.35339"
+             height="5.752903"
+             width="11.998912"
+             id="rect4733"
+             style="fill:#555753;fill-opacity:1;stroke:none" />
+        </g>
+        <rect
+           y="923.67041"
+           x="327.35202"
+           height="9.8621197"
+           width="2.4655299"
+           id="rect4735"
+           style="fill:#d3d7cf;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:#d3d7cf;fill-opacity:1;stroke:none"
+           id="rect4737"
+           width="2.4655299"
+           height="9.8621197"
+           x="927.36871"
+           y="-333.51587"
+           transform="matrix(0,1,-1,0,0,0)" />
+      </g>
+      <g
+         id="g4772"
+         transform="translate(-32.051888,0)">
+        <g
+           id="g4774"
+           inkscape:transform-center-x="-2.0512743"
+           transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,752.81043,39.757804)"
+           inkscape:transform-center-y="2.1675056">
+          <path
+             sodipodi:type="arc"
+             style="fill:#555753;fill-opacity:1;stroke:none"
+             id="path4776"
+             sodipodi:cx="330.24509"
+             sodipodi:cy="930.56366"
+             sodipodi:rx="7.8486032"
+             sodipodi:ry="7.8486032"
+             d="m 338.09369,930.56366 c 0,4.33466 -3.51394,7.8486 -7.8486,7.8486 -4.33467,0 -7.84861,-3.51394 -7.84861,-7.8486 0,-4.33466 3.51394,-7.8486 7.84861,-7.8486 4.33466,0 7.8486,3.51394 7.8486,7.8486 z"
+             transform="matrix(1.1730769,0,0,1.1730769,-58.818085,-163.02125)" />
+          <rect
+             style="fill:#555753;fill-opacity:1;stroke:none"
+             id="rect4778"
+             width="11.998912"
+             height="5.752903"
+             x="332.35339"
+             y="925.8894" />
+        </g>
+        <rect
+           transform="matrix(0,1,-1,0,0,0)"
+           y="-333.51587"
+           x="927.36871"
+           height="9.8621197"
+           width="2.4655299"
+           id="rect4782"
+           style="fill:#d3d7cf;fill-opacity:1;stroke:none" />
+      </g>
     </g>
   </g>
   <g
@@ -2569,7 +3511,7 @@
      inkscape:label="layerpanel toolbar">
     <g
        id="g5127"
-       transform="translate(41.5081,213.47023)">
+       transform="matrix(1,0,0,0.97630049,41.5081,224.35016)">
       <rect
          y="-496.07193"
          x="-1399.9993"
@@ -2610,7 +3552,6 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="canvas toolbar"
-     sodipodi:insensitive="true"
      style="display:inline">
     <rect
        y="-708.69849"
@@ -2635,7 +3576,7 @@
        inkscape:export-ydpi="45.510212" />
     <image
        y="683.35486"
-       x="1172.3643"
+       x="1168.3643"
        id="image4903"
        xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/keyframe_lock_future_off_icon.png"
        height="24"
@@ -2645,44 +3586,9 @@
        inkscape:export-ydpi="45.510212" />
     <image
        y="683.35486"
-       x="1143.5981"
+       x="1137.5981"
        id="image4968"
        xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/keyframe_lock_past_off_icon.png"
-       height="24"
-       width="24"
-       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-       inkscape:export-xdpi="45.510212"
-       inkscape:export-ydpi="45.510212" />
-    <image
-       y="683.48682"
-       x="74.63237"
-       id="image5033"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_transform_zoom_icon.png"
-       height="24"
-       width="24"
-       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-       inkscape:export-xdpi="45.510212"
-       inkscape:export-ydpi="45.510212" />
-    <text
-       xml:space="preserve"
-       style="font-size:14.3624115px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5c3566;fill-opacity:1;stroke:none;font-family:Sans"
-       x="44.44643"
-       y="705.38788"
-       id="text5036"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-       inkscape:export-xdpi="45.510212"
-       inkscape:export-ydpi="45.510212"><tspan
-         sodipodi:role="line"
-         id="tspan5038"
-         x="44.44643"
-         y="705.38788"
-         style="font-size:32px;font-weight:bold;fill:#5c3566;-inkscape-font-specification:Sans Bold">+   -</tspan></text>
-    <image
-       y="683.68335"
-       x="813.01904"
-       id="image5134"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/preview_options_icon.png"
        height="24"
        width="24"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -2804,7 +3710,7 @@
              sodipodi:cy="679.8595"
              sodipodi:rx="4.3974662"
              sodipodi:ry="4.3974662"
-             d="m 302.65536,684.25696 a 4.3974662,4.3974662 0 0 1 -0.0234,-8.79484 l 0.0284,4.39738 z"
+             d="m 302.65536,684.25696 c -2.42865,-0.003 -4.39522,-1.97382 -4.39245,-4.40247 0.003,-2.41562 1.9535,-4.37677 4.36907,-4.39237 l 0.0284,4.39738 z"
              transform="matrix(1.4113974,0,0,1.4113974,-119.63191,-254.51071)"
              sodipodi:start="1.5719347"
              sodipodi:end="4.705934" />
@@ -2812,7 +3718,7 @@
              sodipodi:end="4.705934"
              sodipodi:start="1.5719347"
              transform="matrix(-1.4113974,0,0,1.4113974,734.75498,-254.51071)"
-             d="m 302.65536,684.25696 a 4.3974662,4.3974662 0 0 1 -0.0234,-8.79484 l 0.0284,4.39738 z"
+             d="m 302.65536,684.25696 c -2.42865,-0.003 -4.39522,-1.97382 -4.39245,-4.40247 0.003,-2.41562 1.9535,-4.37677 4.36907,-4.39237 l 0.0284,4.39738 z"
              sodipodi:ry="4.3974662"
              sodipodi:rx="4.3974662"
              sodipodi:cy="679.8595"
@@ -2836,7 +3742,7 @@
              sodipodi:end="4.705934"
              sodipodi:start="1.5719347"
              transform="matrix(1.4113974,0,0,1.4113974,-119.63191,-254.51071)"
-             d="m 302.65536,684.25696 a 4.3974662,4.3974662 0 0 1 -0.0234,-8.79484 l 0.0284,4.39738 z"
+             d="m 302.65536,684.25696 c -2.42865,-0.003 -4.39522,-1.97382 -4.39245,-4.40247 0.003,-2.41562 1.9535,-4.37677 4.36907,-4.39237 l 0.0284,4.39738 z"
              sodipodi:ry="4.3974662"
              sodipodi:rx="4.3974662"
              sodipodi:cy="679.8595"
@@ -2852,7 +3758,7 @@
              sodipodi:cy="679.8595"
              sodipodi:rx="4.3974662"
              sodipodi:ry="4.3974662"
-             d="m 302.65536,684.25696 a 4.3974662,4.3974662 0 0 1 -0.0234,-8.79484 l 0.0284,4.39738 z"
+             d="m 302.65536,684.25696 c -2.42865,-0.003 -4.39522,-1.97382 -4.39245,-4.40247 0.003,-2.41562 1.9535,-4.37677 4.36907,-4.39237 l 0.0284,4.39738 z"
              transform="matrix(-1.4113974,0,0,1.4113974,734.75498,-254.51071)"
              sodipodi:start="1.5719347"
              sodipodi:end="4.705934" />
@@ -2861,7 +3767,7 @@
     </g>
     <image
        y="683.66162"
-       x="134.39467"
+       x="126.39467"
        id="image10924"
        xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_transform_rotate_icon.png"
        height="24"
@@ -2869,5 +3775,57 @@
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
        inkscape:export-ydpi="45.510212" />
+    <image
+       style="display:inline"
+       y="78.220131"
+       x="1232.868"
+       id="image5134"
+       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/preview_options_icon.png"
+       height="24"
+       width="24"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
+       inkscape:export-xdpi="45.510212"
+       inkscape:export-ydpi="45.510212" />
+    <g
+       transform="translate(-244.47604,-236.71515)"
+       style="display:inline"
+       id="g3394-0">
+      <image
+         inkscape:export-ydpi="45.510212"
+         inkscape:export-xdpi="45.510212"
+         inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
+         width="24"
+         height="24"
+         xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_transform_zoom_icon.png"
+         id="image5033-1-3"
+         x="286.68362"
+         y="919.22931" />
+      <image
+         y="919.22931"
+         x="318.87262"
+         id="image4251-0"
+         xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_transform_zoom_icon.png"
+         height="24"
+         width="24"
+         inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
+         inkscape:export-xdpi="45.510212"
+         inkscape:export-ydpi="45.510212" />
+      <g
+         transform="translate(68.579396,0)"
+         id="text5036-3-4"
+         style="font-size:14.3624115px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5c3566;fill-opacity:1;stroke:none;font-family:Sans">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4247-4"
+           style="font-size:32px;font-weight:bold;fill:#eeeeec;-inkscape-font-specification:Sans Bold"
+           d="m 228.82855,923.9811 0,4.30796 4.29153,0 0,1.94024 -4.29153,0 0,4.30796 -1.95667,0 0,-4.30796 -4.29153,0 0,-1.94024 4.29153,0 0,-4.30796 1.95667,0" />
+        <path
+           sodipodi:nodetypes="cccc"
+           d="m 264.61097,928.28906 0,1.94024 -10.53973,0 0,-1.94024"
+           style="font-size:32px;font-weight:bold;fill:#eeeeec;-inkscape-font-specification:Sans Bold"
+           id="path4253-4"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
   </g>
 </svg>
