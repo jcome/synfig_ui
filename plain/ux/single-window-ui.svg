@@ -22,6 +22,21 @@
   <defs
      id="defs4">
     <linearGradient
+       id="linearGradient5713">
+      <stop
+         style="stop-color:#eeeeec;stop-opacity:0;"
+         offset="0"
+         id="stop5715" />
+      <stop
+         id="stop5721"
+         offset="0.5"
+         style="stop-color:#eeeeec;stop-opacity:0.557971;" />
+      <stop
+         style="stop-color:#eeeeec;stop-opacity:0;"
+         offset="1"
+         id="stop5717" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient3854">
       <stop
          id="stop3856"
@@ -243,6 +258,16 @@
          stdDeviation="17.484532"
          inkscape:collect="always" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5713"
+       id="linearGradient5719"
+       x1="-61.517204"
+       y1="1321.7156"
+       x2="677.87226"
+       y2="1321.7156"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.5994625,320.9678)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -251,16 +276,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.42627843"
-     inkscape:cx="723.05078"
-     inkscape:cy="340.83488"
+     inkscape:zoom="0.77309334"
+     inkscape:cx="335.01652"
+     inkscape:cy="-499.23578"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1440"
-     inkscape:window-height="809"
+     inkscape:window-height="844"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -274,7 +299,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -785,20 +810,20 @@
        inkscape:export-ydpi="78.374367"
        inkscape:export-xdpi="78.374367"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
-       y="1192.3787"
-       x="-69.842178"
-       height="242.62706"
+       y="1298.2661"
+       x="-66.293106"
+       height="548.57916"
        width="757.90088"
        id="rect5358"
-       style="fill:#729fcf;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       ry="9.6295681" />
+       style="fill:#729fcf;fill-opacity:1;stroke:none"
+       ry="21.772427" />
     <rect
        style="fill:#eeeeec;fill-opacity:1;stroke:none"
        id="rect5376"
        width="270.98633"
        height="162.91563"
-       x="-47.658508"
-       y="1256.9921"
+       x="-44.10944"
+       y="1460.472"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
        inkscape:export-xdpi="78.064804"
        inkscape:export-ydpi="78.064804" />
@@ -810,14 +835,14 @@
        id="rect4227-1"
        width="270.70978"
        height="22.208189"
-       x="-47.367416"
-       y="1269.8302" />
+       x="-43.818348"
+       y="1473.3102" />
     <rect
        inkscape:export-ydpi="78.064804"
        inkscape:export-xdpi="78.064804"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
-       y="1312.7184"
-       x="-47.412552"
+       y="1516.1984"
+       x="-43.863483"
        height="22.208189"
        width="270.75488"
        id="rect4229-8"
@@ -827,14 +852,14 @@
        id="rect4334-6"
        width="1.8003136"
        height="22.056904"
-       x="62.854713"
-       y="1269.7916"
+       x="66.403786"
+       y="1473.2716"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
        inkscape:export-xdpi="78.064804"
        inkscape:export-ydpi="78.064804" />
     <rect
-       y="1269.7916"
-       x="155.93329"
+       y="1473.2716"
+       x="159.48236"
        height="22.056904"
        width="1.8003136"
        id="rect4354-3"
@@ -844,8 +869,8 @@
        inkscape:export-ydpi="78.064804" />
     <image
        style="display:inline"
-       y="1275.0253"
-       x="-36.236092"
+       y="1478.5052"
+       x="-32.687023"
        id="image4515-1"
        xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/type_color_icon.png"
        height="12"
@@ -856,16 +881,16 @@
     <text
        sodipodi:linespacing="125%"
        id="text4518-4"
-       y="1285.4989"
-       x="-22.501539"
+       y="1488.9789"
+       x="-18.952469"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
        inkscape:export-xdpi="78.064804"
        inkscape:export-ydpi="78.064804"><tspan
          style="font-size:12px"
-         y="1285.4989"
-         x="-22.501539"
+         y="1488.9789"
+         x="-18.952469"
          id="tspan4520-5"
          sodipodi:role="line">Color </tspan></text>
     <rect
@@ -873,8 +898,8 @@
        id="rect4522-1"
        width="82.841248"
        height="14.235595"
-       x="69.252167"
-       y="1273.9075"
+       x="72.801239"
+       y="1477.3875"
        ry="2.440388"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
        inkscape:export-xdpi="78.064804"
@@ -882,23 +907,23 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="163.91335"
-       y="1285.4989"
+       x="167.46242"
+       y="1488.9789"
        id="text4542-2"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
        inkscape:export-xdpi="78.064804"
        inkscape:export-ydpi="78.064804"><tspan
          sodipodi:role="line"
-         x="163.91335"
-         y="1285.4989"
+         x="167.46242"
+         y="1488.9789"
          style="font-size:12px;fill:#555753"
          id="tspan4546-0">color </tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3438-2"
-       y="1284.8008"
-       x="90.203888"
+       y="1488.2808"
+       x="93.75296"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
@@ -906,8 +931,8 @@
        inkscape:export-ydpi="78.064804"><tspan
          id="tspan3440-4"
          style="font-size:12px"
-         y="1284.8008"
-         x="90.203888"
+         y="1488.2808"
+         x="93.75296"
          sodipodi:role="line">orange</tspan></text>
     <image
        style="display:inline"
@@ -915,16 +940,16 @@
        height="12"
        xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/type_color_icon.png"
        id="image4867-5"
-       x="-36.236092"
-       y="1318.24"
+       x="-32.687023"
+       y="1521.72"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
        inkscape:export-xdpi="78.064804"
        inkscape:export-ydpi="78.064804" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="-22.501539"
-       y="1328.7136"
+       x="-18.952469"
+       y="1532.1936"
        id="text4869-3"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
@@ -932,13 +957,13 @@
        inkscape:export-ydpi="78.064804"><tspan
          sodipodi:role="line"
          id="tspan4871-9"
-         x="-22.501539"
-         y="1328.7136"
+         x="-18.952469"
+         y="1532.1936"
          style="font-size:12px">Color </tspan></text>
     <rect
        ry="2.440388"
-       y="1317.1222"
-       x="69.252167"
+       y="1520.6022"
+       x="72.801239"
        height="14.235595"
        width="82.841248"
        id="rect4873-5"
@@ -949,8 +974,8 @@
     <text
        sodipodi:linespacing="125%"
        id="text4875-9"
-       y="1328.7136"
-       x="163.91335"
+       y="1532.1936"
+       x="167.46242"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
@@ -958,16 +983,16 @@
        inkscape:export-ydpi="78.064804"><tspan
          id="tspan4877-7"
          style="font-size:12px;fill:#555753"
-         y="1328.7136"
-         x="163.91335"
+         y="1532.1936"
+         x="167.46242"
          sodipodi:role="line">color </tspan></text>
     <rect
        style="fill:#eeeeec;fill-opacity:1;stroke:none;display:inline"
        id="rect4899-2"
        width="49.055214"
        height="14.235595"
-       x="86.145172"
-       y="1317.1222"
+       x="89.694244"
+       y="1520.6022"
        ry="2.440388"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
        inkscape:export-xdpi="78.064804"
@@ -975,16 +1000,16 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="90.203888"
-       y="1328.0155"
+       x="93.75296"
+       y="1531.4955"
        id="text4879-1"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
        inkscape:export-xdpi="78.064804"
        inkscape:export-ydpi="78.064804"><tspan
          sodipodi:role="line"
-         x="90.203888"
-         y="1328.0155"
+         x="93.75296"
+         y="1531.4955"
          style="font-size:12px"
          id="tspan4881-4">oran</tspan></text>
     <rect
@@ -992,15 +1017,15 @@
        id="rect5194"
        width="270.75488"
        height="22.208189"
-       x="-47.412552"
-       y="1357.7827"
+       x="-43.863483"
+       y="1561.2627"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
        inkscape:export-xdpi="78.064804"
        inkscape:export-ydpi="78.064804" />
     <image
        style="display:inline"
-       y="1363.4275"
-       x="-36.236092"
+       y="1566.9075"
+       x="-32.687023"
        id="image4883-7"
        xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/type_color_icon.png"
        height="12"
@@ -1011,16 +1036,16 @@
     <text
        sodipodi:linespacing="125%"
        id="text4885-1"
-       y="1373.9011"
-       x="-22.501539"
+       y="1577.3811"
+       x="-18.952469"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
        inkscape:export-xdpi="78.064804"
        inkscape:export-ydpi="78.064804"><tspan
          style="font-size:12px"
-         y="1373.9011"
-         x="-22.501539"
+         y="1577.3811"
+         x="-18.952469"
          id="tspan4887-3"
          sodipodi:role="line">Color </tspan></text>
     <rect
@@ -1028,8 +1053,8 @@
        id="rect4889-1"
        width="82.841248"
        height="14.235595"
-       x="69.252167"
-       y="1362.3097"
+       x="72.801239"
+       y="1565.7897"
        ry="2.440388"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
        inkscape:export-xdpi="78.064804"
@@ -1037,22 +1062,22 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="163.91335"
-       y="1373.9011"
+       x="167.46242"
+       y="1577.3811"
        id="text4891-3"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
        inkscape:export-xdpi="78.064804"
        inkscape:export-ydpi="78.064804"><tspan
          sodipodi:role="line"
-         x="163.91335"
-         y="1373.9011"
+         x="167.46242"
+         y="1577.3811"
          style="font-size:12px;fill:#555753"
          id="tspan4893-8">color </tspan></text>
     <rect
        ry="2.440388"
-       y="1390.3063"
-       x="69.544426"
+       y="1593.7863"
+       x="73.093498"
        height="14.235595"
        width="82.548988"
        id="rect4935-2"
@@ -1065,16 +1090,16 @@
        id="rect4937-7"
        width="82.548988"
        height="14.235595"
-       x="69.544426"
-       y="1376.308"
+       x="73.093498"
+       y="1579.788"
        ry="2.440388"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
        inkscape:export-xdpi="78.064804"
        inkscape:export-ydpi="78.064804" />
     <rect
        ry="2.0571418"
-       y="1377.4258"
-       x="70.629028"
+       y="1580.9058"
+       x="74.178101"
        height="11.999992"
        width="11.643586"
        id="rect4907-0"
@@ -1085,8 +1110,8 @@
     <text
        sodipodi:linespacing="116%"
        id="text4895-8"
-       y="1373.203"
-       x="88.203888"
+       y="1576.683"
+       x="91.75296"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:115.99999666%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
@@ -1094,32 +1119,32 @@
        inkscape:export-ydpi="78.064804"><tspan
          id="tspan4897-8"
          style="font-size:12px;line-height:115.99999666%;fill:#000000"
-         y="1373.203"
-         x="88.203888"
+         y="1576.683"
+         x="91.75296"
          sodipodi:role="line">blue0</tspan><tspan
          style="font-size:12px;line-height:115.99999666%;fill:#eeeeec"
-         y="1387.123"
-         x="88.203888"
+         y="1590.603"
+         x="91.75296"
          sodipodi:role="line"
          id="tspan4903-4">blue1</tspan><tspan
          style="font-size:12px;fill:#000000"
-         y="1401.043"
-         x="88.203888"
+         y="1604.5229"
+         x="91.75296"
          sodipodi:role="line"
          id="tspan4905-5"><tspan
    style="line-height:115.99999666%"
    id="tspan5296">pi</tspan>nk1</tspan></text>
     <path
        style="fill:#2e3436;stroke:#2e3436;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="m 118.05761,1317.5924 0,12.4336"
+       d="m 121.60668,1521.0724 0,12.4336"
        id="path4901-1"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
        inkscape:export-xdpi="78.064804"
        inkscape:export-ydpi="78.064804" />
     <rect
-       y="1313.2839"
-       x="62.854713"
+       y="1516.7639"
+       x="66.403786"
        height="22.056904"
        width="1.8003136"
        id="rect5190"
@@ -1132,8 +1157,8 @@
        id="rect5192"
        width="1.8003136"
        height="22.056904"
-       x="155.93329"
-       y="1313.2839"
+       x="159.48236"
+       y="1516.7639"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
        inkscape:export-xdpi="78.064804"
        inkscape:export-ydpi="78.064804" />
@@ -1142,14 +1167,14 @@
        id="rect5196"
        width="1.8003136"
        height="22.056904"
-       x="62.854713"
-       y="1357.3003"
+       x="66.403786"
+       y="1560.7803"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
        inkscape:export-xdpi="78.064804"
        inkscape:export-ydpi="78.064804" />
     <rect
-       y="1357.3003"
-       x="155.93329"
+       y="1560.7803"
+       x="159.48236"
        height="22.056904"
        width="1.8003136"
        id="rect5198"
@@ -1162,16 +1187,16 @@
        id="rect5200"
        width="11.643586"
        height="11.999992"
-       x="70.629028"
-       y="1391.5101"
+       x="74.178101"
+       y="1594.9901"
        ry="2.0571418"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
        inkscape:export-xdpi="78.064804"
        inkscape:export-ydpi="78.064804" />
     <rect
        ry="2.440388"
-       y="1376.308"
-       x="69.544426"
+       y="1579.788"
+       x="73.093498"
        height="14.235595"
        width="82.548988"
        id="rect5356"
@@ -1182,8 +1207,8 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
-       x="259.53955"
-       y="1287.4907"
+       x="263.08862"
+       y="1490.9707"
        id="text5360"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
@@ -1191,29 +1216,29 @@
        inkscape:export-ydpi="78.064804"><tspan
          sodipodi:role="line"
          id="tspan5362"
-         x="259.53955"
-         y="1287.4907"
+         x="263.08862"
+         y="1490.9707"
          style="font-size:16px;fill:#2e3436">normal mode, with color name </tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5364"
-       y="1330.4282"
-       x="260.10986"
+       y="1533.9082"
+       x="263.65894"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
        inkscape:export-xdpi="78.064804"
        inkscape:export-ydpi="78.064804"><tspan
          style="font-size:16px;fill:#2e3436"
-         y="1330.4282"
-         x="260.10986"
+         y="1533.9082"
+         x="263.65894"
          sodipodi:role="line"
          id="tspan5372">edit mode, directly enter a name existing in palette </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
-       x="260.10986"
-       y="1374.1"
+       x="263.65894"
+       y="1577.58"
        id="text5368"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
@@ -1221,14 +1246,14 @@
        inkscape:export-ydpi="78.064804"><tspan
          sodipodi:role="line"
          id="tspan5370"
-         x="260.10986"
-         y="1374.1"
+         x="263.65894"
+         y="1577.58"
          style="font-size:16px;fill:#2e3436">edit mode, choose a color from dropdown list</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:33.65345001px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
-       x="235.97302"
-       y="1290.1255"
+       x="239.52209"
+       y="1493.6055"
        id="text5378"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
@@ -1236,16 +1261,421 @@
        inkscape:export-ydpi="78.064804"><tspan
          sodipodi:role="line"
          id="tspan5380"
-         x="235.97302"
-         y="1290.1255">1</tspan><tspan
+         x="239.52209"
+         y="1493.6055">1</tspan><tspan
          sodipodi:role="line"
-         x="235.97302"
-         y="1332.1923"
+         x="239.52209"
+         y="1535.6722"
          id="tspan5382">2</tspan><tspan
          sodipodi:role="line"
-         x="235.97302"
-         y="1374.2592"
+         x="239.52209"
+         y="1577.7391"
          id="tspan5384">3</tspan></text>
+    <rect
+       inkscape:export-ydpi="78.064804"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       y="1711.5845"
+       x="-44.10944"
+       height="116.15327"
+       width="270.98633"
+       id="rect5428"
+       style="fill:#eeeeec;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#cbcfc7;fill-opacity:1;stroke:none;display:inline"
+       id="rect5432"
+       width="270.75488"
+       height="22.208189"
+       x="-43.863483"
+       y="1720.5485"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <rect
+       inkscape:export-ydpi="78.064804"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       style="fill:#babdb6;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504"
+       width="1.8003136"
+       height="22.056904"
+       x="66.403786"
+       y="1721.114" />
+    <rect
+       inkscape:export-ydpi="78.064804"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       y="1721.114"
+       x="159.48236"
+       height="22.056904"
+       width="1.8003136"
+       id="rect5506"
+       style="fill:#babdb6;fill-opacity:1;stroke:none;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="-20.07831"
+       y="1735.5774"
+       id="text5590"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5592"
+         x="-20.07831"
+         y="1735.5774"
+         style="font-size:12px">Z Depth</tspan></text>
+    <image
+       style="display:inline"
+       y="1726.2668"
+       x="-35.403736"
+       id="image5594"
+       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/type_real_icon.png"
+       height="12"
+       width="12" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5596"
+       y="1736.7405"
+       x="165.90883"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan5598"
+         style="font-size:12px;fill:#555753"
+         y="1736.7405"
+         x="165.90883"
+         sodipodi:role="line">real </tspan></text>
+    <rect
+       style="fill:#d3d7cf;fill-opacity:1;stroke:#2e3436;stroke-width:0.73051804;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5600"
+       width="78.685616"
+       height="15.430412"
+       x="73.932556"
+       y="1724.6106"
+       ry="2.3097069" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5606"
+       y="1736.2921"
+       x="86.297836"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan5608"
+         style="font-size:12px"
+         y="1736.2921"
+         x="86.297836"
+         sodipodi:role="line">     1.0     </tspan></text>
+    <rect
+       inkscape:export-ydpi="78.064804"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       y="1759.4296"
+       x="-43.863483"
+       height="22.208189"
+       width="270.75488"
+       id="rect5616"
+       style="fill:#cbcfc7;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       y="1759.9951"
+       x="66.403786"
+       height="22.056904"
+       width="1.8003136"
+       id="rect5618"
+       style="fill:#babdb6;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <rect
+       style="fill:#babdb6;fill-opacity:1;stroke:none;display:inline"
+       id="rect5620"
+       width="1.8003136"
+       height="22.056904"
+       x="159.48236"
+       y="1759.9951"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5622"
+       y="1774.4585"
+       x="-20.07831"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px"
+         y="1774.4585"
+         x="-20.07831"
+         id="tspan5624"
+         sodipodi:role="line">Z Depth</tspan></text>
+    <image
+       width="12"
+       height="12"
+       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/type_real_icon.png"
+       id="image5626"
+       x="-35.403736"
+       y="1765.1479"
+       style="display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="165.90883"
+       y="1775.6216"
+       id="text5628"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="165.90883"
+         y="1775.6216"
+         style="font-size:12px;fill:#555753"
+         id="tspan5630">real </tspan></text>
+    <rect
+       ry="2.3097069"
+       y="1763.4917"
+       x="73.932556"
+       height="15.430412"
+       width="78.685616"
+       id="rect5632"
+       style="fill:#d3d7cf;fill-opacity:1;stroke:#2e3436;stroke-width:0.73051804;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       style="fill:#babdb6;fill-opacity:1;stroke:#2e3436;stroke-width:0.33784968;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5634"
+       width="16.829861"
+       height="15.430412"
+       x="73.886589"
+       y="1763.4917"
+       ry="2.3097069" />
+    <rect
+       ry="2.3097069"
+       y="1763.4917"
+       x="135.8866"
+       height="15.430412"
+       width="16.829861"
+       id="rect5636"
+       style="fill:#babdb6;fill-opacity:1;stroke:#2e3436;stroke-width:0.33784968;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="76.297836"
+       y="1775.1732"
+       id="text5638"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="76.297836"
+         y="1775.1732"
+         style="font-size:12px"
+         id="tspan5640"><tspan
+   id="tspan5642"
+   style="fill:#2e3436">&lt;</tspan>     1.0    <tspan
+   id="tspan5644"
+   style="fill:#2e3436">&gt;</tspan></tspan></text>
+    <rect
+       inkscape:export-ydpi="78.064804"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       style="fill:#cbcfc7;fill-opacity:1;stroke:none;display:inline"
+       id="rect5646"
+       width="270.70978"
+       height="22.208189"
+       x="-43.818348"
+       y="1794.3035" />
+    <rect
+       style="fill:#babdb6;fill-opacity:1;stroke:none;display:inline"
+       id="rect5648"
+       width="1.8003136"
+       height="22.056904"
+       x="66.403786"
+       y="1794.2649"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <rect
+       y="1794.2649"
+       x="159.48236"
+       height="22.056904"
+       width="1.8003136"
+       id="rect5650"
+       style="fill:#babdb6;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-ydpi="78.064804" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="-20.07831"
+       y="1808.6107"
+       id="text5652"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5654"
+         x="-20.07831"
+         y="1808.6107"
+         style="font-size:12px">Z Depth</tspan></text>
+    <image
+       style="display:inline"
+       y="1799.3002"
+       x="-35.403736"
+       id="image5656"
+       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/type_real_icon.png"
+       height="12"
+       width="12" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5658"
+       y="1809.7738"
+       x="165.90883"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan5660"
+         style="font-size:12px;fill:#555753"
+         y="1809.7738"
+         x="165.90883"
+         sodipodi:role="line">real </tspan></text>
+    <rect
+       style="fill:#eeeeec;fill-opacity:1;stroke:#2e3436;stroke-width:0.73051804;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5662"
+       width="78.685616"
+       height="15.430412"
+       x="73.932556"
+       y="1797.6439"
+       ry="2.3097069" />
+    <rect
+       ry="2.3097069"
+       y="1797.6439"
+       x="73.886589"
+       height="15.430412"
+       width="16.829861"
+       id="rect5664"
+       style="fill:#babdb6;fill-opacity:1;stroke:#2e3436;stroke-width:0.33784968;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       style="fill:#babdb6;fill-opacity:1;stroke:#2e3436;stroke-width:0.33784968;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5666"
+       width="16.829861"
+       height="15.430412"
+       x="135.8866"
+       y="1797.6439"
+       ry="2.3097069" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5668"
+       y="1809.3254"
+       x="76.297836"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan5670"
+         style="font-size:12px"
+         y="1809.3254"
+         x="76.297836"
+         sodipodi:role="line"><tspan
+   style="fill:#2e3436"
+   id="tspan5672">&lt;</tspan>     1.0    <tspan
+   style="fill:#2e3436"
+   id="tspan5674">&gt;</tspan></tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5676"
+       d="m 126.68457,1798.6124 0,13.5576"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#eeeeec;fill-opacity:1;stroke:#204a87;stroke-width:1.29491258;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 197.05226,1727.299 2.58173,18.9178 3.8304,-5.1226 6.61696,8.9457 4.90183,-3.6258 -6.61695,-8.9457 6.01952,-2.1631 z"
+       id="rect5678"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path5685"
+       d="m 146.77377,1768.7048 2.58173,18.9178 3.8304,-5.1226 6.61696,8.9457 4.90183,-3.6258 -6.61695,-8.9457 6.01952,-2.1631 z"
+       style="fill:#eeeeec;fill-opacity:1;stroke:#204a87;stroke-width:1.29491258;stroke-miterlimit:4;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="78.064804"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       sodipodi:linespacing="125%"
+       id="text5691"
+       y="1735.6603"
+       x="263.08862"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:16px;fill:#2e3436"
+         y="1735.6603"
+         x="263.08862"
+         id="tspan5693"
+         sodipodi:role="line">normal mode</tspan></text>
+    <text
+       inkscape:export-ydpi="78.064804"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       x="263.65894"
+       y="1778.5978"
+       id="text5695"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5697"
+         sodipodi:role="line"
+         x="263.65894"
+         y="1778.5978"
+         style="font-size:16px;fill:#2e3436">edit mode, adjust by mouse click </tspan></text>
+    <text
+       inkscape:export-ydpi="78.064804"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       sodipodi:linespacing="125%"
+       id="text5699"
+       y="1822.2695"
+       x="263.65894"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:16px;fill:#2e3436"
+         y="1822.2695"
+         x="263.65894"
+         id="tspan5701"
+         sodipodi:role="line">edit mode, enter a value via keyboard</tspan></text>
+    <text
+       inkscape:export-ydpi="78.064804"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       sodipodi:linespacing="125%"
+       id="text5703"
+       y="1738.295"
+       x="239.52209"
+       style="font-size:33.65345001px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="1738.295"
+         x="239.52209"
+         id="tspan5705"
+         sodipodi:role="line">1</tspan><tspan
+         id="tspan5707"
+         y="1780.3618"
+         x="239.52209"
+         sodipodi:role="line">2</tspan><tspan
+         id="tspan5709"
+         y="1822.4287"
+         x="239.52209"
+         sodipodi:role="line">3</tspan></text>
+    <rect
+       style="fill:url(#linearGradient5719);fill-opacity:1;stroke:none"
+       id="rect5711"
+       width="739.38947"
+       height="5.9151158"
+       x="-60.917744"
+       y="1639.7258"
+       ry="2.9575579" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path5723"
+       d="m 146.18226,1584.1532 2.58173,18.9178 3.8304,-5.1226 6.61696,8.9457 4.90183,-3.6258 -6.61695,-8.9457 6.01952,-2.1631 z"
+       style="fill:#eeeeec;fill-opacity:1;stroke:#204a87;stroke-width:1.29491258;stroke-miterlimit:4;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:57.16307448999999252px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#d3d7cf;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-49.123756"
+       y="1354.5308"
+       id="text5725"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5727"
+         x="-49.123756"
+         y="1354.5308">Parameter Widgets </tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2954,8 +3384,8 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-48.010689"
-       y="1130.3212"
+       x="-44.46162"
+       y="1333.8011"
        id="text5386"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
@@ -2963,8 +3393,22 @@
        inkscape:export-ydpi="78.064804"><tspan
          sodipodi:role="line"
          id="tspan5388"
-         x="-48.010689"
-         y="1130.3212">Color Parameter Widget</tspan></text>
+         x="-44.46162"
+         y="1333.8011">Color </tspan></text>
+    <text
+       inkscape:export-ydpi="78.064804"
+       inkscape:export-xdpi="78.064804"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/param-widgets.png"
+       sodipodi:linespacing="125%"
+       id="text5687"
+       y="1580.8567"
+       x="-44.46162"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="1580.8567"
+         x="-44.46162"
+         id="tspan5689"
+         sodipodi:role="line">Z Depth, Amount, Feather</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
