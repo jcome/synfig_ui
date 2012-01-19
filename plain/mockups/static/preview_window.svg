@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1151673"
-     inkscape:cx="906.88059"
-     inkscape:cy="148.62383"
+     inkscape:zoom="2.3293606"
+     inkscape:cx="945.23273"
+     inkscape:cy="124.07922"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -3725,7 +3725,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4634,7 +4634,10 @@
        width="1066.9442"
        height="596.66882"
        x="-126.8125"
-       y="-35.3563" />
+       y="-35.3563"
+       inkscape:export-filename="/home/jcome/synfig_ui/plain/mockups/static/preview_window_proposal2.png"
+       inkscape:export-xdpi="56.887764"
+       inkscape:export-ydpi="56.887764" />
     <g
        transform="translate(-741.22272,-108.96751)"
        style="display:inline"
@@ -5300,7 +5303,7 @@
                sodipodi:role="line"
                x="-113.79418"
                y="437.46658"
-               id="tspan7769">2011-11-26</tspan></text>
+               id="tspan7769">2012-01-19</tspan></text>
         </g>
       </g>
       <g
@@ -5983,7 +5986,7 @@
          transform="matrix(0.94378401,0,0,0.94378401,847.70573,-681.25397)" />
       <path
          style="fill:#fcaf3e;fill-opacity:1;stroke:none;display:inline"
-         d="m 867.16803,214.91197 104.91699,0 0,109.40063 -104.91699,0 0,-54.70032 0,-23.67507 -17.0378,-8.15871 17.0378,-9.19145 z"
+         d="m 867.16803,214.91197 104.91699,0 0,109.40063 -104.91699,0 0,-54.70032 0,-35.67507 -17.0378,3.84129 17.0378,-9.19145 z"
          id="rect6199"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccc" />
@@ -6163,6 +6166,16 @@
         </g>
       </g>
     </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#fcaf3e;fill-opacity:1;stroke:none"
+       id="path4494"
+       sodipodi:cx="914.414"
+       sodipodi:cy="437.06592"
+       sodipodi:rx="4.2930236"
+       sodipodi:ry="4.2930236"
+       d="m 918.70703,437.06592 a 4.2930236,4.2930236 0 1 1 -8.58605,0 4.2930236,4.2930236 0 1 1 8.58605,0 z"
+       transform="translate(-117.36785,-31.160872)" />
   </g>
   <g
      inkscape:groupmode="layer"
