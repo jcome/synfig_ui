@@ -599,16 +599,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.30661756"
-     inkscape:cx="742.25541"
-     inkscape:cy="71.885223"
+     inkscape:zoom="0.49518875"
+     inkscape:cx="992.73624"
+     inkscape:cy="242.4972"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer17"
      showgrid="false"
      inkscape:window-width="1440"
-     inkscape:window-height="844"
+     inkscape:window-height="847"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -873,7 +873,7 @@
          inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
          width="128"
          height="128"
-         xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/tool_sketch_icon.png"
+         xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/tool_sketch_icon.png"
          id="image10859"
          x="600.57654"
          y="353.7023" />
@@ -982,7 +982,7 @@
        y="114.65262"
        x="0.73196244"
        id="image4556"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/about_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/about_icon.png"
        height="31.5998"
        width="31.5998" />
   </g>
@@ -1013,7 +1013,7 @@
        y="346.24841"
        x="1308.8079"
        id="image3474"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/layer_icon.png"
        height="22"
        width="22"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -1024,7 +1024,7 @@
        y="345.81284"
        x="1279.0927"
        id="image5605"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/group_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/group_icon.png"
        height="22"
        width="22" />
     <rect
@@ -2079,7 +2079,7 @@
        y="419.71677"
        x="1307.801"
        id="image7035"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_geometry_polygon_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/layer_geometry_polygon_icon.png"
        height="16"
        width="16" />
     <image
@@ -2087,7 +2087,7 @@
        y="483.99643"
        x="1307.801"
        id="image7100"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_example_metaballs_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/layer_example_metaballs_icon.png"
        height="16"
        width="16" />
     <image
@@ -2095,7 +2095,7 @@
        y="462.56992"
        x="1307.801"
        id="image7181"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_gradient_spiral_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/layer_gradient_spiral_icon.png"
        height="16"
        width="16" />
     <image
@@ -2103,7 +2103,7 @@
        y="441.14328"
        x="1307.801"
        id="image7264"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_geometry_region_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/layer_geometry_region_icon.png"
        height="16"
        width="16" />
     <image
@@ -2111,7 +2111,7 @@
        y="505.423"
        x="1307.801"
        id="image7347"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_geometry_advanced_outline_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/layer_geometry_advanced_outline_icon.png"
        height="16"
        width="16" />
     <image
@@ -2119,13 +2119,13 @@
        y="526.84955"
        x="1286.7797"
        id="image7430"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_transform_translate_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/layer_transform_translate_icon.png"
        height="16"
        width="16" />
     <image
        width="16"
        height="16"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_geometry_advanced_outline_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/layer_geometry_advanced_outline_icon.png"
        id="image7453"
        x="1286.7797"
        y="569.7027"
@@ -2133,7 +2133,7 @@
     <image
        width="16"
        height="16"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_geometry_region_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/layer_geometry_region_icon.png"
        id="image7451"
        x="1286.7797"
        y="548.27606"
@@ -2141,7 +2141,7 @@
     <image
        width="16"
        height="16"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_geometry_advanced_outline_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/layer_geometry_advanced_outline_icon.png"
        id="image7453-1"
        x="1286.7797"
        y="612.55585"
@@ -2149,7 +2149,7 @@
     <image
        width="16"
        height="16"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_geometry_region_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/layer_geometry_region_icon.png"
        id="image7451-1"
        x="1286.7797"
        y="591.12921"
@@ -2159,7 +2159,7 @@
        y="633.98236"
        x="1286.7797"
        id="image6936-6"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_other_pastecanvas_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/layer_other_pastecanvas_icon.png"
        height="16"
        width="16" />
     <g
@@ -2180,7 +2180,7 @@
       <image
          width="16"
          height="16"
-         xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_geometry_polygon_icon.png"
+         xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/layer_geometry_polygon_icon.png"
          id="image7035-7"
          x="1299.9576"
          y="655.40894"
@@ -2189,7 +2189,7 @@
     <image
        width="16"
        height="16"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_geometry_advanced_outline_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/layer_geometry_advanced_outline_icon.png"
        id="image7453-1-2"
        x="1290.5326"
        y="676.83551"
@@ -2206,7 +2206,7 @@
        y="345.81284"
        x="1338.4827"
        id="image11054"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/keyframe_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/keyframe_icon.png"
        height="22"
        width="22"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -2217,7 +2217,7 @@
        y="345.81284"
        x="1368.1777"
        id="image4706"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/children_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/children_icon.png"
        height="22"
        width="22"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -2228,7 +2228,7 @@
        y="345.82764"
        x="1249.3662"
        id="image5134"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/preview_options_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/preview_options_icon.png"
        height="22"
        width="22"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -2239,7 +2239,7 @@
        y="345.81284"
        x="1398.3123"
        id="image5753"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/render_options_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/render_options_icon.png"
        height="22"
        width="22" />
     <g
@@ -2278,14 +2278,14 @@
              y="919.5791"
              x="65.166847"
              id="image6157"
-             xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/select_all_child_layers_icon.png"
+             xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/select_all_child_layers_icon.png"
              height="22.231432"
              width="21.704557" />
           <image
              y="919.5791"
              x="95.4207"
              id="image6240"
-             xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/encapsulate_icon.png"
+             xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/encapsulate_icon.png"
              height="22.231432"
              width="21.704557" />
           <path
@@ -2312,7 +2312,7 @@
          clip-path="url(#clipPath8018)"
          width="16"
          height="16"
-         xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_other_pastecanvas_icon.png"
+         xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/layer_other_pastecanvas_icon.png"
          id="image6936"
          x="1279.4491"
          y="398.29016"
@@ -2324,7 +2324,7 @@
          y="398.29016"
          x="1279.4491"
          id="image8004"
-         xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/layer_other_pastecanvas_icon.png"
+         xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/layer_other_pastecanvas_icon.png"
          height="16"
          width="16" />
     </g>
@@ -2367,7 +2367,7 @@
        y="79.961975"
        x="1368.1777"
        id="image4771"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/canvas_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/canvas_icon.png"
        height="22"
        width="22"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -2378,7 +2378,7 @@
        y="79.961975"
        x="1338.4827"
        id="image10989"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/meta_data_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/meta_data_icon.png"
        height="22"
        width="22"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -2389,7 +2389,7 @@
        y="79.961975"
        x="1279.0927"
        id="image11119"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/info_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/info_icon.png"
        height="22"
        width="22"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -2399,7 +2399,7 @@
        y="79.961975"
        x="1308.7877"
        id="image3541"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/palette_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/palette_icon.png"
        height="22"
        width="22"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -2411,7 +2411,7 @@
        y="79.961975"
        x="1398.3123"
        id="image5528"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/navigator_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/navigator_icon.png"
        height="22"
        width="22" />
     <image
@@ -2419,7 +2419,7 @@
        y="80.040939"
        x="1249.3662"
        id="image5670"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/history_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/history_icon.png"
        height="22"
        width="22" />
     <rect
@@ -3878,67 +3878,6 @@
          inkscape:export-xdpi="45.510212"
          inkscape:export-ydpi="45.510212" />
       <path
-         sodipodi:type="arc"
-         style="fill:#4e9a06;fill-opacity:1;stroke:#2e3436;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         id="path3327"
-         sodipodi:cx="363.91913"
-         sodipodi:cy="776.82739"
-         sodipodi:rx="15.396579"
-         sodipodi:ry="15.396579"
-         d="m 379.31571,776.82739 a 15.396579,15.396579 0 1 1 -30.79316,0 15.396579,15.396579 0 1 1 30.79316,0 z"
-         transform="matrix(0.64259765,0,0,0.64259765,133.92651,355.05847)"
-         inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-         inkscape:export-xdpi="45.510212"
-         inkscape:export-ydpi="45.510212" />
-      <path
-         transform="matrix(0.64259765,0,0,0.64259765,133.92651,355.05847)"
-         d="m 363.95565,761.43086 a 15.396579,15.396579 0 0 1 0.0278,30.79298 l -0.0644,-15.39645 z"
-         sodipodi:ry="15.396579"
-         sodipodi:rx="15.396579"
-         sodipodi:cy="776.82739"
-         sodipodi:cx="363.91913"
-         id="path3329"
-         style="fill:#73d216;fill-opacity:1;stroke:#2e3436;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         sodipodi:type="arc"
-         sodipodi:start="4.7147608"
-         sodipodi:end="7.8498015"
-         inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-         inkscape:export-xdpi="45.510212"
-         inkscape:export-ydpi="45.510212" />
-      <g
-         transform="translate(0,7.421875e-6)"
-         style="display:inline"
-         id="g3605">
-        <path
-           inkscape:export-ydpi="45.510212"
-           inkscape:export-xdpi="45.510212"
-           inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-           sodipodi:type="arc"
-           style="fill:#4e9a06;fill-opacity:1;stroke:#2e3436;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           id="path3331"
-           sodipodi:cx="363.91913"
-           sodipodi:cy="776.82739"
-           sodipodi:rx="15.396579"
-           sodipodi:ry="15.396579"
-           d="m 379.31571,776.82739 a 15.396579,15.396579 0 1 1 -30.79316,0 15.396579,15.396579 0 1 1 30.79316,0 z"
-           transform="matrix(0.64259765,0,0,0.64259765,164.24289,354.8021)" />
-        <path
-           inkscape:export-ydpi="45.510212"
-           inkscape:export-xdpi="45.510212"
-           inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-           transform="matrix(0.64259765,0,0,0.64259765,164.24289,354.8021)"
-           d="m 364.03652,761.43126 a 15.396579,15.396579 0 0 1 -0.053,30.79258 l -0.0644,-15.39645 z"
-           sodipodi:ry="15.396579"
-           sodipodi:rx="15.396579"
-           sodipodi:cy="776.82739"
-           sodipodi:cx="363.91913"
-           id="path3333"
-           style="fill:#73d216;fill-opacity:1;stroke:#2e3436;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           sodipodi:type="arc"
-           sodipodi:start="4.7200136"
-           sodipodi:end="7.8498015" />
-      </g>
-      <path
          inkscape:connector-curvature="0"
          id="path3163"
          d="m 820.20441,730.66075 0,199.11255"
@@ -3995,12 +3934,6 @@
          inkscape:export-xdpi="45.510212"
          inkscape:export-ydpi="45.510212" />
       <path
-         style="fill:#204a87;fill-opacity:1;stroke:#2e3436;stroke-width:0.63999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         d="m 790.30844,779.4375 c -0.82638,0.0279 -1.95174,0.15645 -2.71469,0.375 l -1.53125,4.5 -3.375,-1.28125 c -0.90429,1.09574 -1.57066,2.39555 -1.9375,3.8125 l 3.5625,2.5 -3.5625,2.5 c 0.37322,1.41416 1.0598,2.72103 1.96875,3.8125 l 3.34375,-1.3125 1.53125,4.5 c 0.76267,0.21846 1.88864,0.31579 2.71469,0.34375 z"
-         id="path3339"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccccccc" />
-      <path
          sodipodi:type="arc"
          style="fill:#4e9a06;fill-opacity:1;stroke:#2e3436;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          id="path3343"
@@ -4032,18 +3965,6 @@
          style="font-size:35.20240021px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#204a87;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
          id="text4784"
          transform="matrix(1.3306651,0,0,1.3306651,-261.68764,-261.00155)" />
-      <g
-         id="g4814"
-         style="font-size:35.20240021px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3465a4;fill-opacity:1;stroke:#2e3436;stroke-width:0.48096249;stroke-miterlimit:4;stroke-dasharray:none;display:inline;font-family:Sans"
-         transform="matrix(-1.3306651,0,0,1.3306651,1842.3688,-261.00155)">
-        <path
-           style="font-weight:bold;fill:#3465a4;stroke:#2e3436;stroke-width:0.63999999;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:Sans Bold"
-           d="m 790.42312,779.4375 0,19.75 c 0.83255,-0.0291 1.90271,-0.12128 2.67063,-0.34375 l 1.53125,-4.5 3.34375,1.28125 c 0.90106,-1.09183 1.56979,-2.40148 1.9375,-3.8125 l -3.53125,-2.46875 3.53125,-2.5 c -0.36684,-1.41695 -1.03321,-2.71676 -1.9375,-3.8125 l -3.34375,1.28125 -1.53125,-4.5 c -0.76822,-0.22255 -1.83774,-0.34601 -2.67063,-0.375 z"
-           transform="matrix(-0.75150389,0,0,0.75150389,1384.5473,196.14368)"
-           id="path4818"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccccccccc" />
-      </g>
       <g
          transform="matrix(0.64430487,0,0,1,98.6368,-2.578125e-6)"
          style="display:inline"
@@ -4096,39 +4017,6 @@
          d="m 699.77079,710.80427 c -2.52584,0 -4.58374,1.91129 -4.58374,4.24284 0,1.9135 1.4049,3.49748 3.29573,4.01552 l 0,10.75855 1.17436,0 1.17435,0 0,-2.61387 2.57599,0 0,-2.31085 -2.57599,0 0,-5.75809 c 2.0078,-0.44591 3.52304,-2.1011 3.52304,-4.09126 0,-2.33155 -2.0579,-4.24284 -4.58374,-4.24284 z m 0,2.15099 c 1.10098,0 2.24337,1.07549 2.24337,2.09185 0,1.01626 -1.14239,2.05394 -2.24337,2.05394 -1.10098,0 -2.2055,-1.03768 -2.2055,-2.05394 0,-1.01636 1.10452,-2.09185 2.2055,-2.09185 z"
          clip-path="none"
          style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
-      <g
-         style="display:inline"
-         id="g3609"
-         transform="translate(30.16458,7.421875e-6)">
-        <path
-           transform="matrix(0.64259765,0,0,0.64259765,164.24289,354.8021)"
-           d="m 379.31571,776.82739 a 15.396579,15.396579 0 1 1 -30.79316,0 15.396579,15.396579 0 1 1 30.79316,0 z"
-           sodipodi:ry="15.396579"
-           sodipodi:rx="15.396579"
-           sodipodi:cy="776.82739"
-           sodipodi:cx="363.91913"
-           id="path3611"
-           style="fill:#4e9a06;fill-opacity:1;stroke:#2e3436;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           sodipodi:type="arc"
-           inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-           inkscape:export-xdpi="45.510212"
-           inkscape:export-ydpi="45.510212" />
-        <path
-           sodipodi:end="7.8498015"
-           sodipodi:start="4.7200136"
-           sodipodi:type="arc"
-           style="fill:#73d216;fill-opacity:1;stroke:#2e3436;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           id="path3613"
-           sodipodi:cx="363.91913"
-           sodipodi:cy="776.82739"
-           sodipodi:rx="15.396579"
-           sodipodi:ry="15.396579"
-           d="m 364.03652,761.43126 a 15.396579,15.396579 0 0 1 -0.053,30.79258 l -0.0644,-15.39645 z"
-           transform="matrix(0.64259765,0,0,0.64259765,164.24289,354.8021)"
-           inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
-           inkscape:export-xdpi="45.510212"
-           inkscape:export-ydpi="45.510212" />
-      </g>
       <rect
          y="-944.5498"
          x="277.46899"
@@ -4345,6 +4233,69 @@
              id="tspan4113"
              sodipodi:role="line">TCB       Smart TCB       Ease In/Out    Constant    Linear      Jump to      Duplicate      Remove</tspan></text>
       </g>
+      <g
+         id="g4664">
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect3889"
+           d="m 759.88746,779.58692 9.97407,9.97407 -9.97407,9.97408 z"
+           style="fill:#ff6600;fill-rule:evenodd;stroke:#000000;stroke-width:0.71748495px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect3891"
+           d="m 759.88746,779.58692 0,19.94815 -9.97407,-9.97407 z"
+           style="fill:#aa4400;fill-rule:evenodd;stroke:#000000;stroke-width:0.71711582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         id="g4668"
+         transform="translate(-331.54969,64.571023)">
+        <path
+           style="fill:#ff6600;fill-rule:evenodd;stroke:#000000;stroke-width:0.71748495px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           d="m 759.88746,779.58692 9.97407,9.97407 -9.97407,9.97408 z"
+           id="path4670"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:#aa4400;fill-rule:evenodd;stroke:#000000;stroke-width:0.71711582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 759.88746,779.58692 0,19.94815 -9.97407,-9.97407 z"
+           id="path4672"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <g
+         transform="translate(-361.87392,64.571023)"
+         id="g4674">
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path4676"
+           d="m 759.88746,779.58692 9.97407,9.97407 -9.97407,9.97408 z"
+           style="fill:#ff6600;fill-rule:evenodd;stroke:#000000;stroke-width:0.71748495px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path4678"
+           d="m 759.88746,779.58692 0,19.94815 -9.97407,-9.97407 z"
+           style="fill:#aa4400;fill-rule:evenodd;stroke:#000000;stroke-width:0.71711582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         id="g4680"
+         transform="translate(-392.37243,64.571023)">
+        <path
+           style="fill:#ff6600;fill-rule:evenodd;stroke:#000000;stroke-width:0.71748495px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           d="m 759.88746,779.58692 9.97407,9.97407 -9.97407,9.97408 z"
+           id="path4682"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:#aa4400;fill-rule:evenodd;stroke:#000000;stroke-width:0.71711582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 759.88746,779.58692 0,19.94815 -9.97407,-9.97407 z"
+           id="path4684"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -4504,7 +4455,7 @@
          y="739.60596"
          x="14.224186"
          id="image4313"
-         xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/type_real_icon.png"
+         xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/type_real_icon.png"
          height="12"
          width="12" />
       <rect
@@ -4546,7 +4497,7 @@
       <image
          width="12"
          height="12"
-         xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/type_real_icon.png"
+         xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/type_real_icon.png"
          id="image4362"
          x="14.224186"
          y="760.89771"
@@ -4568,7 +4519,7 @@
          y="784.04541"
          x="13.641308"
          id="image4432"
-         xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/type_integer_icon.png"
+         xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/type_integer_icon.png"
          height="12"
          width="12" />
       <image
@@ -4576,7 +4527,7 @@
          y="805.2124"
          x="15.815054"
          id="image4515"
-         xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/type_color_icon.png"
+         xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/type_color_icon.png"
          height="12"
          width="12" />
       <text
@@ -4688,7 +4639,7 @@
          y="826.26056"
          x="15.656212"
          id="image4666"
-         xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/type_vector_icon.png"
+         xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/type_vector_icon.png"
          height="12"
          width="12" />
       <text
@@ -4784,7 +4735,7 @@
          y="849.07825"
          x="15.628106"
          id="image3659"
-         xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/type_bool_icon.png"
+         xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/type_bool_icon.png"
          height="12"
          width="12" />
       <rect
@@ -4827,7 +4778,7 @@
        y="91.319"
        x="8.3218365"
        id="image3673"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/tool_normal_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/tool_normal_icon.png"
        height="24"
        width="24"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -4837,7 +4788,7 @@
        y="126.24261"
        x="8.3218365"
        id="image3898"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/tool_bline_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/tool_bline_icon.png"
        height="24"
        width="24"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -4847,7 +4798,7 @@
        y="196.08968"
        x="8.3218365"
        id="image3963"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/tool_rotate_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/tool_rotate_icon.png"
        height="24"
        width="24"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -4857,7 +4808,7 @@
        y="265.9368"
        x="8.3218365"
        id="image4098"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/tool_scale_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/tool_scale_icon.png"
        height="24"
        width="24"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -4867,7 +4818,7 @@
        y="231.01321"
        x="8.3218365"
        id="image4298"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/tool_mirror_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/tool_mirror_icon.png"
        height="24"
        width="24"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -4877,7 +4828,7 @@
        y="161.16612"
        x="8.3218365"
        id="image4363"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/tool_draw_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/tool_draw_icon.png"
        height="24"
        width="24"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -4888,7 +4839,7 @@
        y="301.30746"
        x="8.3218365"
        id="image7758"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/tool_fill_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/tool_fill_icon.png"
        height="24"
        width="24" />
   </g>
@@ -4924,7 +4875,7 @@
        y="685.07172"
        x="1199.0476"
        id="image4838"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/animate_mode_off_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/animate_mode_off_icon.png"
        height="17.815594"
        width="17.815594"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -4934,7 +4885,7 @@
        y="685.07172"
        x="1161.8826"
        id="image4903"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/keyframe_lock_future_off_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/keyframe_lock_future_off_icon.png"
        height="17.815594"
        width="17.815594"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -4944,7 +4895,7 @@
        y="685.2561"
        x="1140.103"
        id="image4968"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/keyframe_lock_past_off_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/keyframe_lock_past_off_icon.png"
        height="17.815594"
        width="17.815594"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -4954,7 +4905,7 @@
        y="685.2406"
        x="272.87659"
        id="image5264"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/onion_skin_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/onion_skin_icon.png"
        height="17.999989"
        width="17.999989"
        inkscape:transform-center-x="119.67333"
@@ -5274,7 +5225,7 @@
        y="685.34906"
        x="316.52689"
        id="image4430"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/duck_position_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/duck_position_icon.png"
        height="17.78318"
        width="17.78318"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -5285,7 +5236,7 @@
        y="685.34906"
        x="390.57773"
        id="image4495"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/duck_radius_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/duck_radius_icon.png"
        height="17.78318"
        width="17.78318"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -5296,7 +5247,7 @@
        y="685.34906"
        x="341.21051"
        id="image4560"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/duck_tangent_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/duck_tangent_icon.png"
        height="17.78318"
        width="17.78318"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -5307,7 +5258,7 @@
        y="685.34906"
        x="365.89407"
        id="image4641"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/duck_vertex_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/duck_vertex_icon.png"
        height="17.78318"
        width="17.78318"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -5317,28 +5268,28 @@
        y="685.2406"
        x="439.83652"
        id="image4313-0"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/duck_width_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/duck_width_icon.png"
        height="17.999989"
        width="17.999989" />
     <image
        y="685.2406"
        x="415.15292"
        id="image4378"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/duck_angle_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/duck_angle_icon.png"
        height="17.999989"
        width="17.999989" />
     <image
        y="685.2406"
        x="215.59869"
        id="image4443"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/show_grid_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/show_grid_icon.png"
        height="17.999989"
        width="17.999989" />
     <image
        y="685.2406"
        x="240.07309"
        id="image4508"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/snap_grid_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/snap_grid_icon.png"
        height="17.999989"
        width="17.999989" />
     <g
@@ -5505,7 +5456,7 @@
         <image
            width="807.26917"
            height="454.08893"
-           xlink:href="file:///home/jcome/synfig_ui/plain/assets/synfig-duck.png"
+           xlink:href="file:///home/jcome/src/synfig_ui/plain/assets/synfig-duck.png"
            id="image13169-5"
            x="379.32736"
            y="179.97903"
@@ -5604,6 +5555,31 @@
              style="fill:none;stroke:#ce5c00;stroke-width:6;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
         </g>
       </g>
+    </g>
+    <rect
+       style="fill:#cccccc;stroke-width:0.75599998000000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke:#666666"
+       id="rect4716"
+       width="63.543961"
+       height="17.849426"
+       x="992.42804"
+       y="685.46246"
+       ry="2.4373415" />
+    <g
+       id="g4686"
+       transform="matrix(0.82931889,0,0,0.82931889,722.33686,-122.96537)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:48.23235321px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="344.7128"
+         y="990.06616"
+         id="text4688"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4690"
+           x="344.7128"
+           y="990.06616"
+           style="font-size:12.05808735px">3s 20f</tspan></text>
     </g>
   </g>
   <g
@@ -5923,7 +5899,7 @@
          y="127.83411"
          x="1062.795"
          id="image4696"
-         xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/tool_draw_icon.png"
+         xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/tool_draw_icon.png"
          height="16"
          width="16"
          inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -5938,7 +5914,7 @@
          y="158.85745"
          x="1062.795"
          id="image4676"
-         xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/animate_mode_off_icon.png"
+         xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/animate_mode_off_icon.png"
          height="16"
          width="16"
          inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -6056,7 +6032,7 @@
          y="160.65199"
          x="1062.6866"
          id="image4773"
-         xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/preview_options_icon.png"
+         xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/preview_options_icon.png"
          height="16"
          width="16"
          inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
@@ -6070,7 +6046,7 @@
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        width="16"
        height="16"
-       xlink:href="file:///home/jcome/Source/synfig/synfig-studio/images/tool_draw_icon.png"
+       xlink:href="file:///home/jcome/src/synfig/synfig-studio/images/tool_draw_icon.png"
        id="image4816"
        x="1066.0215"
        y="50.962265" />
@@ -6157,24 +6133,6 @@
            style="fill:#2e3436;fill-opacity:1;stroke:none;display:inline" />
       </g>
     </g>
-    <path
-       style="fill:#fce94f;fill-opacity:1;stroke:#555753;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1"
-       d="m 800.25012,825.30243 -1.79714,-19.22505 12.78737,19.22505 c 25.64387,0 51.28773,0 76.9316,0 6.66102,0 12.0235,5.36248 12.0235,12.0235 l 0,22.54406 c 0,6.66102 -5.36248,12.0235 -12.0235,12.0235 l -87.92183,0 c -6.66102,0 -12.0235,-5.36248 -12.0235,-12.0235 l 0,-22.54406 c 0,-6.66102 5.36248,-12.0235 12.0235,-12.0235 z"
-       id="rect6050"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="scccsssssss" />
-    <text
-       xml:space="preserve"
-       style="font-size:15.29529381px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
-       x="853.58264"
-       y="793.01898"
-       id="text6053"
-       sodipodi:linespacing="125%"
-       transform="scale(0.93027099,1.0749556)"><tspan
-         sodipodi:role="line"
-         id="tspan6055"
-         x="853.58264"
-         y="793.01898">I'm smart guy</tspan></text>
     <path
        sodipodi:nodetypes="scccsssssss"
        inkscape:connector-curvature="0"
