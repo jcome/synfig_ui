@@ -599,16 +599,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.51228738"
-     inkscape:cx="946.08746"
-     inkscape:cy="590.81294"
+     inkscape:zoom="0.79324501"
+     inkscape:cx="151.64607"
+     inkscape:cy="13.539828"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="847"
+     inkscape:window-width="1024"
+     inkscape:window-height="746"
      inkscape:window-x="0"
-     inkscape:window-y="31"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -624,7 +624,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4353,13 +4353,13 @@
          id="rect3349"
          width="53.317684"
          height="17.421921"
-         x="8.1629181"
+         x="36.241825"
          y="922.34747"
          ry="2.160526" />
       <rect
          ry="2.160526"
          y="922.34747"
-         x="70.033539"
+         x="98.112442"
          height="17.421921"
          width="56.43325"
          id="rect3369"
@@ -4367,7 +4367,7 @@
       <rect
          ry="2.160526"
          y="922.34747"
-         x="177.48865"
+         x="205.56755"
          height="17.421921"
          width="28.23164"
          id="rect3373"
@@ -4377,13 +4377,13 @@
          id="rect3371"
          width="37.310886"
          height="17.421921"
-         x="134.5919"
+         x="162.67081"
          y="922.34747"
          ry="2.160526" />
       <g
          style="display:inline"
          id="g4100-2"
-         transform="matrix(0.82931889,0,0,0.82931889,5.561451,158.92104)">
+         transform="matrix(0.82931889,0,0,0.82931889,33.640358,158.92104)">
         <text
            xml:space="preserve"
            style="font-size:48.23235321px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -4781,6 +4781,80 @@
          sodipodi:ry="2.3204508"
          d="m 134.83042,878.09454 a 1.4655479,2.3204508 0 1 1 -2.9311,0 1.4655479,2.3204508 0 1 1 2.9311,0 z"
          transform="matrix(2.2326685,0,0,1.4101064,-137.02345,-382.42733)" />
+      <g
+         id="g4992">
+        <g
+           transform="matrix(0.87975546,0,0,0.87975546,-266.81279,113.37076)"
+           id="g4953"
+           style="display:inline">
+          <path
+             sodipodi:type="arc"
+             style="fill:#555753;fill-opacity:1;stroke:none;display:inline"
+             id="path4955"
+             sodipodi:cx="330.24509"
+             sodipodi:cy="930.56366"
+             sodipodi:rx="7.8486032"
+             sodipodi:ry="7.8486032"
+             d="m 338.09369,930.56366 c 0,4.33466 -3.51394,7.8486 -7.8486,7.8486 -4.33467,0 -7.84861,-3.51394 -7.84861,-7.8486 0,-4.33466 3.51394,-7.8486 7.84861,-7.8486 4.33466,0 7.8486,3.51394 7.8486,7.8486 z"
+             transform="matrix(0.72859908,0.72859908,-0.72859908,0.72859908,762.54254,10.098691)" />
+          <rect
+             style="fill:#555753;fill-opacity:1;stroke:none;display:inline"
+             id="rect4957"
+             width="7.8698578"
+             height="4.4090753"
+             x="-899.65759"
+             y="-429.82663"
+             transform="matrix(-0.70710678,-0.70710678,0.70710678,-0.70710678,0,0)" />
+          <path
+             transform="matrix(0.48497433,0.48497433,-0.48497433,0.48497433,616.29008,317.2629)"
+             d="m 338.09369,930.56366 c 0,4.33466 -3.51394,7.8486 -7.8486,7.8486 -4.33467,0 -7.84861,-3.51394 -7.84861,-7.8486 0,-4.33466 3.51394,-7.8486 7.84861,-7.8486 4.33466,0 7.8486,3.51394 7.8486,7.8486 z"
+             sodipodi:ry="7.8486032"
+             sodipodi:rx="7.8486032"
+             sodipodi:cy="930.56366"
+             sodipodi:cx="330.24509"
+             id="path4988"
+             style="fill:#cccccc;fill-opacity:1;stroke:none;display:inline"
+             sodipodi:type="arc" />
+        </g>
+      </g>
+      <rect
+         y="-916.13507"
+         x="-269.56113"
+         height="20.818815"
+         width="264.81339"
+         id="rect4990"
+         style="fill:#999999;fill-opacity:1;stroke:#2e3436;stroke-width:0.08915199;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         transform="scale(-1,-1)"
+         inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
+         inkscape:export-xdpi="45.510212"
+         inkscape:export-ydpi="45.510212" />
+      <g
+         transform="matrix(0.82931889,0,0,0.82931889,33.640358,134.52925)"
+         id="g4998"
+         style="display:inline">
+        <text
+           sodipodi:linespacing="125%"
+           id="text5000"
+           y="934.96729"
+           x="-25.068911"
+           style="font-size:48.2323494px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:12.05808735px"
+             y="934.96729"
+             x="-25.068911"
+             id="tspan5002"
+             sodipodi:role="line"><tspan
+   style="font-weight:bold"
+   id="tspan5033">Type</tspan>  real  tnteger <tspan
+   style="fill:#4d4d4d"
+   id="tspan5027">color  bool vector</tspan> animated</tspan></text>
+      </g>
+      <path
+         style="fill:#4d4d4d;display:inline"
+         d="m 261.15857,900.00989 5.7903,6.3637 -5.7903,6.36369 z"
+         id="rect5041"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
     </g>
   </g>
   <g
@@ -5914,7 +5988,7 @@
      style="display:inline">
     <g
        id="g6729"
-       transform="matrix(1.4934976,0,0,1.5059485,-52.247662,0.10836481)"
+       transform="matrix(1.4934976,0,0,1.5059485,91.431591,19.372622)"
        style="fill:#2e3436;display:inline"
        inkscape:export-filename="/home/jcome/synfig_ui/plain/ux/single-window-ui.png"
        inkscape:export-xdpi="45.510212"
@@ -5931,7 +6005,7 @@
          sodipodi:end="6.7674215"
          sodipodi:start="5.7391671"
          transform="matrix(1.2635118,0,0,1.3462648,7.9722833,-199.11308)"
-         d="m 55.359338,629.22255 a 4.2963042,5.9552736 0 0 1 0.126289,5.85469"
+         d="m 55.359338,629.22255 c 0.779411,1.78602 0.827326,4.00731 0.126289,5.85469"
          sodipodi:ry="5.9552736"
          sodipodi:rx="4.2963042"
          sodipodi:cy="632.30487"
@@ -5947,7 +6021,7 @@
          sodipodi:cy="632.30487"
          sodipodi:rx="4.2963042"
          sodipodi:ry="5.9552736"
-         d="m 54.281032,627.56155 a 4.2963042,5.9552736 0 0 1 0.569888,8.76651"
+         d="m 54.281032,627.56155 c 1.889899,1.98871 2.258905,5.72452 0.824198,8.34419 -0.08003,0.14613 -0.164892,0.28705 -0.25431,0.42232"
          transform="matrix(0.84158685,0,0,1.3877321,33.751408,-225.04195)"
          sodipodi:start="5.3617172"
          sodipodi:end="7.0249205"
@@ -6397,5 +6471,33 @@
          x="608.89343"
          id="tspan5066"
          sodipodi:role="line">Playback frames</tspan></text>
+    <path
+       style="fill:#fce94f;fill-opacity:1;stroke:#555753;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 4.8843868,973.89417 12.9321272,-18.80094 -1.941898,18.80094 c 25.64387,0 67.28773,0 92.931604,0 6.66102,0 12.0235,5.36252 12.0235,12.02352 l 0,22.54401 c 0,6.661 -5.36248,12.0235 -12.0235,12.0235 l -103.9218332,0 c -6.66102,0 -12.0235,-5.3625 -12.0235,-12.0235 l 0,-22.54401 c 0,-6.661 5.36248,-12.02352 12.0235,-12.02352 z"
+       id="path5035"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scccsssssss" />
+    <text
+       xml:space="preserve"
+       style="font-size:15.29529381px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-0.20837785"
+       y="922.34039"
+       id="text5037"
+       sodipodi:linespacing="125%"
+       transform="scale(0.93027099,1.0749556)"><tspan
+         sodipodi:role="line"
+         id="tspan5039"
+         x="-0.20837785"
+         y="922.34039">param filters,</tspan><tspan
+         sodipodi:role="line"
+         x="-0.20837785"
+         y="934.18793"
+         id="tspan5062"
+         style="font-size:8px">When the buttom </tspan><tspan
+         sodipodi:role="line"
+         x="-0.20837785"
+         y="944.18793"
+         id="tspan5064"
+         style="font-size:8px">activated, fileter bar slides out </tspan></text>
   </g>
 </svg>
