@@ -218,9 +218,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45965241"
-     inkscape:cx="818.10365"
-     inkscape:cy="210.36951"
+     inkscape:zoom="1.3351088"
+     inkscape:cx="263.24239"
+     inkscape:cy="176.22011"
      inkscape:document-units="px"
      inkscape:current-layer="g8326"
      showgrid="false"
@@ -237,7 +237,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -422,7 +422,12 @@
            x="-175.269"
            y="819.5777"
            id="tspan8467"
-           style="font-size:20.77077103px">All windows can be resized accordingly by draging its broder .</tspan></text>
+           style="font-size:20.77077103px">The number of windows can be easily changed by user,</tspan><tspan
+           sodipodi:role="line"
+           x="-175.269"
+           y="845.54114"
+           style="font-size:20.77077103px"
+           id="tspan3169">all of them can be resized accordingly by draging its broder.</tspan></text>
     </g>
     <g
        id="g4262"
