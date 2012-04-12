@@ -251,11 +251,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.89293668"
-     inkscape:cx="432.45538"
-     inkscape:cy="1245.2461"
+     inkscape:zoom="0.84549867"
+     inkscape:cx="467.67162"
+     inkscape:cy="1207.2126"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g5715"
      showgrid="false"
      inkscape:window-width="1024"
      inkscape:window-height="746"
@@ -276,6 +276,10 @@
        orientation="0,1"
        position="565.89762,1273.6594"
        id="guide4382" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="914.25336,1273.6594"
+       id="guide4596" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -285,7 +289,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -296,7 +300,7 @@
      transform="translate(35.46875,-262.6427)"
      style="display:inline">
     <rect
-       style="fill:#2e3436;fill-rule:evenodd;stroke:#2e3436;stroke-width:6.12924910000000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#2e3436;fill-rule:evenodd;stroke:#2e3436;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect2985"
        width="649.9787"
        height="494.00012"
@@ -537,130 +541,6 @@
      transform="translate(35.46875,-262.6427)" />
   <g
      inkscape:groupmode="layer"
-     id="layer5"
-     inkscape:label="note"
-     transform="translate(35.46875,45.625)">
-    <g
-       id="g5715"
-       transform="translate(-34.821911,24.308198)">
-      <g
-         transform="matrix(0.76901101,0,0,0.77161775,151.20931,-127.06531)"
-         id="g8338">
-        <rect
-           transform="matrix(1,0,0,-1,0,-308.2677)"
-           y="-522.65277"
-           x="747.00964"
-           height="20.807085"
-           width="124.11856"
-           id="rect8323"
-           style="fill:#729fcf" />
-        <text
-           xml:space="preserve"
-           style="font-size:21.81562614px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           x="745.15533"
-           y="233.24779"
-           id="text3057"
-           sodipodi:linespacing="100%"><tspan
-             sodipodi:role="line"
-             x="745.15533"
-             y="233.24779"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PT Sans;-inkscape-font-specification:PT Sans"
-             id="tspan8299">Main/Global MenuBar</tspan><tspan
-             id="tspan8439"
-             sodipodi:role="line"
-             x="745.15533"
-             y="248.92403"
-             style="font-size:12.98173141px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:PT Sans;-inkscape-font-specification:PT Sans">can be hidden or becomes a menu </tspan><tspan
-             id="tspan8449"
-             sodipodi:role="line"
-             x="745.15533"
-             y="261.90576"
-             style="font-size:12.98173141px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:PT Sans;-inkscape-font-specification:PT Sans">button staying global toolbar</tspan></text>
-      </g>
-      <g
-         transform="matrix(0.41514325,0,0,0.41655046,423.13193,50.688429)"
-         id="g8332">
-        <rect
-           transform="scale(1,-1)"
-           y="-193.7626"
-           x="727.57904"
-           height="38.543026"
-           width="229.91713"
-           id="rect8271"
-           style="fill:#d3d7cf" />
-        <text
-           sodipodi:linespacing="100%"
-           id="text3061"
-           y="228.70387"
-           x="725.31598"
-           style="font-size:40.41124725px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PT Sans;-inkscape-font-specification:PT Sans"
-             y="228.70387"
-             x="725.31598"
-             id="tspan3063"
-             sodipodi:role="line">Global Toolbar</tspan><tspan
-             id="tspan8441"
-             style="font-size:24.04734802px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:PT Sans;-inkscape-font-specification:PT Sans"
-             y="257.74252"
-             x="725.31598"
-             sodipodi:role="line">can be torn off or hidden</tspan></text>
-      </g>
-      <g
-         transform="matrix(0.76901101,0,0,0.77161775,151.20931,-63.434185)"
-         id="g8326">
-        <rect
-           style="fill:#888a85"
-           id="rect8293"
-           width="124.11856"
-           height="20.807085"
-           x="747.00964"
-           y="-667.20087"
-           transform="matrix(1,0,0,-1,0,-308.2677)" />
-        <text
-           xml:space="preserve"
-           style="font-size:21.81562614px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           x="745.15533"
-           y="377.53406"
-           id="text3065"
-           sodipodi:linespacing="100%"><tspan
-             sodipodi:role="line"
-             id="tspan3067"
-             x="745.15533"
-             y="377.53406"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PT Sans;-inkscape-font-specification:PT Sans">Local Toolbar</tspan><tspan
-             id="tspan8445"
-             sodipodi:role="line"
-             x="745.15533"
-             y="393.2103"
-             style="font-size:12.98173141px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:PT Sans;-inkscape-font-specification:PT Sans">can be hidden to save monitor space. </tspan><tspan
-             id="tspan8457"
-             sodipodi:role="line"
-             x="745.15533"
-             y="406.19202"
-             style="font-size:12.98173141px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:PT Sans;-inkscape-font-specification:PT Sans">It can also contain relative menus</tspan></text>
-      </g>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-size:13.0901556px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="14.426891"
-       y="529.40039"
-       id="text8463"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="14.426891"
-         y="529.40039"
-         id="tspan8467"
-         style="font-size:16px">The number of windows can be easily changed by user,</tspan><tspan
-         sodipodi:role="line"
-         x="14.426891"
-         y="549.40039"
-         style="font-size:16px"
-         id="tspan3169">all of them can be resized accordingly by dragging its border.</tspan></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Window Types"
      transform="translate(35.46875,45.625)">
@@ -676,7 +556,7 @@
          x="14.250433"
          y="-497.92542" />
       <rect
-         style="fill:#888a85;stroke:#2e3436"
+         style="fill:#ce5c00;stroke:#2e3436"
          id="rect4303"
          width="137.5083"
          height="18"
@@ -688,7 +568,7 @@
          height="16"
          width="137.5083"
          id="rect4610"
-         style="opacity:0.2;fill:#f57900;stroke:#2e3436"
+         style="opacity:0.5;fill:#eeeeec;stroke:#2e3436"
          transform="scale(1,-1)" />
     </g>
     <g
@@ -707,9 +587,9 @@
          height="18"
          width="137.5083"
          id="rect4305"
-         style="fill:#888a85;stroke:#2e3436" />
+         style="fill:#4e9a06;stroke:#2e3436" />
       <rect
-         style="opacity:0.2;fill:#73d216;stroke:#2e3436"
+         style="opacity:0.5;fill:#eeeeec;stroke:#2e3436"
          id="rect4592"
          width="137.5083"
          height="16"
@@ -737,7 +617,7 @@
          style="fill:#888a85;stroke:#2e3436" />
       <rect
          transform="scale(-1,-1)"
-         style="opacity:0.2;fill:#75507b;stroke:#2e3436"
+         style="opacity:0.5;fill:#eeeeec;stroke:#2e3436"
          id="rect4602"
          width="508.60391"
          height="16"
@@ -761,9 +641,9 @@
          height="18"
          width="137.5083"
          id="rect4352"
-         style="fill:#888a85;stroke:#2e3436" />
+         style="fill:#4e9a06;stroke:#2e3436" />
       <rect
-         style="opacity:0.2;fill:#73d216;stroke:#2e3436"
+         style="opacity:0.5;fill:#eeeeec;stroke:#2e3436"
          id="rect4600"
          width="137.5083"
          height="16"
@@ -787,9 +667,9 @@
          height="18"
          width="137.5083"
          id="rect4335"
-         style="fill:#888a85;stroke:#2e3436;stroke-width:0.60870665" />
+         style="fill:#c4a000;stroke:#2e3436;stroke-width:0.60870665000000002" />
       <rect
-         style="opacity:0.2;fill:#c4a000;stroke:#2e3436;stroke-width:0.60870665"
+         style="opacity:0.5;fill:#eeeeec;stroke:#2e3436;stroke-width:0.60870665000000002"
          id="rect4612"
          width="137.5083"
          height="16"
@@ -815,10 +695,10 @@
            height="18"
            width="137.5083"
            id="rect4352-3"
-           style="fill:#888a85;stroke:#2e3436" />
+           style="fill:#5c3566;stroke:#2e3436" />
       </g>
       <rect
-         style="opacity:0.2;fill:#75507b;stroke:#2e3436"
+         style="opacity:0.50000000000000000;fill:#eeeeec;stroke:#2e3436"
          id="rect4464"
          width="137.5083"
          height="16"
@@ -995,12 +875,13 @@
       <g
          id="g4783-0">
         <rect
-           style="fill:#babdb6;fill-opacity:1;stroke:#2e3436;stroke-width:0.22969472"
+           style="fill:#babdb6;fill-opacity:1;stroke:#888a85;stroke-width:0.21062196999999999"
            id="rect4785-2"
            width="5.6774888"
            height="4.5180016"
            x="321.29346"
-           y="146.22566" />
+           y="146.22566"
+           ry="0.46730071" />
         <path
            sodipodi:type="arc"
            style="fill:#73d216;fill-opacity:0.39024389;stroke:#2e3436;stroke-width:0.5"
@@ -2840,6 +2721,190 @@
            x="21.976616"
            id="tspan5758"
            sodipodi:role="line">Canvas window</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="note"
+     transform="translate(35.46875,45.625)">
+    <text
+       xml:space="preserve"
+       style="font-size:13.0901556px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="655.44312"
+       y="528.21765"
+       id="text8463"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="287.63843"
+         y="528.21765"
+         id="tspan8467"
+         style="font-size:12px;text-anchor:end;text-align:end">The number of windows can be easily changed by user,</tspan><tspan
+         sodipodi:role="line"
+         x="287.63843"
+         y="543.21765"
+         style="font-size:12px;text-anchor:end;text-align:end"
+         id="tspan3169">all of them can be resized accordingly by dragging its border.</tspan></text>
+    <g
+       style="enable-background:new;fill:#2e3436"
+       id="g5715"
+       transform="translate(-8.821911,24.308215)">
+      <g
+         transform="matrix(0.76901101,0,0,0.77161775,151.20931,-121.06531)"
+         id="g8338"
+         style="fill:#2e3436">
+        <text
+           xml:space="preserve"
+           style="font-size:21.81562614px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+           x="736.4176"
+           y="149.06853"
+           id="text3057"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             x="736.4176"
+             y="149.06853"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2e3436;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+             id="tspan8299">Global Menubar</tspan><tspan
+             id="tspan8449"
+             sodipodi:role="line"
+             x="736.4176"
+             y="164.74477"
+             style="font-size:12.98173141px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;font-family:PT Sans;-inkscape-font-specification:PT Sans">can be hidden or becomes a menu button</tspan><tspan
+             sodipodi:role="line"
+             x="736.4176"
+             y="177.7265"
+             style="font-size:12.98173141px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+             id="tspan4602">staying global toolbar</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.41514325,0,0,0.41655046,416.41252,-58.208537)"
+         id="g8332"
+         style="fill:#2e3436">
+        <text
+           sodipodi:linespacing="100%"
+           id="text3061"
+           y="228.70387"
+           x="725.31598"
+           style="font-size:40.41124725px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2e3436;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+             y="228.70387"
+             x="725.31598"
+             id="tspan3063"
+             sodipodi:role="line">Global Toolbar</tspan><tspan
+             style="font-size:24.04734802px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+             y="257.74252"
+             x="725.31598"
+             sodipodi:role="line"
+             id="tspan4588">a container to adopt golbal scope tool </tspan><tspan
+             style="font-size:24.04734802px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+             y="281.78989"
+             x="725.31598"
+             sodipodi:role="line"
+             id="tspan4586">and buttons. can be torn off or hidden</tspan><tspan
+             style="font-size:24.04734802px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+             y="305.83722"
+             x="725.31598"
+             sodipodi:role="line"
+             id="tspan4584" /></text>
+      </g>
+      <g
+         transform="matrix(0.76901101,0,0,0.77161775,164.64811,95.351417)"
+         id="g8326"
+         style="fill:#2e3436">
+        <text
+           xml:space="preserve"
+           style="font-size:21.81562614px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+           x="718.9422"
+           y="331.09033"
+           id="text3065"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan3067"
+             x="718.9422"
+             y="331.09033"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2e3436;font-family:PT Sans;-inkscape-font-specification:PT Sans">Local Toolbar</tspan><tspan
+             id="tspan8445"
+             sodipodi:role="line"
+             x="718.9422"
+             y="346.76657"
+             style="font-size:12.98173141px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;font-family:PT Sans;-inkscape-font-specification:PT Sans">can be hidden to save monitor space. </tspan><tspan
+             id="tspan8457"
+             sodipodi:role="line"
+             x="718.9422"
+             y="359.74829"
+             style="font-size:12.98173141px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;font-family:PT Sans;-inkscape-font-specification:PT Sans">It can also contain relative menus</tspan></text>
+      </g>
+      <g
+         id="g3420"
+         transform="matrix(0.41514325,0,0,0.41655046,416.51235,186.01864)"
+         style="fill:#2e3436">
+        <text
+           xml:space="preserve"
+           style="font-size:40.41124725000000240px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+           x="725.31598"
+           y="64.704735"
+           id="text3422"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan3424"
+             x="725.31598"
+             y="64.704735"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:PT Sans;-inkscape-font-specification:PT Sans;fill:#2e3436">Local Titlebar</tspan><tspan
+             sodipodi:role="line"
+             x="725.31598"
+             y="93.743385"
+             style="font-size:24.04734802000000116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:PT Sans;-inkscape-font-specification:PT Sans;fill:#2e3436"
+             id="tspan3426">a container to adopt win style swither</tspan><tspan
+             sodipodi:role="line"
+             x="725.31598"
+             y="117.79073"
+             style="font-size:24.04734802000000116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:PT Sans;-inkscape-font-specification:PT Sans;fill:#2e3436"
+             id="tspan3428">and other localized widgets, for example</tspan><tspan
+             sodipodi:role="line"
+             x="725.31598"
+             y="141.83809"
+             style="font-size:24.04734802000000116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:PT Sans;-inkscape-font-specification:PT Sans;fill:#2e3436"
+             id="tspan4592">in time tracker window, it is the palce </tspan><tspan
+             sodipodi:role="line"
+             x="725.31598"
+             y="165.88544"
+             style="font-size:24.04734802000000116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:PT Sans;-inkscape-font-specification:PT Sans;fill:#2e3436"
+             id="tspan4594">where time ruler standing</tspan><tspan
+             sodipodi:role="line"
+             x="725.31598"
+             y="189.93279"
+             style="font-size:24.04734802000000116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:PT Sans;-inkscape-font-specification:PT Sans;fill:#2e3436"
+             id="tspan4590">can be hidden to save monitor space</tspan></text>
+      </g>
+      <path
+         style="fill:#2e3436;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Mstart)"
+         d="m 680.77368,79.529849 32.60278,-15.61577"
+         id="path3430"
+         inkscape:connector-curvature="0"
+         transform="translate(-0.646839,-69.933198)"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#2e3436;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Mstart)"
+         d="m 680.89935,277.81502 34.71691,-1.11989"
+         id="path3432"
+         inkscape:connector-curvature="0"
+         transform="translate(-0.646839,-69.933198)"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#2e3436;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Mstart)"
+         d="m 679.77945,413.32295 33.83681,-0.5587"
+         id="path3434"
+         inkscape:connector-curvature="0"
+         transform="translate(-0.646839,-69.933198)"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#2e3436;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Mstart)"
+         d="m 684.25905,100.87079 30.23731,0"
+         id="path3538"
+         inkscape:connector-curvature="0"
+         transform="translate(-0.646839,-69.933215)"
+         sodipodi:nodetypes="cc" />
     </g>
   </g>
 </svg>
