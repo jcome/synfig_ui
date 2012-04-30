@@ -59,14 +59,6 @@
          stdDeviation="2.3895801"
          id="feGaussianBlur4931-0-3-1" />
     </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter4382">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.6433579"
-         id="feGaussianBlur4384" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4386"
@@ -77,6 +69,14 @@
        y2="566.43756"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(420.16353,-190.3703)" />
+    <filter
+       inkscape:collect="always"
+       id="filter4402">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.77961554"
+         id="feGaussianBlur4404" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -85,11 +85,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0918253"
-     inkscape:cx="361.60256"
-     inkscape:cy="144.64102"
+     inkscape:zoom="0.7161289"
+     inkscape:cx="625.44109"
+     inkscape:cy="62.233183"
      inkscape:document-units="px"
-     inkscape:current-layer="g3467"
+     inkscape:current-layer="g4022-6-6"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="841"
@@ -2983,14 +2983,15 @@
            sodipodi:nodetypes="cc" />
       </g>
       <rect
-         style="opacity:0.60493828;fill:url(#linearGradient4392);fill-opacity:1;stroke:none;filter:url(#filter4382)"
+         style="opacity:0.60493828;fill:url(#linearGradient4392);fill-opacity:1;stroke:none;filter:url(#filter4402)"
          id="rect3588"
          width="206.39124"
          height="44.494732"
          x="636.48859"
          y="334.14011"
-         ry="8.3071213"
-         transform="matrix(1,0,0,0.39314702,0,200.38046)" />
+         ry="15.841731"
+         transform="matrix(1,0,0,0.39314702,0,199.39306)"
+         rx="6.4181099" />
     </g>
   </g>
 </svg>
