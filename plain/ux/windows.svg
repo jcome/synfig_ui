@@ -352,8 +352,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.67049973"
-     inkscape:cx="262.23984"
-     inkscape:cy="584.32406"
+     inkscape:cx="-4.725219"
+     inkscape:cy="405.35307"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -1568,5 +1568,19 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
     </g>
+    <rect
+       style="opacity:0.5;fill:#4e9a06;stroke:none"
+       id="rect3607"
+       width="818.01587"
+       height="15.791812"
+       x="-102.30362"
+       y="920.92157" />
+    <rect
+       y="1971.077"
+       x="-102.30362"
+       height="15.791812"
+       width="818.01587"
+       id="rect3609"
+       style="opacity:0.5;fill:#4e9a06;stroke:none" />
   </g>
 </svg>
