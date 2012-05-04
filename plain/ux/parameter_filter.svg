@@ -15,7 +15,10 @@
    id="svg9836"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="parameter_filter.svg">
+   sodipodi:docname="parameter_filter.svg"
+   inkscape:export-filename="/home/jcome/source/synfig-ui/plain/ux/parameter_filter.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs9838">
     <linearGradient
@@ -210,7 +213,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.53037282"
      inkscape:cx="292.87574"
-     inkscape:cy="587.9512"
+     inkscape:cy="512.53255"
      inkscape:document-units="px"
      inkscape:current-layer="g13139"
      showgrid="false"
