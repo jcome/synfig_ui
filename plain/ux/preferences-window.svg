@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -45,9 +45,9 @@
      inkscape:window-height="843"
      id="namedview3651"
      showgrid="false"
-     inkscape:zoom="2.3070109"
-     inkscape:cx="201.80004"
-     inkscape:cy="761.47791"
+     inkscape:zoom="1.0170693"
+     inkscape:cx="429.45049"
+     inkscape:cy="618.74227"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -84,7 +84,7 @@
        id="guide6550" />
     <sodipodi:guide
        orientation="0,1"
-       position="83.405059,709.07185"
+       position="59.040047,688.91499"
        id="guide3785" />
   </sodipodi:namedview>
   <g
@@ -209,40 +209,45 @@
          x="-3.2142949"
          y="67.169418"
          style="font-size:6.25884104px;line-height:200%"
-         id="tspan9664">Gamma</tspan><tspan
+         id="tspan3787">Toolbars</tspan><tspan
          sodipodi:role="line"
          x="-3.2142949"
          y="79.687096"
          style="font-size:6.25884104px;line-height:200%"
-         id="tspan3774">Input Devices</tspan><tspan
+         id="tspan9664">Gamma</tspan><tspan
          sodipodi:role="line"
          x="-3.2142949"
          y="92.204781"
          style="font-size:6.25884104px;line-height:200%"
-         id="tspan9666">Keyboard Shortcuts</tspan><tspan
+         id="tspan3774">Input Devices</tspan><tspan
          sodipodi:role="line"
          x="-3.2142949"
          y="104.72246"
          style="font-size:6.25884104px;line-height:200%"
-         id="tspan3109">Docuement</tspan><tspan
+         id="tspan9666">Keyboard Shortcuts</tspan><tspan
          sodipodi:role="line"
          x="-3.2142949"
          y="117.24014"
          style="font-size:6.25884104px;line-height:200%"
-         id="tspan9670">Render</tspan><tspan
+         id="tspan3109">Docuement</tspan><tspan
          sodipodi:role="line"
          x="-3.2142949"
          y="129.75783"
          style="font-size:6.25884104px;line-height:200%"
-         id="tspan9706">Preview</tspan><tspan
+         id="tspan9670">Render</tspan><tspan
          sodipodi:role="line"
          x="-3.2142949"
          y="142.27551"
          style="font-size:6.25884104px;line-height:200%"
-         id="tspan3778">System</tspan><tspan
+         id="tspan9706">Preview</tspan><tspan
          sodipodi:role="line"
          x="-3.2142949"
          y="154.79318"
+         style="font-size:6.25884104px;line-height:200%"
+         id="tspan3778">System</tspan><tspan
+         sodipodi:role="line"
+         x="-3.2142949"
+         y="167.31087"
          style="font-size:6.25884104px;line-height:200%"
          id="tspan3780">    Advanced Settings</tspan></text>
     <rect
@@ -538,7 +543,7 @@
          style="font-size:6.25884104px">You need to relaunch Synfig Studio to apply these changes!</tspan></text>
     <path
        style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:0.44725591;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       d="m -5.6253253,227.85643 2.8550208,0.0626 -1.4640522,5.96412 z"
+       d="m -5.6253253,248.85746 2.8550208,0.0626 -1.4640522,5.96412 z"
        id="path3782"
        inkscape:connector-curvature="0"
        inkscape:transform-center-y="0.88360793"
