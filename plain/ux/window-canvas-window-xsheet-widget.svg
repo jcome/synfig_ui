@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.2 r9819"
    sodipodi:docname="window-canvas-window-xsheet-widget.svg"
-   inkscape:export-filename="/home/jcome/source/synfig-ui/plain/ux/window-canvas-window.png"
+   inkscape:export-filename="/Users/chenyu/Source/synfig_ui/plain/ux/window-canvas-window-xsheet-widget.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -69,7 +69,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.44240073"
      inkscape:cx="721.11289"
-     inkscape:cy="710.01158"
+     inkscape:cy="529.18005"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -109,7 +109,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2615,7 +2615,8 @@
          sodipodi:role="line"
          id="tspan6832"
          x="33.905884"
-         y="150.46495">Timeline</tspan></text>
+         y="150.46495"
+         style="-inkscape-font-specification:Sans;font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">Timeline</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text6834"
@@ -2626,7 +2627,8 @@
          y="613.84576"
          x="33.905884"
          id="tspan6836"
-         sodipodi:role="line">Thumbnail</tspan></text>
+         sodipodi:role="line"
+         style="-inkscape-font-specification:Sans;font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">Thumbnail</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
