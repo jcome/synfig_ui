@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.2 r9819"
    sodipodi:docname="window-canvas-window.svg"
-   inkscape:export-filename="/home/jcome/source/synfig-ui/plain/ux/window-canvas-window.png"
+   inkscape:export-filename="/Users/chenyu/Source/synfig_ui/plain/ux/window-canvas-window.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -85,16 +85,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4608315"
-     inkscape:cx="292.11032"
-     inkscape:cy="475.17861"
+     inkscape:zoom="0.81551642"
+     inkscape:cx="551.1776"
+     inkscape:cy="891.57334"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="841"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-width="1391"
+     inkscape:window-height="856"
+     inkscape:window-x="49"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true">
@@ -123,7 +123,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1926,7 +1926,7 @@
          sodipodi:cy="1512.5363"
          sodipodi:rx="67.409187"
          sodipodi:ry="6.5587316"
-         d="m 335.95283,1512.5363 a 67.409187,6.5587316 0 1 1 -134.81838,0 67.409187,6.5587316 0 1 1 134.81838,0 z"
+         d="m 335.95283,1512.5363 c 0,3.6222 -30.18012,6.5587 -67.40919,6.5587 -37.22907,0 -67.40919,-2.9365 -67.40919,-6.5587 0,-3.6223 30.18012,-6.5588 67.40919,-6.5588 37.22907,0 67.40919,2.9365 67.40919,6.5588 z"
          transform="matrix(0.46182911,-0.03994198,0,0.69274366,3.700269,198.47358)" />
       <g
          style="stroke:#2e3436;stroke-width:0.60870665;enable-background:new"
@@ -4714,11 +4714,11 @@
            sodipodi:role="line"
            x="-186.15068"
            y="582.72565"
-           id="tspan5098">sifz document or a canvas. A document / canvas can</tspan><tspan
+           id="tspan5100">sifz document. A document / canvas can be shown</tspan><tspan
            sodipodi:role="line"
            x="-186.15068"
            y="619.44537"
-           id="tspan5100">be shown in more than one canvas window as beove.</tspan><tspan
+           id="tspan3760">in more than one canvas window as beove.</tspan><tspan
            sodipodi:role="line"
            x="-186.15068"
            y="656.1651"
@@ -4748,7 +4748,7 @@
            sodipodi:role="line"
            x="-186.15068"
            y="839.76373"
-           id="tspan5114">Thank about 3D software's vieports.</tspan></text>
+           id="tspan5114">Think about 3D software's vieports.</tspan></text>
     </g>
     <text
        sodipodi:linespacing="125%"

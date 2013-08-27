@@ -211,16 +211,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.53037282"
-     inkscape:cx="292.87574"
-     inkscape:cy="512.53255"
+     inkscape:zoom="0.70265912"
+     inkscape:cx="23.656672"
+     inkscape:cy="374.37633"
      inkscape:document-units="px"
-     inkscape:current-layer="g13139"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="841"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-width="1392"
+     inkscape:window-height="856"
+     inkscape:window-x="48"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true" />
@@ -232,7 +232,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2519,7 +2519,7 @@
          d="m 210.14187,352.82813 c 7.86975,53.4999 -38.32997,179.25101 -63.02474,203.19844 -22.46277,29.25764 -37.59692,62.5183 -45.58755,97.91668 -11.55829,45.79658 -5.720033,61.1638 18.79268,95.09026 24.51272,33.92646 112.84618,46.80864 147.8133,3.74633 39.8147,-49.03214 41.94288,-92.89939 -0.5309,-143.48095 -23.69504,-32.5731 -41.56375,-68.71068 -51.71952,-107.14217 -4.49045,-12.6764 8.95647,-144.2249 -5.74327,-149.32859 z"
          style="fill:#729fcf;fill-opacity:1;stroke:#204a87;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dashoffset:0" />
       <g
-         transform="matrix(3.3238209,0,0,3.3238209,-1933.981,-1907.6136)"
+         transform="matrix(3.3238209,0,0,3.3238209,-1941.2732,-1901.3631)"
          id="g12989">
         <g
            id="g12088"
@@ -2554,14 +2554,14 @@
              x="0" /></flowRegion><flowPara
            id="flowPara13085"><flowSpan
    id="flowSpan13114"
-   style="font-weight:bold;fill:#204a87">      Layers</flowSpan> Filter Enabled: All params of all layers in  current document will  be list in param window. Ossociated with other  Filters,  <flowSpan
+   style="font-weight:bold;fill:#204a87">      Layers </flowSpan>filter Enabled: All parameters of all layers in  current document will  be listed in parameter window. Ossociated with other Filters,  <flowSpan
    id="flowSpan13120"
-   style="font-weight:bold;fill:#cc0000">animated</flowSpan> filter for example, we can have a clear, user-defined params list, and give user a quick workflow        </flowPara></flowRoot>      <g
-         transform="matrix(5.5816382,0,0,5.5816382,-1586.5106,-257.67443)"
+   style="font-weight:bold;fill:#cc0000">animated</flowSpan> filter,     for example, we can have a clear, user-defined parameters list, and users have a quick workflow.        </flowPara></flowRoot>      <g
+         transform="matrix(5.5816382,0,0,5.5816382,-1594.5106,-255.67443)"
          id="g12080"
          style="stroke:#2e3436;display:inline;enable-background:new">
         <rect
-           style="fill:#3465a4;fill-opacity:1;stroke:#2e3436;stroke-width:0.28747838999999997"
+           style="fill:#3465a4;fill-opacity:1;stroke:#2e3436;stroke-width:0.28747839"
            id="rect12082"
            width="2.6391292"
            height="1.873064"
@@ -2575,9 +2575,9 @@
            height="1.873064"
            width="2.6391292"
            id="rect12084"
-           style="fill:#3465a4;fill-opacity:1;stroke:#2e3436;stroke-width:0.28747838999999997" />
+           style="fill:#3465a4;fill-opacity:1;stroke:#2e3436;stroke-width:0.28747839" />
         <rect
-           style="fill:#3465a4;fill-opacity:1;stroke:#2e3436;stroke-width:0.28747838999999997"
+           style="fill:#3465a4;fill-opacity:1;stroke:#2e3436;stroke-width:0.28747839"
            id="rect12086"
            width="2.6391292"
            height="1.873064"
@@ -2596,7 +2596,7 @@
            id="tspan13158"
            x="305.85553"
            y="215.4113"
-           style="font-size:66.07347107px;font-weight:bold;fill:#2e3436">Param Filter</tspan></text>
+           style="font-size:48px;font-weight:bold;fill:#2e3436">Parameter Filter</tspan></text>
       <path
          style="fill:#3465a4;stroke:none"
          d="m 216.51105,1027.4459 c -10.34564,0.4168 -14.03585,13.9309 -20.41661,24.2061 -1.21037,1.9491 -3.26583,-1.4562 -3.98534,5.3862 -0.61542,5.8526 -13.76325,-8.0169 -12.21951,1.8152 -0.21625,2.8611 -4.58335,-4.1746 -8.72563,-7.7908 -5.02096,-4.3834 -17.94257,5.0637 -6.27912,8.2529 -21.53511,20.467 -71.898597,32.2379 -71.748787,-6.1711 -28.707324,-7.9425 -11.795446,19.0875 -30.09375,32.5703 -5.010397,12.4442 -1.532283,3.0162 -0.453871,17.6327 234.999958,0 510.141418,0 745.141368,0 -2.74684,-14.4894 8.92852,-39.4823 -14.22187,-37.6074 -37.53577,-23.1715 -73.07487,22.4556 -109.50885,-0.8729 -32.32545,0.5371 -65.09644,23.267 -96.57483,4.1566 -39.55692,2.662 -78.78032,13.8021 -117.63936,-0.3532 -39.08922,5.6024 -77.59305,16.6339 -116.35994,2.6373 -24.49305,4.9815 -79.86888,27.784 -79.16081,-14.5522 -11.80892,-34.2311 -78.03705,36.9941 -70.02748,-9.1864 3.6756,-5.7182 27.87725,-4.4706 12.27439,-20.1233 z m -144.062497,25.6986 -0.46875,-0.049 z m -1.4375,-0.1472 0.3916,0.1605 z"
@@ -2627,7 +2627,7 @@
          sodipodi:cy="881.50165"
          sodipodi:rx="4.8422017"
          sodipodi:ry="3.8045869"
-         d="m 112.06238,881.50165 a 4.8422017,3.8045869 0 1 1 -9.68441,0 4.8422017,3.8045869 0 1 1 9.68441,0 z"
+         d="m 112.06238,881.50165 c 0,2.10121 -2.16793,3.80458 -4.8422,3.80458 -2.67428,0 -4.84221,-1.70337 -4.84221,-3.80458 0,-2.10122 2.16793,-3.80459 4.84221,-3.80459 2.67427,0 4.8422,1.70337 4.8422,3.80459 z"
          transform="matrix(0.89587134,-0.44431356,0.44431356,0.89587134,-320.02288,181.31012)" />
       <path
          style="fill:#cc0000;stroke:#000000;stroke-width:1.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2643,7 +2643,7 @@
          sodipodi:cy="873.87592"
          sodipodi:rx="0.33776805"
          sodipodi:ry="0.62728351"
-         d="m 107.50675,873.87592 a 0.33776805,0.62728351 0 1 1 -0.67553,0 0.33776805,0.62728351 0 1 1 0.67553,0 z"
+         d="m 107.50675,873.87592 c 0,0.34643 -0.15122,0.62728 -0.33777,0.62728 -0.18654,0 -0.33776,-0.28085 -0.33776,-0.62728 0,-0.34644 0.15122,-0.62729 0.33776,-0.62729 0.18655,0 0.33777,0.28085 0.33777,0.62729 z"
          transform="matrix(6.6726811,0,0,3.1577835,-545.78096,-1838.2273)" />
       <path
          style="fill:none;stroke:#000000;stroke-width:2.78468513;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
