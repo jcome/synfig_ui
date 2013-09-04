@@ -18,6 +18,17 @@
    sodipodi:docname="workflow-concept-layer-and-tools.svg">
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient3968">
+      <stop
+         style="stop-color:#fbffff;stop-opacity:1;"
+         offset="0"
+         id="stop3970" />
+      <stop
+         style="stop-color:#1f74e0;stop-opacity:1;"
+         offset="1"
+         id="stop3972" />
+    </linearGradient>
     <pattern
        inkscape:collect="always"
        xlink:href="#Checkerboard"
@@ -173,9 +184,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.88295239"
-     inkscape:cx="526.18109"
-     inkscape:cy="372.04724"
+     inkscape:zoom="0.63214177"
+     inkscape:cx="590.16227"
+     inkscape:cy="411.76355"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -192,7 +203,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -365,7 +376,7 @@
            height="20.768162"
            width="51.825123"
            id="rect3011"
-           style="fill:#d3d7cf;stroke:#000000;stroke-width:0.50655311"
+           style="fill:#b1e5f0;stroke:#000000;stroke-width:0.50655311000000003;fill-opacity:1"
            ry="2.5987899" />
         <text
            xml:space="preserve"
