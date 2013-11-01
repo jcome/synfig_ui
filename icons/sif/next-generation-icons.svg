@@ -597,16 +597,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.81025731"
-     inkscape:cx="258.44425"
-     inkscape:cy="596.50403"
+     inkscape:zoom="2.1169494"
+     inkscape:cx="125.90605"
+     inkscape:cy="884.47123"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1417"
      inkscape:window-height="856"
-     inkscape:window-x="95"
-     inkscape:window-y="0"
+     inkscape:window-x="245"
+     inkscape:window-y="3"
      inkscape:window-maximized="0"
      showguides="false"
      inkscape:guide-bbox="true">
@@ -674,7 +674,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4639,7 +4639,7 @@
          x="106.56388"
          y="59.19228"
          style="font-size:12.01890182px;text-align:end;text-anchor:end;fill:#2e3436"
-         id="tspan7160">2013.10.30</tspan><tspan
+         id="tspan7160">2013.11.01</tspan><tspan
          sodipodi:role="line"
          x="106.56387"
          y="74.215904"
@@ -5623,7 +5623,7 @@
            transform="translate(-6.9315845e-6,9.9707386e-6)"
            id="g4125">
           <path
-             style="fill:#729fcf;fill-rule:evenodd;stroke:none"
+             style="fill:#5c3566;fill-rule:evenodd;stroke:none"
              d="m -164.625,421.75 -9.40625,9.40625 c -0.56829,0.56829 -0.1109,1.32965 -0.3125,1.53125 l -0.6875,0.6875 1.90625,1.90625 0.6875,-0.6875 c 0.2016,-0.2016 0.96296,0.25579 1.53125,-0.3125 L -161.5,424.875 z"
              transform="matrix(4.3380295,0,0,4.3380295,584.28872,-1453.0187)"
              id="rect4097"
@@ -5634,7 +5634,7 @@
              inkscape:connector-curvature="0"
              id="rect4099"
              d="m -77.945965,337.04926 c -8.741056,-8.74106 -24.060415,-7.58262 -34.206295,2.56326 -5.31434,5.31435 -5.68939,20.53896 -7.18151,26.45953 l -15.92369,-1.10042 29.41122,29.41122 0.003,-14.82058 c 5.920572,-1.49211 20.042074,-2.97028 25.35642,-8.28462 10.145879,-10.14588 11.282221,-25.48734 2.541165,-34.22839 z"
-             style="fill:#204a87;fill-rule:evenodd;stroke:none" />
+             style="fill:#5c3566;fill-rule:evenodd;stroke:none" />
         </g>
       </g>
     </g>
