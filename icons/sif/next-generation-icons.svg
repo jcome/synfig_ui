@@ -591,9 +591,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1827598"
+     inkscape:zoom="0.77172211"
      inkscape:cx="323.38012"
-     inkscape:cy="501.308"
+     inkscape:cy="656.80438"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -673,7 +673,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -688,7 +688,7 @@
      id="layer1"
      style="display:inline">
     <rect
-       style="fill:#babdb6;fill-opacity:1;stroke:#000000;stroke-width:1.06755924000000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:1.06755924000000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect7154"
        width="517.42346"
        height="857.12952"
@@ -4290,13 +4290,13 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:46.78165054000000112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-expanded;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Wide Latin;-inkscape-font-specification:Wide Latin Ultra-Expanded"
+       style="font-size:46.78165054000000112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-expanded;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fafff6;fill-opacity:1;stroke:none;font-family:Wide Latin;-inkscape-font-specification:Wide Latin Ultra-Expanded"
        id="text3741"
        sodipodi:linespacing="125%"
        transform="translate(15.213756,7.606878)"><textPath
          xlink:href="#path6102"
          id="textPath6104"><tspan
-   style="font-size:46.78165054px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;font-family:Bauhaus 93;-inkscape-font-specification:Bauhaus 93"
+   style="font-size:46.78165054000000112px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#fafff6;font-family:Bauhaus 93;-inkscape-font-specification:Bauhaus 93;fill-opacity:1"
    id="tspan3743">flat icon set</tspan></textPath></text>
     <g
        id="g4614"
