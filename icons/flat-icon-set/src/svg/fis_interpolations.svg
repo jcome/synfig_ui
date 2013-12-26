@@ -14,7 +14,7 @@
    id="svg7991"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="fis_interpolationtypes.svg">
+   sodipodi:docname="fis_interpolations.svg">
   <defs
      id="defs7993" />
   <sodipodi:namedview
@@ -24,17 +24,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.9705863"
-     inkscape:cx="51.002222"
-     inkscape:cy="-27.000012"
+     inkscape:zoom="2.9852932"
+     inkscape:cx="131.69462"
+     inkscape:cy="-7.9064098"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer9"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="834"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false" />
   <metadata
      id="metadata7996">
     <rdf:RDF>
@@ -43,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -193,7 +194,7 @@
     <g
        style="display:inline"
        id="g7131"
-       transform="translate(-70.1033,325.71017)">
+       transform="translate(7.9026239,286.71016)">
       <rect
          y="741.65204"
          x="109.10626"
@@ -238,7 +239,7 @@
     <g
        style="display:inline"
        id="g7137"
-       transform="translate(-133.10626,364.71019)">
+       transform="translate(61.908548,286.71016)">
       <rect
          style="fill:none;stroke:none"
          id="rect7070"
@@ -275,7 +276,7 @@
     <g
        style="display:inline"
        id="g7143"
-       transform="translate(-79.100338,325.71017)">
+       transform="translate(-1.0944142,286.71016)">
       <rect
          y="741.65204"
          x="157.10626"
@@ -316,7 +317,7 @@
     <g
        style="display:inline"
        id="g7150"
-       transform="translate(-177.68492,326.21359)">
+       transform="translate(56.332851,287.21358)">
       <g
          id="g8084"
          transform="translate(104.57904,5.6956813)">
