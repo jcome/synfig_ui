@@ -25,10 +25,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0613486"
-     inkscape:cx="175.96461"
+     inkscape:cx="79.425868"
      inkscape:cy="-34.046207"
      inkscape:document-units="px"
-     inkscape:current-layer="layer55"
+     inkscape:current-layer="layer42"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="834"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -203,7 +203,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer42"
-     inkscape:label="05 - Select all Layers in the Groupp"
+     inkscape:label="05 - Select All Children Layers"
      style="display:inline">
     <g
        id="g19140"
@@ -243,7 +243,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer43"
-     inkscape:label="06 - Remove Layer">
+     inkscape:label="06 - Remove Layer"
+     style="display:inline">
     <g
        style="display:inline"
        id="g5790"
@@ -334,7 +335,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer45"
-     inkscape:label="08 - Eye Open">
+     inkscape:label="08 - Eye Open"
+     style="display:inline">
     <g
        style="display:inline"
        id="g6995"
@@ -381,7 +383,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer46"
-     inkscape:label="09 - Lock">
+     inkscape:label="09 - Lock"
+     style="display:inline">
     <g
        style="display:inline"
        transform="matrix(1.0052365,0,0,1.0010883,-467.75049,-234.90448)"
@@ -422,7 +425,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer47"
-     inkscape:label="10 - Unlock">
+     inkscape:label="10 - Unlock"
+     style="display:inline">
     <g
        style="display:inline"
        id="g7995"
@@ -456,7 +460,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer48"
-     inkscape:label="11 - No Render">
+     inkscape:label="11 - No Render"
+     style="display:inline">
     <g
        transform="translate(-225.43631,-1103.6299)"
        style="display:inline"
@@ -542,7 +547,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer49"
-     inkscape:label="12 - Render">
+     inkscape:label="12 - Render"
+     style="display:inline">
     <g
        style="display:inline"
        id="g5045"
@@ -619,7 +625,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer50"
-     inkscape:label="13 - Cut">
+     inkscape:label="13 - Cut"
+     style="display:inline">
     <g
        id="g19177"
        transform="translate(-355.8999,-452.30092)">
@@ -700,7 +707,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer51"
-     inkscape:label="14 - Copy">
+     inkscape:label="14 - Copy"
+     style="display:inline">
     <g
        style="display:inline"
        id="g4822"
@@ -750,7 +758,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer52"
-     inkscape:label="15 - Paste">
+     inkscape:label="15 - Paste"
+     style="display:inline">
     <g
        transform="translate(-463.29378,-1064.6299)"
        style="display:inline"
@@ -811,7 +820,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer53"
-     inkscape:label="16 - Change Layer Description">
+     inkscape:label="16 - Change Layer Description"
+     style="display:inline">
     <g
        style="display:inline"
        id="g4674"
@@ -1015,18 +1025,5 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
     </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer58"
-     inkscape:label="Layer#21">
-    <rect
-       transform="translate(0,-1028.3622)"
-       y="1106.3622"
-       x="234"
-       height="24"
-       width="24"
-       id="rect5722"
-       style="fill:#eeeeec;stroke:none;display:inline" />
   </g>
 </svg>

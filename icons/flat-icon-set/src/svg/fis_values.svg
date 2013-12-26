@@ -48,10 +48,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1166538"
-     inkscape:cx="113.5581"
+     inkscape:cx="46.7073"
      inkscape:cy="8.8684043"
      inkscape:document-units="px"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="layer13"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="834"
@@ -753,27 +753,6 @@
              inkscape:connector-curvature="0"
              sodipodi:nodetypes="zssssscccz" />
         </g>
-      </g>
-    </g>
-    <g
-       transform="translate(52.344832,-98.287659)"
-       id="g17526"
-       style="fill:#eeeeec;display:inline">
-      <rect
-         style="fill:#eeeeec;stroke:none"
-         id="rect17528"
-         width="24"
-         height="24"
-         x="541.70245"
-         y="651.46875" />
-      <g
-         id="g17530"
-         transform="matrix(0.27272726,0,0,0.27272726,393.96541,491.25001)"
-         style="fill:#eeeeec">
-        <g
-           transform="matrix(0.94596677,0,0,0.94596677,33.381761,32.386019)"
-           id="g17532"
-           style="fill:#eeeeec" />
       </g>
     </g>
   </g>

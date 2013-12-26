@@ -153,11 +153,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.080052"
-     inkscape:cx="171.8838"
-     inkscape:cy="-90.148904"
+     inkscape:zoom="1.5332246"
+     inkscape:cx="152.34358"
+     inkscape:cy="-129.42494"
      inkscape:document-units="px"
-     inkscape:current-layer="layer48"
+     inkscape:current-layer="layer63"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="834"
@@ -166,12 +166,7 @@
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:showpageshadow="false">
-    <sodipodi:guide
-       orientation="1,0"
-       position="-2.1674916,13.546823"
-       id="guide18826" />
-  </sodipodi:namedview>
+     inkscape:showpageshadow="false" />
   <metadata
      id="metadata8781">
     <rdf:RDF>
@@ -187,10 +182,11 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer #00">
+     inkscape:label="01 - Blur - Blur"
+     style="display:inline">
     <g
        id="g6549"
-       transform="matrix(-1,0,0,1,-266.34657,-387.82953)"
+       transform="matrix(-1,0,0,1,-266.36069,-387.82724)"
        style="display:inline">
       <rect
          y="387.82953"
@@ -214,13 +210,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer15"
-     inkscape:label="Layer #01"
+     inkscape:label="02 - Blur - Radial Blur"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g9561"
-       transform="matrix(1,0,0,0.99848234,170.76109,167.79523)">
+       transform="matrix(1,0,0,0.99848234,170.74698,167.79753)">
       <rect
          y="861.89325"
          x="-131.71875"
@@ -242,13 +238,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer16"
-     inkscape:label="Layer #02"
+     inkscape:label="03 - Blur - Motion Blur"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g9438"
-       transform="translate(-166.19524,380.13196)">
+       transform="translate(-166.20935,380.13425)">
       <g
          id="g4378"
          transform="translate(375.98456,-213.66301)"
@@ -303,13 +299,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer17"
-     inkscape:label="Layer #03"
+     inkscape:label="04 - Distortion - Warp"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g8757"
-       transform="translate(103.21768,255.91911)">
+       transform="translate(220.28826,216.67278)">
       <rect
          y="811.69171"
          x="-103.20357"
@@ -356,13 +352,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer18"
-     inkscape:label="Layer #04"
+     inkscape:label="05 - Distrotion - Twirl"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g4854"
-       transform="translate(122.49255,250.92997)">
+       transform="translate(239.56313,211.68365)">
       <rect
          y="816.68085"
          x="-83.450211"
@@ -393,13 +389,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer19"
-     inkscape:label="Layer #05"
+     inkscape:label="06 - Distortion - Stretch"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g4993"
-       transform="translate(202.92642,290.60154)">
+       transform="translate(319.997,251.35522)">
       <g
          id="g4986">
         <g
@@ -435,13 +431,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer20"
-     inkscape:label="Layer #06"
+     inkscape:label="07 - Distortion - Spherize"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g5106"
-       transform="translate(258.80097,391.63704)">
+       transform="translate(375.87155,352.39072)">
       <g
          id="g9451">
         <rect
@@ -481,13 +477,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer21"
-     inkscape:label="Layer #07"
+     inkscape:label="08 - Distortion - Noise"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g5194"
-       transform="translate(283.59618,269.64512)">
+       transform="translate(127.46915,269.64741)">
       <rect
          y="797.9657"
          x="-127.46915"
@@ -506,13 +502,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer22"
-     inkscape:label="Layer #08"
+     inkscape:label="09 - Distoriton - Insideout"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g5302"
-       transform="matrix(1,0,0,1.019171,298.30716,329.17907)">
+       transform="matrix(1,0,0,1.019171,142.18012,329.18136)">
       <rect
          y="724.54156"
          x="-102.92616"
@@ -541,13 +537,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer23"
-     inkscape:label="Layer #09"
+     inkscape:label="10 - Distortion - CurveWarp"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g5374"
-       transform="matrix(0.201681,0,0,0.201681,-31.01085,1020.0203)">
+       transform="matrix(0.201681,0,0,0.201681,-187.13789,1020.0226)">
       <g
          id="g6206"
          transform="translate(1355.2304,-503.47727)">
@@ -580,13 +576,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer24"
-     inkscape:label="Layer #10"
+     inkscape:label="11 - Filter - Clamp"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g9488"
-       transform="translate(-212.97555,522.5022)">
+       transform="translate(-95.904968,483.25587)">
       <g
          transform="translate(925.73966,48.24506)"
          id="g8093">
@@ -627,13 +623,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer25"
-     inkscape:label="Layer #11"
+     inkscape:label="12 - Filter - Lumakey"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g9496"
-       transform="translate(-203.94732,522.5022)">
+       transform="translate(-86.876737,483.25587)">
       <g
          id="g8083"
          transform="translate(955.73966,48.24506)">
@@ -674,13 +670,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer26"
-     inkscape:label="Layer #12"
+     inkscape:label="13 - Filter - Halftone2"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g9504"
-       transform="translate(-194.91909,522.5022)">
+       transform="translate(-77.848506,483.25587)">
       <g
          transform="translate(985.73966,48.24506)"
          id="g8072">
@@ -721,13 +717,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer27"
-     inkscape:label="Layer #13"
+     inkscape:label="14 - Filter -Halftone3"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g9512"
-       transform="translate(-185.89089,522.5022)">
+       transform="translate(-68.820315,483.25587)">
       <g
          id="g8061"
          transform="translate(1015.7397,48.24506)">
@@ -768,13 +764,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer28"
-     inkscape:label="Layer #14"
+     inkscape:label="15 - Filter - ColorCorrect"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g9520"
-       transform="translate(-176.86266,522.5022)">
+       transform="translate(-332.9897,522.50449)">
       <g
          transform="translate(1045.7397,48.24506)"
          id="g7844">
@@ -815,13 +811,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer29"
-     inkscape:label="Layer #15"
+     inkscape:label="16 - Fractal - Mandelbrot"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g6942"
-       transform="translate(257.51411,316.74587)">
+       transform="translate(296.52823,277.49955)">
       <rect
          y="829.36218"
          x="-257.5"
@@ -839,13 +835,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer30"
-     inkscape:label="Layer #16"
+     inkscape:label="17 - Fractal - Julia"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g9528"
-       transform="matrix(0.99963621,0,0,1,-203.8502,593.75082)">
+       transform="matrix(0.99963621,0,0,1,-164.83608,554.50449)">
       <rect
          style="fill:none;stroke:none;display:inline"
          id="rect6939"
@@ -949,13 +945,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer31"
-     inkscape:label="Layer #17"
+     inkscape:label="18 - Geometry - AdvancedOutline"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g4308"
-       transform="translate(258.88663,587.93673)">
+       transform="translate(258.87252,548.69041)">
       <rect
          y="558.17133"
          x="-141.78783"
@@ -983,13 +979,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer32"
-     inkscape:label="Layer #18"
+     inkscape:label="19 - Geometry - Checkerboard"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g4270"
-       transform="translate(263.95428,670.04907)">
+       transform="translate(263.94016,630.80274)">
       <rect
          y="476.05899"
          x="-107.82724"
@@ -1118,12 +1114,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer33"
-     inkscape:label="Layer #19"
+     inkscape:label="20 - Geometry - Circle"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
-       transform="matrix(-1,0,0,1,-71.205419,758.27853)"
+       transform="matrix(-1,0,0,1,-71.219533,719.0322)"
        id="g4482">
       <rect
          style="fill:none;stroke:none"
@@ -1147,12 +1143,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer34"
-     inkscape:label="Layer #20"
+     inkscape:label="21 - Geometry - Outline"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
-       transform="translate(375.97133,587.93673)"
+       transform="translate(375.95721,548.69041)"
        id="g4314">
       <rect
          style="fill:none;stroke:none"
@@ -1175,12 +1171,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer35"
-     inkscape:label="Layer #21"
+     inkscape:label="22 - Geometry - Polygon"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
-       transform="translate(183.46102,833.07317)"
+       transform="translate(183.44691,793.82684)"
        id="g4587">
       <rect
          y="352.28351"
@@ -1200,12 +1196,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer36"
-     inkscape:label="Layer #22"
+     inkscape:label="23 - Geometry - Rectangle"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
-       transform="matrix(-1,0,0,1,-194.80333,779.34081)"
+       transform="matrix(-1,0,0,1,-194.81744,740.09448)"
        id="g4661">
       <rect
          y="406.01587"
@@ -1226,13 +1222,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer37"
-     inkscape:label="Layer #23"
+     inkscape:label="24 - Geometry - Region"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g4734"
-       transform="translate(306.08144,624.94097)">
+       transform="translate(306.06733,585.69464)">
       <rect
          y="560.41571"
          x="-228.01086"
@@ -1251,12 +1247,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer38"
-     inkscape:label="Layer #24"
+     inkscape:label="25 - Geometry - SolidColor"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
-       transform="matrix(0.99585061,0,0,0.99585061,296.57935,526.12223)"
+       transform="matrix(0.99585061,0,0,0.99585061,296.56523,486.87591)"
        id="g4864">
       <rect
          style="fill:none;stroke:none"
@@ -1292,12 +1288,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer39"
-     inkscape:label="Layer #25"
+     inkscape:label="26 - Geometry - Star"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
-       transform="matrix(-1,0,0,1,-31.977197,833.07317)"
+       transform="matrix(-1,0,0,1,-31.99131,793.82684)"
        id="g4876">
       <rect
          style="fill:none;stroke:none"
@@ -1329,13 +1325,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer40"
-     inkscape:label="Layer #26"
+     inkscape:label="27 - Geometry - Metaball"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g5388"
-       transform="translate(626.6575,779.29701)">
+       transform="translate(626.64338,740.05069)">
       <g
          id="g5394">
         <rect
@@ -1367,13 +1363,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer41"
-     inkscape:label="Layer #27"
+     inkscape:label="28 - Gradient - Curve"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g5463"
-       transform="translate(92.294508,761.38612)">
+       transform="translate(326.44978,682.89117)">
       <rect
          y="463.21918"
          x="-92.280396"
@@ -1392,12 +1388,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer42"
-     inkscape:label="Layer #28"
+     inkscape:label="29 - Gradient - Noise"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
-       transform="translate(131.32274,761.38612)"
+       transform="translate(92.280394,722.13979)"
        id="g5471">
       <rect
          style="fill:none;stroke:none"
@@ -1417,13 +1413,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer43"
-     inkscape:label="Layer #29"
+     inkscape:label="30 - Gradient - Linear"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g5479"
-       transform="translate(170.35097,761.38612)">
+       transform="translate(131.30863,722.13979)">
       <rect
          y="463.21918"
          x="-92.280396"
@@ -1442,12 +1438,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer44"
-     inkscape:label="Layer #30"
+     inkscape:label="31 - Gradient - Radial"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
-       transform="translate(209.3792,761.38612)"
+       transform="translate(170.33686,722.13979)"
        id="g5487">
       <rect
          style="fill:none;stroke:none"
@@ -1467,13 +1463,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer45"
-     inkscape:label="Layer #31"
+     inkscape:label="32 - Gradient - Spiral"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g5495"
-       transform="translate(248.40743,761.38612)">
+       transform="translate(209.36509,722.13979)">
       <rect
          y="463.21918"
          x="-92.280396"
@@ -1492,12 +1488,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer46"
-     inkscape:label="Layer #32"
+     inkscape:label="33 - Gradient - Conical"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
-       transform="translate(287.43566,761.38612)"
+       transform="translate(248.39332,722.13979)"
        id="g5503">
       <rect
          style="fill:none;stroke:none"
@@ -1517,11 +1513,11 @@
   <g
      inkscape:groupmode="layer"
      id="layer47"
-     inkscape:label="Layer #33"
+     inkscape:label="34 - Other - ImportImage"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
-       transform="translate(-42.642922,632.02176)"
+       transform="translate(152.48412,553.52682)"
        style="display:inline"
        id="g6559">
       <rect
@@ -1599,12 +1595,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer48"
-     inkscape:label="Layer #34"
+     inkscape:label="35 - Other - Group"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
-       transform="translate(190.79053,832.54431)"
+       transform="translate(385.91757,754.04937)"
        id="g10383">
       <rect
          style="fill:none;stroke:none"
@@ -1637,13 +1633,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer49"
-     inkscape:label="Layer #35"
+     inkscape:label="36 - Other - Plant"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g12355"
-       transform="translate(458.6324,1023.7894)">
+       transform="translate(380.56183,984.54308)">
       <rect
          y="240.06451"
          x="-380.56183"
@@ -1684,13 +1680,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer50"
-     inkscape:label="Layer #36"
+     inkscape:label="37 - Other - Sound"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g4959"
-       transform="translate(-2.5626554,927.02842)">
+       transform="translate(-80.633232,887.7821)">
       <g
          transform="translate(-575.34098,60.967918)"
          id="g8407">
@@ -1732,13 +1728,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer51"
-     inkscape:label="Layer #37"
+     inkscape:label="38 - Other - TimeLoop"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g12221"
-       transform="translate(-455.36259,916.60632)">
+       transform="translate(-533.43316,877.35999)">
       <rect
          y="347.12329"
          x="611.48962"
@@ -1779,13 +1775,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer52"
-     inkscape:label="Layer #38"
+     inkscape:label="39 - Other - Skeleton"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g5608"
-       transform="translate(-93.207128,600.52225)">
+       transform="translate(-171.2777,561.27593)">
       <g
          id="g8039">
         <g
@@ -1813,13 +1809,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer53"
-     inkscape:label="Layer #39"
+     inkscape:label="40 - Other - Duplicate"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g12566"
-       transform="translate(432.6932,810.31982)">
+       transform="translate(354.62263,771.0735)">
       <rect
          y="453.53409"
          x="-198.5097"
@@ -1877,12 +1873,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer54"
-     inkscape:label="Layer #40"
+     inkscape:label="41 - Other - XORPattern"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
-       transform="translate(-380.85487,1132.1117)"
+       transform="translate(-185.72782,1053.6167)"
        id="g12991">
       <g
          id="g13040"
@@ -1958,13 +1954,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer55"
-     inkscape:label="Layer #41"
+     inkscape:label="42 - Other - Stroboscope"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g5520"
-       transform="translate(-260.39396,822.89732)">
+       transform="translate(-65.266921,744.40238)">
       <g
          id="g5482"
          transform="matrix(0.24521073,0,0,0.24521073,95.432817,344.53244)">
@@ -1995,13 +1991,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer56"
-     inkscape:label="Layer #42"
+     inkscape:label="43 - Other - SuperSample"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g12760"
-       transform="translate(236.82891,1029.7269)">
+       transform="translate(158.75833,990.48061)">
       <rect
          y="273.37381"
          x="-158.75833"
@@ -2031,13 +2027,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer57"
-     inkscape:label="Layer #43"
+     inkscape:label="44 - Other - Text"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g5601"
-       transform="translate(-91.194483,770.24377)">
+       transform="translate(-169.26506,730.99745)">
       <rect
          y="532.85876"
          x="208.29329"
@@ -2056,13 +2052,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer58"
-     inkscape:label="Layer #44"
+     inkscape:label="45 - Other - MetaLayerShape"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g5037"
-       transform="translate(-415.30521,994.38981)">
+       transform="translate(-493.37579,955.14348)">
       <g
          id="g5526">
         <g
@@ -2189,12 +2185,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer59"
-     inkscape:label="Layer #45"
+     inkscape:label="46 - Stylize - Bevel"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        id="g8952"
-       transform="translate(230.48646,813.62025)">
+       transform="translate(347.55704,735.12531)">
       <rect
          y="528.7309"
          x="-230.47235"
@@ -2230,13 +2226,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer60"
-     inkscape:label="Layer #46"
+     inkscape:label="47 - Stylize - Shade"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
        id="g8958"
-       transform="translate(217.31648,781.81447)">
+       transform="translate(334.38706,703.31953)">
       <rect
          style="fill:none;stroke:none"
          id="rect8946"
@@ -2282,12 +2278,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer61"
-     inkscape:label="Layer #47"
+     inkscape:label="48 - Transform - Rotate"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline"
-       transform="translate(156.88911,825.7487)"
+       transform="translate(352.01615,708.00514)"
        id="g8625">
       <rect
          style="fill:none;stroke:none"
@@ -2317,11 +2313,11 @@
   <g
      inkscape:groupmode="layer"
      id="layer62"
-     inkscape:label="Layer #48"
+     inkscape:label="49 - Transform - Scale"
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <g
-       transform="matrix(0.99946038,0,0,1,38.628118,842.53215)"
+       transform="matrix(0.99946038,0,0,1,233.75516,724.78858)"
        id="g5803"
        style="display:inline">
       <rect
@@ -2366,369 +2362,27 @@
   <g
      inkscape:groupmode="layer"
      id="layer63"
-     inkscape:label="Layer #49"
+     inkscape:label="50 - Transform - Translate"
      style="display:inline"
-     transform="translate(0,-1028.3622)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Temp">
+     transform="translate(0,-1028.3622)">
     <g
-       style="fill:#eeeeec;display:inline"
-       id="g8747"
-       transform="translate(-11.249642,-162.41956)">
-      <g
-         id="g8619"
-         transform="translate(287.54092,-87.281283)"
-         style="fill:#eeeeec">
-        <rect
-           y="602.93842"
-           x="-198.2207"
-           height="24"
-           width="24"
-           id="rect8621"
-           style="fill:#eeeeec;stroke:none" />
-      </g>
-    </g>
-    <g
-       transform="translate(27.778589,-162.41956)"
-       id="g6613"
-       style="fill:#eeeeec;display:inline">
-      <g
-         transform="translate(287.54092,-87.281283)"
-         id="g6615"
-         style="fill:#eeeeec">
-        <rect
-           style="fill:#eeeeec;stroke:none"
-           id="rect6617"
-           width="24"
-           height="24"
-           x="-198.2207"
-           y="602.93842" />
-      </g>
-    </g>
-    <g
-       style="fill:#eeeeec;display:inline"
-       id="g6621"
-       transform="translate(66.80682,-162.41956)">
-      <g
-         id="g6623"
-         transform="translate(287.54092,-87.281283)"
-         style="fill:#eeeeec">
-        <rect
-           y="602.93842"
-           x="-198.2207"
-           height="24"
-           width="24"
-           id="rect6625"
-           style="fill:#eeeeec;stroke:none" />
-      </g>
-    </g>
-    <g
-       transform="translate(105.83505,-162.41956)"
-       id="g6629"
-       style="fill:#eeeeec;display:inline">
-      <g
-         transform="translate(287.54092,-87.281283)"
-         id="g6631"
-         style="fill:#eeeeec">
-        <rect
-           style="fill:#eeeeec;stroke:none"
-           id="rect6633"
-           width="24"
-           height="24"
-           x="-198.2207"
-           y="602.93842" />
-      </g>
-    </g>
-    <g
-       style="fill:#eeeeec;display:inline"
-       id="g6637"
-       transform="translate(144.86328,-162.41956)">
-      <g
-         id="g6639"
-         transform="translate(287.54092,-87.281283)"
-         style="fill:#eeeeec">
-        <rect
-           y="602.93842"
-           x="-198.2207"
-           height="24"
-           width="24"
-           id="rect6641"
-           style="fill:#eeeeec;stroke:none" />
-      </g>
-    </g>
-    <g
-       transform="translate(-11.249642,-201.66818)"
-       id="g6645"
-       style="fill:#eeeeec;display:inline">
-      <g
-         style="fill:#eeeeec"
-         transform="translate(287.54092,-87.281283)"
-         id="g6647">
-        <rect
-           style="fill:#eeeeec;stroke:none"
-           id="rect6649"
-           width="24"
-           height="24"
-           x="-198.2207"
-           y="602.93842" />
-      </g>
-    </g>
-    <g
-       style="fill:#eeeeec;display:inline"
-       id="g6651"
-       transform="translate(27.778589,-201.66818)">
-      <g
-         style="fill:#eeeeec"
-         id="g6653"
-         transform="translate(287.54092,-87.281283)">
-        <rect
-           y="602.93842"
-           x="-198.2207"
-           height="24"
-           width="24"
-           id="rect6655"
-           style="fill:#eeeeec;stroke:none" />
-      </g>
-    </g>
-    <g
-       transform="translate(66.80682,-201.66818)"
-       id="g6657"
-       style="fill:#eeeeec;display:inline">
-      <g
-         style="fill:#eeeeec"
-         transform="translate(287.54092,-87.281283)"
-         id="g6659">
-        <rect
-           style="fill:#eeeeec;stroke:none"
-           id="rect6661"
-           width="24"
-           height="24"
-           x="-198.2207"
-           y="602.93842" />
-      </g>
-    </g>
-    <g
-       style="fill:#eeeeec;display:inline"
-       id="g6663"
-       transform="translate(105.83505,-201.66818)">
-      <g
-         style="fill:#eeeeec"
-         id="g6665"
-         transform="translate(287.54092,-87.281283)">
-        <rect
-           y="602.93842"
-           x="-198.2207"
-           height="24"
-           width="24"
-           id="rect6667"
-           style="fill:#eeeeec;stroke:none" />
-      </g>
-    </g>
-    <g
-       transform="translate(144.86328,-201.66818)"
-       id="g6669"
-       style="fill:#eeeeec;display:inline">
-      <g
-         style="fill:#eeeeec"
-         transform="translate(287.54092,-87.281283)"
-         id="g6671">
-        <rect
-           style="fill:#eeeeec;stroke:none"
-           id="rect6673"
-           width="24"
-           height="24"
-           x="-198.2207"
-           y="602.93842" />
-      </g>
-    </g>
-    <g
-       transform="translate(105.83505,-240.9168)"
-       id="g6675"
-       style="fill:#eeeeec;display:inline">
-      <g
-         transform="translate(287.54092,-87.281283)"
-         id="g6677"
-         style="fill:#eeeeec">
-        <rect
-           style="fill:#eeeeec;stroke:none"
-           id="rect6679"
-           width="24"
-           height="24"
-           x="-198.2207"
-           y="602.93842" />
-      </g>
-    </g>
-    <g
-       style="fill:#eeeeec;display:inline"
-       id="g6681"
-       transform="translate(144.86328,-240.9168)">
-      <g
-         id="g6683"
-         transform="translate(287.54092,-87.281283)"
-         style="fill:#eeeeec">
-        <rect
-           y="602.93842"
-           x="-198.2207"
-           height="24"
-           width="24"
-           id="rect6685"
-           style="fill:#eeeeec;stroke:none" />
-      </g>
-    </g>
-    <g
-       transform="translate(144.86328,-319.41404)"
-       id="g6687"
-       style="fill:#eeeeec;display:inline">
-      <g
-         style="fill:#eeeeec"
-         transform="translate(287.54092,-87.281283)"
-         id="g6689">
-        <rect
-           style="fill:#eeeeec;stroke:none"
-           id="rect6691"
-           width="24"
-           height="24"
-           x="-198.2207"
-           y="602.93842" />
-      </g>
-    </g>
-    <g
-       style="fill:#eeeeec;display:inline"
-       id="g6705"
-       transform="translate(-11.249642,-397.91128)">
-      <g
-         id="g6707"
-         transform="translate(287.54092,-87.281283)"
-         style="fill:#eeeeec">
-        <rect
-           y="602.93842"
-           x="-198.2207"
-           height="24"
-           width="24"
-           id="rect6709"
-           style="fill:#eeeeec;stroke:none" />
-      </g>
-    </g>
-    <g
-       style="fill:#eeeeec;display:inline"
-       id="g6711"
-       transform="translate(144.86328,-358.66266)">
-      <g
-         id="g6713"
-         transform="translate(287.54092,-87.281283)"
-         style="fill:#eeeeec">
-        <rect
-           y="602.93842"
-           x="-198.2207"
-           height="24"
-           width="24"
-           id="rect6715"
-           style="fill:#eeeeec;stroke:none" />
-      </g>
-    </g>
-    <g
-       transform="translate(105.83505,-437.15989)"
-       id="g6717"
-       style="fill:#eeeeec;display:inline">
-      <g
-         style="fill:#eeeeec"
-         transform="translate(287.54092,-87.281283)"
-         id="g6719">
-        <rect
-           style="fill:#eeeeec;stroke:none"
-           id="rect6721"
-           width="24"
-           height="24"
-           x="-198.2207"
-           y="602.93842" />
-      </g>
-    </g>
-    <g
-       style="fill:#eeeeec;display:inline"
-       id="g6723"
-       transform="translate(144.86328,-437.15989)">
-      <g
-         id="g6725"
-         transform="translate(287.54092,-87.281283)"
-         style="fill:#eeeeec">
-        <rect
-           y="602.93842"
-           x="-198.2207"
-           height="24"
-           width="24"
-           id="rect6727"
-           style="fill:#eeeeec;stroke:none" />
-      </g>
-    </g>
-    <g
-       transform="translate(27.778589,-515.65713)"
-       id="g6729"
-       style="fill:#eeeeec;display:inline">
-      <g
-         style="fill:#eeeeec"
-         transform="translate(287.54092,-87.281283)"
-         id="g6731">
-        <rect
-           style="fill:#eeeeec;stroke:none"
-           id="rect6733"
-           width="24"
-           height="24"
-           x="-198.2207"
-           y="602.93842" />
-      </g>
-    </g>
-    <g
-       style="fill:#eeeeec;display:inline"
-       id="g6735"
-       transform="translate(66.80682,-515.65713)">
-      <g
-         id="g6737"
-         transform="translate(287.54092,-87.281283)"
-         style="fill:#eeeeec">
-        <rect
-           y="602.93842"
-           x="-198.2207"
-           height="24"
-           width="24"
-           id="rect6739"
-           style="fill:#eeeeec;stroke:none" />
-      </g>
-    </g>
-    <g
-       transform="translate(105.83505,-515.65713)"
-       id="g6741"
-       style="fill:#eeeeec;display:inline">
-      <g
-         style="fill:#eeeeec"
-         transform="translate(287.54092,-87.281283)"
-         id="g6743">
-        <rect
-           style="fill:#eeeeec;stroke:none"
-           id="rect6745"
-           width="24"
-           height="24"
-           x="-198.2207"
-           y="602.93842" />
-      </g>
-    </g>
-    <g
-       style="fill:#eeeeec;display:inline"
-       id="g6747"
-       transform="translate(144.86328,-515.65713)">
-      <g
-         id="g6749"
-         transform="translate(287.54092,-87.281283)"
-         style="fill:#eeeeec">
-        <rect
-           y="602.93842"
-           x="-198.2207"
-           height="24"
-           width="24"
-           id="rect6751"
-           style="fill:#eeeeec;stroke:none" />
-      </g>
+       style="display:inline"
+       id="g14259"
+       transform="translate(198.22071,700.16642)">
+      <rect
+         y="602.93842"
+         x="-198.2207"
+         height="24"
+         width="24"
+         id="rect14257"
+         style="fill:none;stroke:none" />
+      <path
+         style="fill:#5c3566;fill-rule:evenodd;stroke:none"
+         d="m 50.96875,0 -5.03125,4.9375 2.4375,0 0,4.6875 -4.4375,0 0,-2.6875 L 39,12 l 4.9375,5.03125 0,-2.4375 4.6875,0 0,4.4375 -2.6875,0 L 51,24 l 5.03125,-4.96875 -2.4375,0 0,-4.6875 4.4375,0 0,2.6875 L 63,12 58.03125,6.9375 l 0,2.46875 -4.6875,0 0,-4.46875 2.6875,0 z"
+         transform="translate(-237.22071,602.9384)"
+         id="rect14229"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccccccccccc" />
     </g>
   </g>
 </svg>

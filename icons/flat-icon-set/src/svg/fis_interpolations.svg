@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.9852932"
-     inkscape:cx="131.69462"
-     inkscape:cy="-7.9064098"
+     inkscape:cx="131.86211"
+     inkscape:cy="-8.9113362"
      inkscape:document-units="px"
      inkscape:current-layer="layer9"
      showgrid="false"
@@ -49,15 +49,11 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1028.3622)" />
-  <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Interpolation Type #01"
-     transform="translate(0,-1028.3622)">
+     inkscape:label="01 - Linear"
+     transform="translate(0,-1028.3622)"
+     style="display:inline">
     <g
        style="display:inline"
        id="g7108"
@@ -96,8 +92,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Interpolation Type #02"
-     transform="translate(0,-1028.3622)">
+     inkscape:label="02 - TCB"
+     transform="translate(0,-1028.3622)"
+     style="display:inline">
     <g
        style="display:inline"
        id="g7115"
@@ -129,7 +126,7 @@
                sodipodi:cy="376.25381"
                sodipodi:rx="34.594715"
                sodipodi:ry="34.594715"
-               d="m 524.63054,376.25381 c 0,19.10614 -15.48858,34.59472 -34.59471,34.59472 -19.10614,0 -34.59472,-15.48858 -34.59472,-34.59472 0,-19.10613 15.48858,-34.59471 34.59472,-34.59471 19.10613,0 34.59471,15.48858 34.59471,34.59471 z"
+               d="m 524.63054,376.25381 a 34.594715,34.594715 0 1 1 -69.18943,0 34.594715,34.594715 0 1 1 69.18943,0 z"
                transform="matrix(1.3994899,0,0,1.3994899,-585.93845,-1476.1114)" />
             <path
                style="fill:#8ae234;fill-opacity:1;stroke:#2e3436;stroke-width:3.63668776;stroke-opacity:1"
@@ -145,8 +142,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="Interpolation Type #03"
-     transform="translate(0,-1028.3622)">
+     inkscape:label="03 - Ease"
+     transform="translate(0,-1028.3622)"
+     style="display:inline">
     <g
        style="display:inline"
        id="g7123"
@@ -189,8 +187,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Interpolation Type #04"
-     transform="translate(0,-1028.3622)">
+     inkscape:label="04 - Undifined"
+     transform="translate(0,-1028.3622)"
+     style="display:inline">
     <g
        style="display:inline"
        id="g7131"
@@ -233,46 +232,10 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer7"
-     inkscape:label="Interpolation Type #05"
-     transform="translate(0,-1028.3622)">
-    <g
-       style="display:inline"
-       id="g7137"
-       transform="translate(61.908548,286.71016)">
-      <rect
-         style="fill:none;stroke:none"
-         id="rect7070"
-         width="24"
-         height="24"
-         x="133.10626"
-         y="741.65204" />
-      <g
-         transform="matrix(0.39015251,0,0,0.39015251,-507.56339,405.90859)"
-         id="g9705"
-         style="fill:#555753;stroke:#2e3436;stroke-width:1.92232525;stroke-opacity:1">
-        <rect
-           transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)"
-           y="-1833.014"
-           x="-572.52362"
-           height="39.759529"
-           width="39.759529"
-           id="rect9350"
-           style="fill:#ce5c00;fill-opacity:1;stroke:#2e3436;stroke-width:1.92232525;stroke-linejoin:round;stroke-opacity:1" />
-        <path
-           sodipodi:nodetypes="ccc"
-           inkscape:connector-curvature="0"
-           id="path9352"
-           d="m 1672.8577,919.41555 -28.1142,-28.11411 28.1142,-28.11437"
-           style="fill:#fcaf3e;fill-opacity:1;stroke:#2e3436;stroke-width:1.92232525;stroke-linejoin:round;stroke-opacity:1" />
-      </g>
-    </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="Interpolation Type #06"
-     transform="translate(0,-1028.3622)">
+     inkscape:label="05 - Constant"
+     transform="translate(0,-1028.3622)"
+     style="display:inline">
     <g
        style="display:inline"
        id="g7143"
@@ -311,9 +274,48 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="06 - Clamped"
+     transform="translate(0,-1028.3622)"
+     style="display:inline">
+    <g
+       style="display:inline"
+       id="g7137"
+       transform="translate(61.908548,286.71016)">
+      <rect
+         style="fill:none;stroke:none"
+         id="rect7070"
+         width="24"
+         height="24"
+         x="133.10626"
+         y="741.65204" />
+      <g
+         transform="matrix(0.39015251,0,0,0.39015251,-507.56339,405.90859)"
+         id="g9705"
+         style="fill:#555753;stroke:#2e3436;stroke-width:1.92232525;stroke-opacity:1">
+        <rect
+           transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)"
+           y="-1833.014"
+           x="-572.52362"
+           height="39.759529"
+           width="39.759529"
+           id="rect9350"
+           style="fill:#ce5c00;fill-opacity:1;stroke:#2e3436;stroke-width:1.92232525;stroke-linejoin:round;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="path9352"
+           d="m 1672.8577,919.41555 -28.1142,-28.11411 28.1142,-28.11437"
+           style="fill:#fcaf3e;fill-opacity:1;stroke:#2e3436;stroke-width:1.92232525;stroke-linejoin:round;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="Interpolation Type #07"
-     transform="translate(0,-1028.3622)">
+     inkscape:label="07 - Static"
+     transform="translate(0,-1028.3622)"
+     style="display:inline">
     <g
        style="display:inline"
        id="g7150"
