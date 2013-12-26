@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <canvas version="0.9" width="24" height="24" xres="2834.645752" yres="2834.645752" view-box="-0.200000 0.200000 0.200000 -0.200000" antialias="2" fps="24.000" begin-time="0f" end-time="0f" bgcolor="0.500000 0.500000 0.500000 1.000000">
   <name>Flat Icon Set : Tools : Toolbox</name>
-  <layer type="PasteCanvas" active="true" version="0.1" desc="01 - Transform">
+  <meta name="grid_show" content="0"/>
+  <meta name="grid_size" content="0.250000 0.250000"/>
+  <meta name="grid_snap" content="0"/>
+  <meta name="guide_show" content="1"/>
+  <meta name="guide_snap" content="0"/>
+  <meta name="onion_skin" content="0"/>
+  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="01 - Transform">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -19,7 +25,7 @@
     </param>
     <param name="canvas">
       <canvas xres="10.000000" yres="10.000000">
-        <layer type="region" active="true" version="0.1" desc="rect14053">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="rect14053">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -396,7 +402,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="true" version="0.1" desc="02 - Smooth Move">
+  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="02 - Smooth Move">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -414,7 +420,7 @@
     </param>
     <param name="canvas">
       <canvas xres="10.000000" yres="10.000000">
-        <layer type="region" active="true" version="0.1" desc="rect14229">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="rect14229">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -614,7 +620,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path15444">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path15444">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -970,7 +976,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path15446">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path15446">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -1326,7 +1332,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path15448">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path15448">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -1585,7 +1591,7 @@
                         <real value="0.0395310510"/>
                       </radius>
                       <theta>
-                        <angle value="335.565674"/>
+                        <angle value="335.565643"/>
                       </theta>
                     </radial_composite>
                   </t1>
@@ -1682,7 +1688,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path15450">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path15450">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -2059,7 +2065,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="true" version="0.1" desc="03 - Rotate">
+  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="03 - Rotate">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -2077,7 +2083,7 @@
     </param>
     <param name="canvas">
       <canvas xres="10.000000" yres="10.000000">
-        <layer type="region" active="true" version="0.1" desc="rect16435">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="rect16435">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -2550,12 +2556,12 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="rect16443">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="rect16443">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
           <param name="amount">
-            <real value="0.9500000000"/>
+            <real value="1.0000000000"/>
           </param>
           <param name="blend_method">
             <integer value="0"/>
@@ -2750,7 +2756,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path19617">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path19617">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -3223,12 +3229,12 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path19619">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path19619">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
           <param name="amount">
-            <real value="0.9500000000"/>
+            <real value="1.0000000000"/>
           </param>
           <param name="blend_method">
             <integer value="0"/>
@@ -3483,7 +3489,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="true" version="0.1" desc="04 - Scale">
+  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="04 - Scale">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -3501,7 +3507,7 @@
     </param>
     <param name="canvas">
       <canvas xres="10.000000" yres="10.000000">
-        <layer type="region" active="true" version="0.1" desc="rect3973">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="rect3973">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -3664,84 +3670,6 @@
                   <point>
                     <vector>
                       <x>-0.0694563016</x>
-                      <y>0.0473358594</y>
-                    </vector>
-                  </point>
-                  <width>
-                    <real value="1.0000000000"/>
-                  </width>
-                  <origin>
-                    <real value="0.5000000000"/>
-                  </origin>
-                  <split>
-                    <bool value="true"/>
-                  </split>
-                  <t1>
-                    <radial_composite type="vector">
-                      <radius>
-                        <real value="0.0000000000"/>
-                      </radius>
-                      <theta>
-                        <angle value="0.000000"/>
-                      </theta>
-                    </radial_composite>
-                  </t1>
-                  <t2>
-                    <radial_composite type="vector">
-                      <radius>
-                        <real value="0.0000000000"/>
-                      </radius>
-                      <theta>
-                        <angle value="-180.000000"/>
-                      </theta>
-                    </radial_composite>
-                  </t2>
-                </composite>
-              </entry>
-              <entry>
-                <composite type="bline_point">
-                  <point>
-                    <vector>
-                      <x>-0.0694563016</x>
-                      <y>0.0665900260</y>
-                    </vector>
-                  </point>
-                  <width>
-                    <real value="1.0000000000"/>
-                  </width>
-                  <origin>
-                    <real value="0.5000000000"/>
-                  </origin>
-                  <split>
-                    <bool value="true"/>
-                  </split>
-                  <t1>
-                    <radial_composite type="vector">
-                      <radius>
-                        <real value="0.0000000000"/>
-                      </radius>
-                      <theta>
-                        <angle value="0.000000"/>
-                      </theta>
-                    </radial_composite>
-                  </t1>
-                  <t2>
-                    <radial_composite type="vector">
-                      <radius>
-                        <real value="0.0000000000"/>
-                      </radius>
-                      <theta>
-                        <angle value="-180.000000"/>
-                      </theta>
-                    </radial_composite>
-                  </t2>
-                </composite>
-              </entry>
-              <entry>
-                <composite type="bline_point">
-                  <point>
-                    <vector>
-                      <x>-0.0502125435</x>
                       <y>0.0665900260</y>
                     </vector>
                   </point>
@@ -3857,7 +3785,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="rect3975">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="rect3975">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -4057,7 +3985,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="rect3988">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="rect3988">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -4374,7 +4302,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path19615">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path19615">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -4712,7 +4640,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="true" version="0.1" desc="05 - Mirror">
+  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="05 - Mirror">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -4730,7 +4658,7 @@
     </param>
     <param name="canvas">
       <canvas xres="10.000000" yres="10.000000">
-        <layer type="region" active="true" version="0.1" desc="rect16245">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="rect16245">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -4930,7 +4858,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path6213">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path6213">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -4938,7 +4866,7 @@
             <real value="1.0000000000"/>
           </param>
           <param name="blend_method">
-            <integer value="0"/>
+            <integer value="19"/>
           </param>
           <param name="color">
             <color>
@@ -5247,7 +5175,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path19613">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path19613">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -5447,7 +5375,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path19611">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path19611">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -5455,7 +5383,7 @@
             <real value="1.0000000000"/>
           </param>
           <param name="blend_method">
-            <integer value="0"/>
+            <integer value="19"/>
           </param>
           <param name="color">
             <color>
@@ -5785,7 +5713,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="true" version="0.1" desc="06 - Spline">
+  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="06 - Spline">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -5803,7 +5731,7 @@
     </param>
     <param name="canvas">
       <canvas xres="10.000000" yres="10.000000">
-        <layer type="region" active="true" version="0.1" desc="rect5750">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="rect5750">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -6081,7 +6009,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path5752">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path5752">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -6779,7 +6707,7 @@
                         <real value="0.0377450178"/>
                       </radius>
                       <theta>
-                        <angle value="-49.128513"/>
+                        <angle value="-49.128510"/>
                       </theta>
                     </radial_composite>
                   </t2>
@@ -7745,7 +7673,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="true" version="0.1" desc="07 - Draw">
+  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="07 - Draw">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -7763,7 +7691,7 @@
     </param>
     <param name="canvas">
       <canvas xres="10.000000" yres="10.000000">
-        <layer type="region" active="true" version="0.1" desc="path6100">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path6100">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -8392,7 +8320,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path6118">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path6118">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -8631,7 +8559,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path6111">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path6111">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -9377,7 +9305,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path6105">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path6105">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -9637,7 +9565,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="true" version="0.1" desc="08 - Circle">
+  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="08 - Circle">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -9655,7 +9583,7 @@
     </param>
     <param name="canvas">
       <canvas xres="10.000000" yres="10.000000">
-        <layer type="region" active="true" version="0.1" desc="path4889">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path4889">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -9855,7 +9783,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path6215">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path6215">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -9863,7 +9791,7 @@
             <real value="1.0000000000"/>
           </param>
           <param name="blend_method">
-            <integer value="0"/>
+            <integer value="19"/>
           </param>
           <param name="color">
             <color>
@@ -10076,7 +10004,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="true" version="0.1" desc="09 - Rectangle">
+  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="09 - Rectangle">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -10094,7 +10022,7 @@
     </param>
     <param name="canvas">
       <canvas xres="10.000000" yres="10.000000">
-        <layer type="region" active="true" version="0.1" desc="rect4891">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="rect4891">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -10294,7 +10222,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path6217">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path6217">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -10302,7 +10230,7 @@
             <real value="1.0000000000"/>
           </param>
           <param name="blend_method">
-            <integer value="0"/>
+            <integer value="19"/>
           </param>
           <param name="color">
             <color>
@@ -10515,7 +10443,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="true" version="0.1" desc="10 - Star">
+  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="10 - Star">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -10533,7 +10461,7 @@
     </param>
     <param name="canvas">
       <canvas xres="10.000000" yres="10.000000">
-        <layer type="region" active="true" version="0.1" desc="path4893">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path4893">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -10967,7 +10895,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path6219">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path6219">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -10975,7 +10903,7 @@
             <real value="1.0000000000"/>
           </param>
           <param name="blend_method">
-            <integer value="0"/>
+            <integer value="19"/>
           </param>
           <param name="color">
             <color>
@@ -11461,7 +11389,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="true" version="0.1" desc="11 - Polygon">
+  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="11 - Polygon">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -11479,7 +11407,7 @@
     </param>
     <param name="canvas">
       <canvas xres="10.000000" yres="10.000000">
-        <layer type="region" active="true" version="0.1" desc="path4895">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path4895">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -11757,7 +11685,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path6221">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path6221">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -11765,7 +11693,7 @@
             <real value="1.0000000000"/>
           </param>
           <param name="blend_method">
-            <integer value="0"/>
+            <integer value="19"/>
           </param>
           <param name="color">
             <color>
@@ -12056,7 +11984,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="true" version="0.1" desc="12 - Gradeint">
+  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="12 - Gradeint">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -12074,7 +12002,7 @@
     </param>
     <param name="canvas">
       <canvas xres="10.000000" yres="10.000000">
-        <layer type="PasteCanvas" active="true" version="0.1" desc="Inline Canvas">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="rect4145">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -12084,634 +12012,239 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
+          <param name="color">
+            <color>
+              <r>1.000000</r>
+              <g>1.000000</g>
+              <b>1.000000</b>
+              <a>1.000000</a>
+            </color>
+          </param>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
               <y>0.0000000000</y>
             </vector>
           </param>
-          <param name="canvas">
-            <canvas>
-              <layer type="region" active="true" version="0.1" desc="rect4145">
-                <param name="z_depth">
-                  <real value="0.0000000000"/>
-                </param>
-                <param name="amount">
-                  <real value="1.0000000000"/>
-                </param>
-                <param name="blend_method">
-                  <integer value="0"/>
-                </param>
-                <param name="color">
-                  <color>
-                    <r>0.000000</r>
-                    <g>0.000000</g>
-                    <b>0.000000</b>
-                    <a>1.000000</a>
-                  </color>
-                </param>
-                <param name="origin">
-                  <vector>
-                    <x>0.0000000000</x>
-                    <y>0.0000000000</y>
-                  </vector>
-                </param>
-                <param name="invert">
-                  <bool value="false"/>
-                </param>
-                <param name="antialias">
-                  <bool value="true"/>
-                </param>
-                <param name="feather">
-                  <real value="0.0000000000"/>
-                </param>
-                <param name="blurtype">
-                  <integer value="1"/>
-                </param>
-                <param name="winding_style">
-                  <integer value="1"/>
-                </param>
-                <param name="bline">
-                  <bline type="bline_point" loop="true">
-                    <entry>
-                      <composite type="bline_point">
-                        <point>
-                          <vector>
-                            <x>-0.1847307980</x>
-                            <y>0.1611582786</y>
-                          </vector>
-                        </point>
-                        <width>
-                          <real value="1.0000000000"/>
-                        </width>
-                        <origin>
-                          <real value="0.5000000000"/>
-                        </origin>
-                        <split>
-                          <bool value="true"/>
-                        </split>
-                        <t1>
-                          <radial_composite type="vector">
-                            <radius>
-                              <real value="0.0000000000"/>
-                            </radius>
-                            <theta>
-                              <angle value="0.000000"/>
-                            </theta>
-                          </radial_composite>
-                        </t1>
-                        <t2>
-                          <radial_composite type="vector">
-                            <radius>
-                              <real value="0.0000000000"/>
-                            </radius>
-                            <theta>
-                              <angle value="-180.000000"/>
-                            </theta>
-                          </radial_composite>
-                        </t2>
-                      </composite>
-                    </entry>
-                    <entry>
-                      <composite type="bline_point">
-                        <point>
-                          <vector>
-                            <x>-0.1847307980</x>
-                            <y>-0.1611583829</y>
-                          </vector>
-                        </point>
-                        <width>
-                          <real value="1.0000000000"/>
-                        </width>
-                        <origin>
-                          <real value="0.5000000000"/>
-                        </origin>
-                        <split>
-                          <bool value="true"/>
-                        </split>
-                        <t1>
-                          <radial_composite type="vector">
-                            <radius>
-                              <real value="0.0000000000"/>
-                            </radius>
-                            <theta>
-                              <angle value="0.000000"/>
-                            </theta>
-                          </radial_composite>
-                        </t1>
-                        <t2>
-                          <radial_composite type="vector">
-                            <radius>
-                              <real value="0.0000000000"/>
-                            </radius>
-                            <theta>
-                              <angle value="-180.000000"/>
-                            </theta>
-                          </radial_composite>
-                        </t2>
-                      </composite>
-                    </entry>
-                    <entry>
-                      <composite type="bline_point">
-                        <point>
-                          <vector>
-                            <x>-0.0904411152</x>
-                            <y>-0.1611583829</y>
-                          </vector>
-                        </point>
-                        <width>
-                          <real value="1.0000000000"/>
-                        </width>
-                        <origin>
-                          <real value="0.5000000000"/>
-                        </origin>
-                        <split>
-                          <bool value="true"/>
-                        </split>
-                        <t1>
-                          <radial_composite type="vector">
-                            <radius>
-                              <real value="0.0000000000"/>
-                            </radius>
-                            <theta>
-                              <angle value="0.000000"/>
-                            </theta>
-                          </radial_composite>
-                        </t1>
-                        <t2>
-                          <radial_composite type="vector">
-                            <radius>
-                              <real value="0.0000000000"/>
-                            </radius>
-                            <theta>
-                              <angle value="-180.000000"/>
-                            </theta>
-                          </radial_composite>
-                        </t2>
-                      </composite>
-                    </entry>
-                    <entry>
-                      <composite type="bline_point">
-                        <point>
-                          <vector>
-                            <x>-0.0048107002</x>
-                            <y>-0.1611583829</y>
-                          </vector>
-                        </point>
-                        <width>
-                          <real value="1.0000000000"/>
-                        </width>
-                        <origin>
-                          <real value="0.5000000000"/>
-                        </origin>
-                        <split>
-                          <bool value="true"/>
-                        </split>
-                        <t1>
-                          <radial_composite type="vector">
-                            <radius>
-                              <real value="0.0000000000"/>
-                            </radius>
-                            <theta>
-                              <angle value="0.000000"/>
-                            </theta>
-                          </radial_composite>
-                        </t1>
-                        <t2>
-                          <radial_composite type="vector">
-                            <radius>
-                              <real value="0.0000000000"/>
-                            </radius>
-                            <theta>
-                              <angle value="-180.000000"/>
-                            </theta>
-                          </radial_composite>
-                        </t2>
-                      </composite>
-                    </entry>
-                    <entry>
-                      <composite type="bline_point">
-                        <point>
-                          <vector>
-                            <x>0.1298888475</x>
-                            <y>-0.1611583829</y>
-                          </vector>
-                        </point>
-                        <width>
-                          <real value="1.0000000000"/>
-                        </width>
-                        <origin>
-                          <real value="0.5000000000"/>
-                        </origin>
-                        <split>
-                          <bool value="true"/>
-                        </split>
-                        <t1>
-                          <radial_composite type="vector">
-                            <radius>
-                              <real value="0.0000000000"/>
-                            </radius>
-                            <theta>
-                              <angle value="0.000000"/>
-                            </theta>
-                          </radial_composite>
-                        </t1>
-                        <t2>
-                          <radial_composite type="vector">
-                            <radius>
-                              <real value="0.0000000000"/>
-                            </radius>
-                            <theta>
-                              <angle value="-180.000000"/>
-                            </theta>
-                          </radial_composite>
-                        </t2>
-                      </composite>
-                    </entry>
-                    <entry>
-                      <composite type="bline_point">
-                        <point>
-                          <vector>
-                            <x>0.1847307980</x>
-                            <y>-0.1611583829</y>
-                          </vector>
-                        </point>
-                        <width>
-                          <real value="1.0000000000"/>
-                        </width>
-                        <origin>
-                          <real value="0.5000000000"/>
-                        </origin>
-                        <split>
-                          <bool value="true"/>
-                        </split>
-                        <t1>
-                          <radial_composite type="vector">
-                            <radius>
-                              <real value="0.0000000000"/>
-                            </radius>
-                            <theta>
-                              <angle value="0.000000"/>
-                            </theta>
-                          </radial_composite>
-                        </t1>
-                        <t2>
-                          <radial_composite type="vector">
-                            <radius>
-                              <real value="0.0000000000"/>
-                            </radius>
-                            <theta>
-                              <angle value="-180.000000"/>
-                            </theta>
-                          </radial_composite>
-                        </t2>
-                      </composite>
-                    </entry>
-                    <entry>
-                      <composite type="bline_point">
-                        <point>
-                          <vector>
-                            <x>0.1847307980</x>
-                            <y>0.1611582786</y>
-                          </vector>
-                        </point>
-                        <width>
-                          <real value="1.0000000000"/>
-                        </width>
-                        <origin>
-                          <real value="0.5000000000"/>
-                        </origin>
-                        <split>
-                          <bool value="true"/>
-                        </split>
-                        <t1>
-                          <radial_composite type="vector">
-                            <radius>
-                              <real value="0.0000000000"/>
-                            </radius>
-                            <theta>
-                              <angle value="0.000000"/>
-                            </theta>
-                          </radial_composite>
-                        </t1>
-                        <t2>
-                          <radial_composite type="vector">
-                            <radius>
-                              <real value="0.0000000000"/>
-                            </radius>
-                            <theta>
-                              <angle value="-180.000000"/>
-                            </theta>
-                          </radial_composite>
-                        </t2>
-                      </composite>
-                    </entry>
-                    <entry>
-                      <composite type="bline_point">
-                        <point>
-                          <vector>
-                            <x>0.1298888475</x>
-                            <y>0.1611582786</y>
-                          </vector>
-                        </point>
-                        <width>
-                          <real value="1.0000000000"/>
-                        </width>
-                        <origin>
-                          <real value="0.5000000000"/>
-                        </origin>
-                        <split>
-                          <bool value="true"/>
-                        </split>
-                        <t1>
-                          <radial_composite type="vector">
-                            <radius>
-                              <real value="0.0000000000"/>
-                            </radius>
-                            <theta>
-                              <angle value="0.000000"/>
-                            </theta>
-                          </radial_composite>
-                        </t1>
-                        <t2>
-                          <radial_composite type="vector">
-                            <radius>
-                              <real value="0.0000000000"/>
-                            </radius>
-                            <theta>
-                              <angle value="-180.000000"/>
-                            </theta>
-                          </radial_composite>
-                        </t2>
-                      </composite>
-                    </entry>
-                    <entry>
-                      <composite type="bline_point">
-                        <point>
-                          <vector>
-                            <x>-0.0048107002</x>
-                            <y>0.1611582786</y>
-                          </vector>
-                        </point>
-                        <width>
-                          <real value="1.0000000000"/>
-                        </width>
-                        <origin>
-                          <real value="0.5000000000"/>
-                        </origin>
-                        <split>
-                          <bool value="true"/>
-                        </split>
-                        <t1>
-                          <radial_composite type="vector">
-                            <radius>
-                              <real value="0.0000000000"/>
-                            </radius>
-                            <theta>
-                              <angle value="0.000000"/>
-                            </theta>
-                          </radial_composite>
-                        </t1>
-                        <t2>
-                          <radial_composite type="vector">
-                            <radius>
-                              <real value="0.0000000000"/>
-                            </radius>
-                            <theta>
-                              <angle value="-180.000000"/>
-                            </theta>
-                          </radial_composite>
-                        </t2>
-                      </composite>
-                    </entry>
-                    <entry>
-                      <composite type="bline_point">
-                        <point>
-                          <vector>
-                            <x>-0.0904411152</x>
-                            <y>0.1611582786</y>
-                          </vector>
-                        </point>
-                        <width>
-                          <real value="1.0000000000"/>
-                        </width>
-                        <origin>
-                          <real value="0.5000000000"/>
-                        </origin>
-                        <split>
-                          <bool value="true"/>
-                        </split>
-                        <t1>
-                          <radial_composite type="vector">
-                            <radius>
-                              <real value="0.0000000000"/>
-                            </radius>
-                            <theta>
-                              <angle value="0.000000"/>
-                            </theta>
-                          </radial_composite>
-                        </t1>
-                        <t2>
-                          <radial_composite type="vector">
-                            <radius>
-                              <real value="0.0000000000"/>
-                            </radius>
-                            <theta>
-                              <angle value="-180.000000"/>
-                            </theta>
-                          </radial_composite>
-                        </t2>
-                      </composite>
-                    </entry>
-                  </bline>
-                </param>
-              </layer>
-              <layer type="PasteCanvas" active="true" version="0.1" desc="Inline Canvas">
-                <param name="z_depth">
-                  <real value="0.0000000000"/>
-                </param>
-                <param name="amount">
-                  <real value="1.0000000000"/>
-                </param>
-                <param name="blend_method">
-                  <integer value="21"/>
-                </param>
-                <param name="origin">
-                  <vector>
-                    <x>0.0000000000</x>
-                    <y>0.0000000000</y>
-                  </vector>
-                </param>
-                <param name="canvas">
-                  <canvas>
-                    <layer type="PasteCanvas" active="true" version="0.1" desc="Inline Canvas">
-                      <param name="z_depth">
-                        <real value="0.0000000000"/>
-                      </param>
-                      <param name="amount">
-                        <real value="1.0000000000"/>
-                      </param>
-                      <param name="blend_method">
-                        <integer value="0"/>
-                      </param>
-                      <param name="origin">
-                        <vector>
-                          <x>0.0000000000</x>
-                          <y>0.0000000000</y>
-                        </vector>
-                      </param>
-                      <param name="canvas">
-                        <canvas>
-                          <layer type="linear_gradient" active="true" version="0.0" desc="linearGradient7560">
-                            <param name="z_depth">
-                              <real value="0.0000000000"/>
-                            </param>
-                            <param name="amount">
-                              <real value="1.0000000000"/>
-                            </param>
-                            <param name="blend_method">
-                              <integer value="0"/>
-                            </param>
-                            <param name="p1">
-                              <vector>
-                                <x>-1.5901042223</x>
-                                <y>-8.4026041031</y>
-                              </vector>
-                            </param>
-                            <param name="p2">
-                              <vector>
-                                <x>-1.1901042461</x>
-                                <y>-8.4026041031</y>
-                              </vector>
-                            </param>
-                            <param name="gradient">
-                              <gradient>
-                                <color pos="0.000000">
-                                  <r>0.659224</r>
-                                  <g>0.687031</g>
-                                  <b>0.632043</b>
-                                  <a>1.000000</a>
-                                </color>
-                                <color pos="1.000000">
-                                  <r>0.023104</r>
-                                  <g>0.030257</g>
-                                  <b>0.032876</b>
-                                  <a>1.000000</a>
-                                </color>
-                              </gradient>
-                            </param>
-                            <param name="loop">
-                              <bool value="false"/>
-                            </param>
-                            <param name="zigzag">
-                              <bool value="false"/>
-                            </param>
-                          </layer>
-                          <layer type="warp" active="true" version="0.1" desc="Transform">
-                            <param name="src_tl">
-                              <vector>
-                                <x>1.4666665792</x>
-                                <y>-1.4666666985</y>
-                              </vector>
-                            </param>
-                            <param name="src_br">
-                              <vector>
-                                <x>3.1333332062</x>
-                                <y>-3.1333334446</y>
-                              </vector>
-                            </param>
-                            <param name="dest_tl">
-                              <vector>
-                                <x>2.6386678219</x>
-                                <y>6.4064064026</y>
-                              </vector>
-                            </param>
-                            <param name="dest_tr">
-                              <vector>
-                                <x>4.1780910492</x>
-                                <y>6.4064064026</y>
-                              </vector>
-                            </param>
-                            <param name="dest_br">
-                              <vector>
-                                <x>4.1780910492</x>
-                                <y>4.8669834137</y>
-                              </vector>
-                            </param>
-                            <param name="dest_bl">
-                              <vector>
-                                <x>2.6386678219</x>
-                                <y>4.8669834137</y>
-                              </vector>
-                            </param>
-                            <param name="clip">
-                              <bool value="false"/>
-                            </param>
-                            <param name="horizon">
-                              <real value="4.0000000000"/>
-                            </param>
-                          </layer>
-                        </canvas>
-                      </param>
-                      <param name="zoom">
-                        <real value="0.0000000000"/>
-                      </param>
-                      <param name="time_offset">
-                        <time value="0s"/>
-                      </param>
-                      <param name="children_lock">
-                        <bool value="false"/>
-                      </param>
-                      <param name="focus">
-                        <vector>
-                          <x>0.0000000000</x>
-                          <y>0.0000000000</y>
-                        </vector>
-                      </param>
-                      <param name="outline_grow">
-                        <real value="0.0000000000"/>
-                      </param>
-                    </layer>
-                  </canvas>
-                </param>
-                <param name="zoom">
-                  <real value="0.0000000000"/>
-                </param>
-                <param name="time_offset">
-                  <time value="0s"/>
-                </param>
-                <param name="children_lock">
-                  <bool value="false"/>
-                </param>
-                <param name="focus">
-                  <vector>
-                    <x>0.0000000000</x>
-                    <y>0.0000000000</y>
-                  </vector>
-                </param>
-                <param name="outline_grow">
-                  <real value="0.0000000000"/>
-                </param>
-              </layer>
-            </canvas>
-          </param>
-          <param name="zoom">
-            <real value="0.0000000000"/>
-          </param>
-          <param name="time_offset">
-            <time value="0s"/>
-          </param>
-          <param name="children_lock">
+          <param name="invert">
             <bool value="false"/>
           </param>
-          <param name="focus">
+          <param name="antialias">
+            <bool value="true"/>
+          </param>
+          <param name="feather">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="blurtype">
+            <integer value="1"/>
+          </param>
+          <param name="winding_style">
+            <integer value="1"/>
+          </param>
+          <param name="bline">
+            <bline type="bline_point" loop="true">
+              <entry>
+                <composite type="bline_point">
+                  <point>
+                    <vector>
+                      <x>-0.1847307980</x>
+                      <y>0.1611582786</y>
+                    </vector>
+                  </point>
+                  <width>
+                    <real value="1.0000000000"/>
+                  </width>
+                  <origin>
+                    <real value="0.5000000000"/>
+                  </origin>
+                  <split>
+                    <bool value="true"/>
+                  </split>
+                  <t1>
+                    <radial_composite type="vector">
+                      <radius>
+                        <real value="0.0000000000"/>
+                      </radius>
+                      <theta>
+                        <angle value="0.000000"/>
+                      </theta>
+                    </radial_composite>
+                  </t1>
+                  <t2>
+                    <radial_composite type="vector">
+                      <radius>
+                        <real value="0.0000000000"/>
+                      </radius>
+                      <theta>
+                        <angle value="-180.000000"/>
+                      </theta>
+                    </radial_composite>
+                  </t2>
+                </composite>
+              </entry>
+              <entry>
+                <composite type="bline_point">
+                  <point>
+                    <vector>
+                      <x>-0.1847307980</x>
+                      <y>-0.1611583829</y>
+                    </vector>
+                  </point>
+                  <width>
+                    <real value="1.0000000000"/>
+                  </width>
+                  <origin>
+                    <real value="0.5000000000"/>
+                  </origin>
+                  <split>
+                    <bool value="true"/>
+                  </split>
+                  <t1>
+                    <radial_composite type="vector">
+                      <radius>
+                        <real value="0.0000000000"/>
+                      </radius>
+                      <theta>
+                        <angle value="0.000000"/>
+                      </theta>
+                    </radial_composite>
+                  </t1>
+                  <t2>
+                    <radial_composite type="vector">
+                      <radius>
+                        <real value="0.0000000000"/>
+                      </radius>
+                      <theta>
+                        <angle value="-180.000000"/>
+                      </theta>
+                    </radial_composite>
+                  </t2>
+                </composite>
+              </entry>
+              <entry>
+                <composite type="bline_point">
+                  <point>
+                    <vector>
+                      <x>0.1847307980</x>
+                      <y>-0.1611583829</y>
+                    </vector>
+                  </point>
+                  <width>
+                    <real value="1.0000000000"/>
+                  </width>
+                  <origin>
+                    <real value="0.5000000000"/>
+                  </origin>
+                  <split>
+                    <bool value="true"/>
+                  </split>
+                  <t1>
+                    <radial_composite type="vector">
+                      <radius>
+                        <real value="0.0000000000"/>
+                      </radius>
+                      <theta>
+                        <angle value="0.000000"/>
+                      </theta>
+                    </radial_composite>
+                  </t1>
+                  <t2>
+                    <radial_composite type="vector">
+                      <radius>
+                        <real value="0.0000000000"/>
+                      </radius>
+                      <theta>
+                        <angle value="-180.000000"/>
+                      </theta>
+                    </radial_composite>
+                  </t2>
+                </composite>
+              </entry>
+              <entry>
+                <composite type="bline_point">
+                  <point>
+                    <vector>
+                      <x>0.1847307980</x>
+                      <y>0.1611582786</y>
+                    </vector>
+                  </point>
+                  <width>
+                    <real value="1.0000000000"/>
+                  </width>
+                  <origin>
+                    <real value="0.5000000000"/>
+                  </origin>
+                  <split>
+                    <bool value="true"/>
+                  </split>
+                  <t1>
+                    <radial_composite type="vector">
+                      <radius>
+                        <real value="0.0000000000"/>
+                      </radius>
+                      <theta>
+                        <angle value="0.000000"/>
+                      </theta>
+                    </radial_composite>
+                  </t1>
+                  <t2>
+                    <radial_composite type="vector">
+                      <radius>
+                        <real value="0.0000000000"/>
+                      </radius>
+                      <theta>
+                        <angle value="-180.000000"/>
+                      </theta>
+                    </radial_composite>
+                  </t2>
+                </composite>
+              </entry>
+            </bline>
+          </param>
+        </layer>
+        <layer type="linear_gradient" active="true" exclude_from_rendering="false" version="0.0">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="13" static="true"/>
+          </param>
+          <param name="p1">
             <vector>
-              <x>0.0000000000</x>
+              <x>0.2000000030</x>
               <y>0.0000000000</y>
             </vector>
           </param>
-          <param name="outline_grow">
-            <real value="0.0000000000"/>
+          <param name="p2">
+            <vector>
+              <x>-0.2000000030</x>
+              <y>0.0000000000</y>
+            </vector>
+          </param>
+          <param name="gradient">
+            <gradient>
+              <color pos="0.000000">
+                <r>0.659224</r>
+                <g>0.687031</g>
+                <b>0.632043</b>
+                <a>1.000000</a>
+              </color>
+              <color pos="1.000000">
+                <r>0.023104</r>
+                <g>0.030257</g>
+                <b>0.032876</b>
+                <a>1.000000</a>
+              </color>
+            </gradient>
+          </param>
+          <param name="loop">
+            <bool value="false"/>
+          </param>
+          <param name="zigzag">
+            <bool value="false"/>
           </param>
         </layer>
       </canvas>
@@ -12735,7 +12268,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="true" version="0.1" desc="13 - Text">
+  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="13 - Text">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -12753,7 +12286,7 @@
     </param>
     <param name="canvas">
       <canvas xres="10.000000" yres="10.000000">
-        <layer type="region" active="true" version="0.1" desc="path10619">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path10619">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -13148,7 +12681,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path6223">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path6223">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -13156,7 +12689,7 @@
             <real value="1.0000000000"/>
           </param>
           <param name="blend_method">
-            <integer value="0"/>
+            <integer value="19"/>
           </param>
           <param name="color">
             <color>
@@ -13348,7 +12881,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="rect19574">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="rect19574">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -13393,7 +12926,7 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>-0.0088542337</x>
+                      <x>0.1256623417</x>
                       <y>0.1617186666</y>
                     </vector>
                   </point>
@@ -13432,7 +12965,7 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>-0.0088542337</x>
+                      <x>0.1256623417</x>
                       <y>-0.1617188305</y>
                     </vector>
                   </point>
@@ -13471,7 +13004,7 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>0.0088540995</x>
+                      <x>0.1433706880</x>
                       <y>-0.1617188305</y>
                     </vector>
                   </point>
@@ -13510,7 +13043,7 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>0.0088540995</x>
+                      <x>0.1433706880</x>
                       <y>0.1617186666</y>
                     </vector>
                   </point>
@@ -13548,7 +13081,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path19577">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path19577">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -13593,8 +13126,8 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>-0.0252604000</x>
-                      <y>0.0091145001</y>
+                      <x>0.1473958343</x>
+                      <y>0.1799668670</y>
                     </vector>
                   </point>
                   <width>
@@ -13632,8 +13165,8 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>-0.0252604000</x>
-                      <y>-0.0091146668</y>
+                      <x>0.1473958343</x>
+                      <y>0.1617376953</y>
                     </vector>
                   </point>
                   <width>
@@ -13671,8 +13204,8 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>0.0252604336</x>
-                      <y>-0.0091146668</y>
+                      <x>0.1979166716</x>
+                      <y>0.1617376953</y>
                     </vector>
                   </point>
                   <width>
@@ -13710,8 +13243,8 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>0.0252604336</x>
-                      <y>0.0091145001</y>
+                      <x>0.1979166716</x>
+                      <y>0.1799668670</y>
                     </vector>
                   </point>
                   <width>
@@ -13748,7 +13281,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path19579">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path19595">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -13793,8 +13326,8 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>-0.0252604000</x>
-                      <y>0.0088541666</y>
+                      <x>0.1473958343</x>
+                      <y>-0.1611978263</y>
                     </vector>
                   </point>
                   <width>
@@ -13832,8 +13365,8 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>-0.0252604000</x>
-                      <y>-0.0088541666</y>
+                      <x>0.1473958343</x>
+                      <y>-0.1789061725</y>
                     </vector>
                   </point>
                   <width>
@@ -13871,8 +13404,8 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>0.0252604336</x>
-                      <y>-0.0088541666</y>
+                      <x>0.1979166716</x>
+                      <y>-0.1789061725</y>
                     </vector>
                   </point>
                   <width>
@@ -13910,8 +13443,8 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>0.0252604336</x>
-                      <y>0.0088541666</y>
+                      <x>0.1979166716</x>
+                      <y>-0.1611978263</y>
                     </vector>
                   </point>
                   <width>
@@ -13948,7 +13481,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path19593">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path19579">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -13993,8 +13526,8 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>-0.0252604000</x>
-                      <y>0.0091145001</y>
+                      <x>0.0718046203</x>
+                      <y>0.1797065288</y>
                     </vector>
                   </point>
                   <width>
@@ -14032,8 +13565,8 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>-0.0252604000</x>
-                      <y>-0.0091146668</y>
+                      <x>0.0718046203</x>
+                      <y>0.1619981974</y>
                     </vector>
                   </point>
                   <width>
@@ -14071,8 +13604,8 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>0.0252604336</x>
-                      <y>-0.0091146668</y>
+                      <x>0.1223254502</x>
+                      <y>0.1619981974</y>
                     </vector>
                   </point>
                   <width>
@@ -14110,8 +13643,8 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>0.0252604336</x>
-                      <y>0.0091145001</y>
+                      <x>0.1223254502</x>
+                      <y>0.1797065288</y>
                     </vector>
                   </point>
                   <width>
@@ -14148,7 +13681,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path19595">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path19593">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -14193,8 +13726,8 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>-0.0252604000</x>
-                      <y>0.0088541666</y>
+                      <x>0.0718046203</x>
+                      <y>-0.1609375030</y>
                     </vector>
                   </point>
                   <width>
@@ -14232,8 +13765,8 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>-0.0252604000</x>
-                      <y>-0.0088541666</y>
+                      <x>0.0718046203</x>
+                      <y>-0.1791666597</y>
                     </vector>
                   </point>
                   <width>
@@ -14271,8 +13804,8 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>0.0252604336</x>
-                      <y>-0.0088541666</y>
+                      <x>0.1223254502</x>
+                      <y>-0.1791666597</y>
                     </vector>
                   </point>
                   <width>
@@ -14310,8 +13843,8 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>0.0252604336</x>
-                      <y>0.0088541666</y>
+                      <x>0.1223254502</x>
+                      <y>-0.1609375030</y>
                     </vector>
                   </point>
                   <width>
@@ -14369,7 +13902,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="true" version="0.1" desc="14 - Line Width">
+  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="14 - Line Width">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -14387,7 +13920,7 @@
     </param>
     <param name="canvas">
       <canvas xres="10.000000" yres="10.000000">
-        <layer type="region" active="true" version="0.1" desc="path6393">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path6393">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -14626,7 +14159,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path6395">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path6395">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -15177,7 +14710,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path19570">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path19570">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -15554,7 +15087,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="true" version="0.1" desc="15 - Eyedrop">
+  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="15 - Eyedrop">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -15572,7 +15105,7 @@
     </param>
     <param name="canvas">
       <canvas xres="10.000000" yres="10.000000">
-        <layer type="region" active="true" version="0.1" desc="rect4097">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="rect4097">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -15928,7 +15461,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="rect4099">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="rect4099">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -16305,7 +15838,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="true" version="0.1" desc="16 - Fill">
+  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="16 - Fill">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -16323,7 +15856,7 @@
     </param>
     <param name="canvas">
       <canvas xres="10.000000" yres="10.000000">
-        <layer type="region" active="true" version="0.1" desc="rect15117">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="rect15117">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -16796,7 +16329,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="rect15119">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="rect15119">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -17581,7 +17114,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path15122">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path15122">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -18036,7 +17569,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="true" version="0.1" desc="17 - Sketch">
+  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="17 - Sketch">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -18054,7 +17587,7 @@
     </param>
     <param name="canvas">
       <canvas xres="10.000000" yres="10.000000">
-        <layer type="region" active="true" version="0.1" desc="path4010">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path4010">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -18683,7 +18216,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path4012">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path4012">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -18922,7 +18455,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path4015">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path4015">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -19668,7 +19201,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path4017">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path4017">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -19928,7 +19461,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="true" version="0.1" desc="18 - Zoom">
+  <layer type="PasteCanvas" active="true" exclude_from_rendering="false" version="0.1" desc="18 - Zoom">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -19946,7 +19479,7 @@
     </param>
     <param name="canvas">
       <canvas xres="10.000000" yres="10.000000">
-        <layer type="region" active="true" version="0.1" desc="path19599">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path19599">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -20146,7 +19679,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="rect4857">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="rect4857">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -20385,7 +19918,7 @@
             </bline>
           </param>
         </layer>
-        <layer type="region" active="true" version="0.1" desc="path19597">
+        <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="path19597">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -20393,7 +19926,7 @@
             <real value="1.0000000000"/>
           </param>
           <param name="blend_method">
-            <integer value="0"/>
+            <integer value="19"/>
           </param>
           <param name="color">
             <color>
