@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <canvas version="0.9" width="24" height="24" xres="2834.645752" yres="2834.645752" view-box="-0.200000 0.200000 0.200000 -0.200000" antialias="2" fps="24.000" begin-time="0f" end-time="0f" bgcolor="0.500000 0.500000 0.500000 1.000000">
-  <name>Flat Icon Set : Value Types</name>
-  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="01 - Angle">
+  <name>Flat Icon Set : ValueNode Types</name>
+  <layer type="PasteCanvas" active="true" exclude_from_rendering="false" version="0.1" desc="01 - Angle">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -29,14 +29,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.378676</r>
-              <g>0.000000</g>
-              <b>0.000000</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Indicator_2"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -463,14 +456,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -663,14 +649,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -1386,7 +1365,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="02 - Bool">
+  <layer type="PasteCanvas" active="true" exclude_from_rendering="false" version="0.1" desc="02 - Bool">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -1414,14 +1393,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -1848,14 +1820,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -2410,7 +2375,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="03 - Real">
+  <layer type="PasteCanvas" active="true" exclude_from_rendering="false" version="0.1" desc="03 - Real">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -2438,14 +2403,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -4365,7 +4323,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="04 - Canvas">
+  <layer type="PasteCanvas" active="true" exclude_from_rendering="false" version="0.1" desc="04 - Canvas">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -4393,14 +4351,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -4671,14 +4622,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -5443,7 +5387,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="05 - Color">
+  <layer type="PasteCanvas" active="true" exclude_from_rendering="false" version="0.1" desc="05 - Color">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -6192,7 +6136,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="06 - Gradient">
+  <layer type="PasteCanvas" active="true" exclude_from_rendering="false" version="0.1" desc="06 - Gradient">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -6471,22 +6415,7 @@
               <y>0.0000000000</y>
             </vector>
           </param>
-          <param name="gradient">
-            <gradient>
-              <color pos="0.000000">
-                <r>0.659224</r>
-                <g>0.687031</g>
-                <b>0.632043</b>
-                <a>1.000000</a>
-              </color>
-              <color pos="1.000000">
-                <r>0.023104</r>
-                <g>0.030257</g>
-                <b>0.032876</b>
-                <a>1.000000</a>
-              </color>
-            </gradient>
-          </param>
+          <param name="gradient" use="fis_palette.sif#:Content_3"/>
           <param name="loop">
             <bool value="false"/>
           </param>
@@ -6515,7 +6444,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="07 - Integer">
+  <layer type="PasteCanvas" active="true" exclude_from_rendering="false" version="0.1" desc="07 - Integer">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -6543,14 +6472,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.019608</r>
-              <g>0.027451</g>
-              <b>0.031373</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -6821,14 +6743,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.019608</r>
-              <g>0.027451</g>
-              <b>0.031373</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -7177,14 +7092,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -7533,14 +7441,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -7889,14 +7790,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -8245,14 +8139,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -8601,14 +8488,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.019608</r>
-              <g>0.027451</g>
-              <b>0.031373</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_2"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -8968,7 +8848,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="08 - List">
+  <layer type="PasteCanvas" active="true" exclude_from_rendering="false" version="0.1" desc="08 - List">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -8996,14 +8876,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -9235,14 +9108,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -9474,14 +9340,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -9713,14 +9572,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -9952,14 +9804,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -10191,14 +10036,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -10441,7 +10279,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="09 - Segment">
+  <layer type="PasteCanvas" active="true" exclude_from_rendering="false" version="0.1" desc="09 - Segment">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -10469,14 +10307,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -10825,14 +10656,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -11064,14 +10888,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -11314,7 +11131,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="10 - Spline Point">
+  <layer type="PasteCanvas" active="true" exclude_from_rendering="false" version="0.1" desc="10 - Spline Point">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -11342,14 +11159,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -12065,7 +11875,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="11 - Time">
+  <layer type="PasteCanvas" active="true" exclude_from_rendering="false" version="0.1" desc="11 - Time">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -12293,16 +12103,9 @@
           <param name="blend_method">
             <integer value="0" static="true"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.019608</r>
-              <g>0.027451</g>
-              <b>0.031373</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
-            <vector guid="A03AB73E1659364B091D4DE0662D15EC">
+            <vector>
               <x>0.0000000000</x>
               <y>0.0000000000</y>
             </vector>
@@ -12552,14 +12355,7 @@
           <param name="blend_method">
             <integer value="0" static="true"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.019608</r>
-              <g>0.027451</g>
-              <b>0.031373</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector guid="00DDE493CA4D571F421AAE2D152CD683">
               <x>0.0000000000</x>
@@ -12861,7 +12657,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="12 - Vector">
+  <layer type="PasteCanvas" active="true" exclude_from_rendering="false" version="0.1" desc="12 - Vector">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -13089,14 +12885,7 @@
           <param name="blend_method">
             <integer value="0" static="true"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.019608</r>
-              <g>0.027451</g>
-              <b>0.031373</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector guid="6A9B83D10166F2C9610C8CABA514973F">
               <x>0.0000000000</x>
@@ -13398,7 +13187,7 @@
       <real value="0.0000000000"/>
     </param>
   </layer>
-  <layer type="PasteCanvas" active="false" exclude_from_rendering="false" version="0.1" desc="13 - String">
+  <layer type="PasteCanvas" active="true" exclude_from_rendering="false" version="0.1" desc="13 - String">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -13426,14 +13215,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -13860,14 +13642,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.023104</r>
-              <g>0.030257</g>
-              <b>0.032876</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -14286,6 +14061,42 @@
         </layer>
       </canvas>
     </param>
+    <param name="zoom">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="time_offset">
+      <time value="0s"/>
+    </param>
+    <param name="children_lock">
+      <bool value="false"/>
+    </param>
+    <param name="focus">
+      <vector>
+        <x>0.0000000000</x>
+        <y>0.0000000000</y>
+      </vector>
+    </param>
+    <param name="outline_grow">
+      <real value="0.0000000000"/>
+    </param>
+  </layer>
+  <layer type="PasteCanvas" active="true" exclude_from_rendering="true" version="0.1">
+    <param name="z_depth">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="amount">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="blend_method">
+      <integer value="0" static="true"/>
+    </param>
+    <param name="origin">
+      <vector>
+        <x>0.0000000000</x>
+        <y>0.0000000000</y>
+      </vector>
+    </param>
+    <param name="canvas" use="fis_palette.sif#"/>
     <param name="zoom">
       <real value="0.0000000000"/>
     </param>
