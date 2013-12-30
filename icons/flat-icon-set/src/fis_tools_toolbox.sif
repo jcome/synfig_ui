@@ -35,7 +35,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color" use="fis_palette.sif#:Indicator_1"/>
+          <param name="color" use="fis_palette.sif#:Object_1"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
