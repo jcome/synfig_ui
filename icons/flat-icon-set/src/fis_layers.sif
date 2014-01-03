@@ -4396,14 +4396,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.541798</r>
-              <g>0.208360</g>
-              <b>0.002586</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Content_2"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -4698,9 +4691,9 @@
           </param>
           <param name="color">
             <color>
-              <r>0.280124</r>
-              <g>0.098689</g>
-              <b>0.000023</b>
+              <r>0.625345</r>
+              <g>0.106156</g>
+              <b>0.000000</b>
               <a>1.000000</a>
             </color>
           </param>
@@ -4910,6 +4903,23 @@
             </bline>
           </param>
         </layer>
+        <layer type="colorcorrect" active="true" exclude_from_rendering="false" version="0.1">
+          <param name="hue_adjust">
+            <angle value="0.000000"/>
+          </param>
+          <param name="brightness">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="contrast">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="exposure">
+            <real value="-0.5000000000"/>
+          </param>
+          <param name="gamma">
+            <real value="1.0000000000"/>
+          </param>
+        </layer>
         <layer type="region" active="true" exclude_from_rendering="false" version="0.1" desc="object">
           <param name="z_depth">
             <real value="0.0000000000"/>
@@ -4920,14 +4930,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.541798</r>
-              <g>0.208360</g>
-              <b>0.002586</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Content_2"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
