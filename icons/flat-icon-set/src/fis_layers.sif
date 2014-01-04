@@ -20594,14 +20594,7 @@
           <param name="blend_method">
             <integer value="0"/>
           </param>
-          <param name="color">
-            <color>
-              <r>0.280124</r>
-              <g>0.098689</g>
-              <b>0.000023</b>
-              <a>1.000000</a>
-            </color>
-          </param>
+          <param name="color" use="fis_palette.sif#:Content_2"/>
           <param name="origin">
             <vector>
               <x>0.0000000000</x>
@@ -66287,7 +66280,7 @@
                 <composite type="bline_point">
                   <point>
                     <vector>
-                      <x>0.1989583373</x>
+                      <x>0.2000000030</x>
                       <y>-0.2000000030</y>
                     </vector>
                   </point>
