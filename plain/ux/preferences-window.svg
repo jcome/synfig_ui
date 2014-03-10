@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,14 +42,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1440"
-     inkscape:window-height="843"
+     inkscape:window-height="805"
      id="namedview3651"
      showgrid="false"
-     inkscape:zoom="1.0170693"
-     inkscape:cx="429.45049"
-     inkscape:cy="618.74227"
+     inkscape:zoom="0.70206385"
+     inkscape:cx="624.16958"
+     inkscape:cy="595.28921"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="g4331"
      showguides="false"
@@ -140,37 +140,41 @@
        xml:space="preserve"
        style="font-size:5.00707293px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="364.53217"
-       y="340.31866"
+       y="340.31863"
        id="text9623"
        sodipodi:linespacing="125%"
        transform="scale(0.60870664,1.6428275)"><tspan
          sodipodi:role="line"
          id="tspan9625"
          x="364.53217"
-         y="340.31866"
+         y="340.31863"
          style="font-size:6.25884104px">Ok</tspan></text>
-    <rect
-       y="543.42694"
-       x="151.06244"
-       height="23.649321"
-       width="54.124058"
-       id="rect9627"
-       style="fill:#babdb6;fill-opacity:1;stroke:#2e3436;stroke-width:0.6257202"
-       ry="2.0984259"
-       rx="0.45809951" />
-    <text
-       transform="scale(0.60870664,1.6428275)"
-       sodipodi:linespacing="125%"
-       id="text9629"
-       y="339.71204"
-       x="254.32295"
-       style="font-size:5.00707293px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
-         y="339.71204"
+    <g
+       id="g3233"
+       transform="translate(17.229357,0)">
+      <rect
+         rx="0.33102515"
+         ry="2.1118541"
+         style="fill:#babdb6;fill-opacity:1;stroke:#2e3436;stroke-width:0.53360009"
+         id="rect9627"
+         width="39.110336"
+         height="23.800657"
+         x="151.13947"
+         y="543.35132" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.00707293px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          x="254.32295"
-         id="tspan9631"
-         sodipodi:role="line"
-         style="font-size:6.25884104px">Restore Default Settings</tspan></text>
+         y="340.31863"
+         id="text9629"
+         sodipodi:linespacing="125%"
+         transform="scale(0.60870664,1.6428275)"><tspan
+           style="font-size:6.25884104px"
+           sodipodi:role="line"
+           id="tspan9631"
+           x="254.32295"
+           y="340.31863">Restore Defaults</tspan></text>
+    </g>
     <text
        xml:space="preserve"
        style="font-size:5.00707293px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -504,7 +508,7 @@
     </g>
     <g
        id="g6565"
-       transform="matrix(0.5,0,0,0.5,-55.270351,235.19076)"
+       transform="matrix(0.5,0,0,0.5,-55.270351,233.13435)"
        inkscape:transform-center-x="-6.0000018">
       <path
          transform="matrix(0.26611681,0,0,0.7182179,64.731608,100.34617)"
@@ -532,14 +536,14 @@
        xml:space="preserve"
        style="font-size:7.51060915px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="-1.4390378"
-       y="340.96378"
+       y="339.71204"
        id="text6570"
        sodipodi:linespacing="125%"
        transform="scale(0.60870664,1.6428275)"><tspan
          sodipodi:role="line"
          id="tspan6572"
          x="-1.4390378"
-         y="340.96378"
+         y="339.71204"
          style="font-size:6.25884104px">You need to relaunch Synfig Studio to apply these changes!</tspan></text>
     <path
        style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:0.44725591;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
