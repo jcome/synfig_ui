@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -238,8 +238,8 @@
      id="namedview3651"
      showgrid="false"
      inkscape:zoom="1.5383742"
-     inkscape:cx="282.81703"
-     inkscape:cy="269.45463"
+     inkscape:cx="427.12521"
+     inkscape:cy="275.955"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -3046,27 +3046,29 @@
          id="text8740"
          y="499.74728"
          x="296.5929"
-         style="font-size:25.03536414999999948px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#babdb6;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:25.03536415px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#babdb6;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           style="font-size:7.51060914999999873px;fill:#babdb6"
+           style="font-size:7.51060915px;fill:#babdb6"
            y="499.74728"
            x="296.5929"
            id="tspan8742"
-           sodipodi:role="line">0.0</tspan></text>
+           sodipodi:role="line">0.0<tspan
+   style="font-size:5.63295701px;baseline-shift:super"
+   id="tspan3694">o</tspan></tspan></text>
     </g>
     <text
        transform="scale(0.60870664,1.6428275)"
        sodipodi:linespacing="125%"
        id="text8818"
        y="412.96271"
-       x="0.28537005"
-       style="font-size:25.03536414999999948px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#babdb6;fill-opacity:1;stroke:none;font-family:Sans"
+       x="9.0214071"
+       style="font-size:25.03536415px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#babdb6;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
-         style="font-size:7.51060914999999873px;fill:#babdb6"
+         style="font-size:7.51060915px;fill:#babdb6"
          y="412.96271"
-         x="0.28537005"
+         x="9.0214071"
          id="tspan8820"
-         sodipodi:role="line">Point Angle Offset</tspan></text>
+         sodipodi:role="line">Point Offset</tspan></text>
     <g
        id="g8896"
        transform="translate(-137.23513,-12.127116)">
@@ -3908,21 +3910,23 @@
            id="tspan9338"
            x="296.5929"
            y="499.74728"
-           style="font-size:7.51060915px">0.0</tspan></text>
+           style="font-size:7.51060915px">0.0<tspan
+   style="font-size:5.63295701px;baseline-shift:super"
+   id="tspan3696">o</tspan></tspan></text>
     </g>
     <text
        xml:space="preserve"
        style="font-size:25.03536415px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="257.58231"
+       x="266.31833"
        y="412.96268"
        id="text9340"
        sodipodi:linespacing="125%"
        transform="scale(0.60870664,1.6428275)"><tspan
          sodipodi:role="line"
          id="tspan9342"
-         x="257.58231"
+         x="266.31833"
          y="412.96268"
-         style="font-size:7.51060915px">Point Angle Offset</tspan></text>
+         style="font-size:7.51060915px">Point Offset</tspan></text>
     <g
        transform="translate(19.383213,-12.127115)"
        id="g9344">
