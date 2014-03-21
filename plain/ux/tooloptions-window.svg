@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -609,13 +609,13 @@
      inkscape:window-height="814"
      id="namedview3651"
      showgrid="false"
-     inkscape:zoom="0.8964419"
-     inkscape:cx="584.31729"
-     inkscape:cy="575.03459"
+     inkscape:zoom="1.1885253"
+     inkscape:cx="295.61313"
+     inkscape:cy="590.86881"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3649"
+     inkscape:current-layer="layer4"
      showguides="false"
      inkscape:guide-bbox="true">
     <sodipodi:guide
@@ -1902,7 +1902,7 @@
            sodipodi:cy="349.94714"
            sodipodi:rx="18.214977"
            sodipodi:ry="18.214977"
-           d="m -239.07155,349.94714 a 18.214977,18.214977 0 1 1 -36.42996,0 18.214977,18.214977 0 1 1 36.42996,0 z"
+           d="m -239.07155,349.94714 c 0,10.05986 -8.15513,18.21498 -18.21498,18.21498 -10.05985,0 -18.21498,-8.15512 -18.21498,-18.21498 0,-10.05985 8.15513,-18.21497 18.21498,-18.21497 10.05985,0 18.21498,8.15512 18.21498,18.21497 z"
            transform="matrix(0.63134858,0,0,0.63134858,-115.9232,178.8909)" />
       </g>
     </g>
@@ -2894,7 +2894,7 @@
          sodipodi:role="line"
          id="tspan4781"
          x="295.85751"
-         y="601.33752">1px</tspan></text>
+         y="601.33752">3px</tspan></text>
   </g>
   <path
      id="path9104"
