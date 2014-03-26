@@ -12,8 +12,8 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="90"
    inkscape:export-xdpi="90"
-   inkscape:export-filename="/Users/chenyu/Source/synfig_ui/plain/ux/tooloptions-window.png"
-   sodipodi:docname="tooloptions-window-transition.svg"
+   inkscape:export-filename="/Users/chyu/Source/synfig_ui/plain/ux/tooloptions-window-transform-tools.png"
+   sodipodi:docname="tooloptions-window-transform-tools.svg"
    height="1052.3622"
    width="744.09448"
    inkscape:version="0.48.2 r9819"
@@ -598,9 +598,9 @@
      inkscape:window-height="807"
      id="namedview3651"
      showgrid="false"
-     inkscape:zoom="0.57774786"
-     inkscape:cx="441.2816"
-     inkscape:cy="526.18109"
+     inkscape:zoom="1.7563535"
+     inkscape:cx="352.46834"
+     inkscape:cy="521.07961"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1657,7 +1657,7 @@
          y="507.75238"
          x="436.04898"
          sodipodi:role="line"
-         id="tspan8516">These 2 tools can be eanbled together,</tspan><tspan
+         id="tspan8516">These 2 tools can be enabled together,</tspan><tspan
          style="font-size:14px"
          y="525.25238"
          x="436.04898"
@@ -1855,14 +1855,14 @@
        id="text8269"
        y="985.65485"
        x="305.75156"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#d3d7cf;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
-         style="font-size:12px;fill:#000000"
+         style="font-size:12px;fill:#d3d7cf"
          y="985.65485"
          x="305.75156"
          id="tspan8271"
          sodipodi:role="line">0.0pt<tspan
-   style="font-size:9px;baseline-shift:super;fill:#000000"
+   style="font-size:9px;baseline-shift:super;fill:#d3d7cf"
    id="tspan8273" /></tspan></text>
     <text
        xml:space="preserve"
@@ -1952,7 +1952,7 @@
          id="tspan8305"
          y="913.27875"
          x="436.04898"
-         sodipodi:role="line">options: Radius</tspan><tspan
+         sodipodi:role="line">options: Orientation</tspan><tspan
          id="tspan8307"
          y="930.77875"
          x="436.04898"
