@@ -16,7 +16,7 @@
       <a>1.000000</a>
     </color>
   </defs>
-  <layer type="SolidColor" active="true" exclude_from_rendering="false" version="0.1">
+  <layer type="SolidColor" active="false" exclude_from_rendering="false" version="0.1">
     <param name="z_depth">
       <real value="0.0000000000"/>
     </param>
@@ -355,7 +355,7 @@
           <param name="bline">
             <bline type="bline_point" loop="false">
               <entry>
-                <composite guid="DD889B90D660436A8D68EAC2C72D989C" type="bline_point">
+                <composite type="bline_point">
                   <point>
                     <vector>
                       <x>0.2242466509</x>
@@ -394,7 +394,7 @@
                 </composite>
               </entry>
               <entry>
-                <composite guid="913EAB620FC180359BF21DB813EB8439" type="bline_point">
+                <composite type="bline_point">
                   <point>
                     <vector>
                       <x>0.3533020020</x>
@@ -433,7 +433,7 @@
                 </composite>
               </entry>
               <entry>
-                <composite guid="C329D8CA98601867E76D1B4712FFF3D8" type="bline_point">
+                <composite type="bline_point">
                   <point>
                     <vector>
                       <x>0.4505355060</x>
@@ -472,7 +472,7 @@
                 </composite>
               </entry>
               <entry>
-                <composite guid="89252A41C424C87966306CCB711ABACE" type="bline_point">
+                <composite type="bline_point">
                   <point>
                     <vector>
                       <x>0.3533020020</x>
@@ -2632,7 +2632,7 @@
                                     <real value="0.0528417441"/>
                                   </radius>
                                   <theta>
-                                    <angle value="83.480194"/>
+                                    <angle value="83.480186"/>
                                   </theta>
                                 </radial_composite>
                               </t1>
@@ -2642,7 +2642,7 @@
                                     <real value="0.0528417441"/>
                                   </radius>
                                   <theta>
-                                    <angle value="83.480194"/>
+                                    <angle value="83.480186"/>
                                   </theta>
                                 </radial_composite>
                               </t2>
@@ -2771,7 +2771,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="B5DA2A6601DB6510EF806EEEF4455705" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.5716278553</x>
@@ -2810,7 +2810,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="7C7A887DF865FF1864A4B0AFAEEAED22" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.5821201205</x>
@@ -2849,7 +2849,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="B5C9536011E0B48C8AB71AB45905566E" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.6190212965</x>
@@ -2888,7 +2888,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="6E9A84C06D59A78F6B52E26A8B6514B8" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.6339916587</x>
@@ -2927,7 +2927,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="1FF2AF79C997DABAB663D445802A9DAD" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.7060680985</x>
@@ -2966,7 +2966,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="B39A448EE2273EF44C0FED539FBB5717" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.7182772160</x>
@@ -3005,7 +3005,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="1C7F2E40FA9C69C69583AD61C3304C02" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.7585938573</x>
@@ -3044,7 +3044,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="D0738A9890C9F4E1A53117DEE41D1957" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.7698483467</x>
@@ -3161,7 +3161,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="68E75C1D20C91A7D46342EE61E91B857" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.7762694955</x>
@@ -3200,7 +3200,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="DCA1455F43422579D7C83968E2CF70A8" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.7668480277</x>
@@ -3239,7 +3239,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="1087E505DFEA10CC718AF1697E4D6792" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.7237409949</x>
@@ -3278,7 +3278,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="54FF95C97024C491173D47C5AA3FD6B3" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.7104290724</x>
@@ -3317,7 +3317,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="441983C1FE1EACB47EAB2DC122169A82" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.6372524500</x>
@@ -3356,7 +3356,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="48A2C558652A33418F99C69C3328A60A" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.6237867475</x>
@@ -3395,7 +3395,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="B86F9A3DC9267EB0937EE1CACBB7CC1F" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.5853502154</x>
@@ -3434,7 +3434,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="3F3849F12E8C7758F6FCA6BA84B27B77" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.5750315785</x>
@@ -3473,7 +3473,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="2AC21DEE180D1C10AB5719430FED378E" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.4142293930</x>
@@ -3574,7 +3574,7 @@
                             <param name="bline">
                               <bline type="bline_point" loop="true">
                                 <entry>
-                                  <composite guid="C491ABE3637C3E758C2C2B03F50A9708" type="bline_point">
+                                  <composite type="bline_point">
                                     <point>
                                       <vector>
                                         <x>0.6896144748</x>
@@ -3613,7 +3613,7 @@
                                   </composite>
                                 </entry>
                                 <entry>
-                                  <composite guid="93A36E630DBC53D50EED644E92589627" type="bline_point">
+                                  <composite type="bline_point">
                                     <point>
                                       <vector>
                                         <x>0.6913824081</x>
@@ -3652,7 +3652,7 @@
                                   </composite>
                                 </entry>
                                 <entry>
-                                  <composite guid="1B9865C894E76FDF57BB960B235EBB4E" type="bline_point">
+                                  <composite type="bline_point">
                                     <point>
                                       <vector>
                                         <x>0.7064093947</x>
@@ -3691,7 +3691,7 @@
                                   </composite>
                                 </entry>
                                 <entry>
-                                  <composite guid="FC2E9A5308C33C74922F669244824EE3" type="bline_point">
+                                  <composite type="bline_point">
                                     <point>
                                       <vector>
                                         <x>0.7227622867</x>
@@ -3730,7 +3730,7 @@
                                   </composite>
                                 </entry>
                                 <entry>
-                                  <composite guid="971D83063C95B8AFC422792B161D1FF0" type="bline_point">
+                                  <composite type="bline_point">
                                     <point>
                                       <vector>
                                         <x>0.7064093947</x>
@@ -3769,7 +3769,7 @@
                                   </composite>
                                 </entry>
                                 <entry>
-                                  <composite guid="CA434742624D14E2201F26568ADD6362" type="bline_point">
+                                  <composite type="bline_point">
                                     <point>
                                       <vector>
                                         <x>0.6913824081</x>
@@ -3808,7 +3808,7 @@
                                   </composite>
                                 </entry>
                                 <entry>
-                                  <composite guid="D3803D7238461292D4630A451665680A" type="bline_point">
+                                  <composite type="bline_point">
                                     <point>
                                       <vector>
                                         <x>0.6896144748</x>
@@ -3847,7 +3847,7 @@
                                   </composite>
                                 </entry>
                                 <entry>
-                                  <composite guid="EDD57306649ADDAE08DAFDBDD0AA43DE" type="bline_point">
+                                  <composite type="bline_point">
                                     <point>
                                       <vector>
                                         <x>0.7479546070</x>
@@ -3886,7 +3886,7 @@
                                   </composite>
                                 </entry>
                                 <entry>
-                                  <composite guid="4913CBF260DC9254D14368ABEB76EEB6" type="bline_point">
+                                  <composite type="bline_point">
                                     <point>
                                       <vector>
                                         <x>0.7567939758</x>
@@ -3925,7 +3925,7 @@
                                   </composite>
                                 </entry>
                                 <entry>
-                                  <composite guid="F26E733CF74D72B46AD827CB35472F91" type="bline_point">
+                                  <composite type="bline_point">
                                     <point>
                                       <vector>
                                         <x>0.7749148011</x>
@@ -3964,7 +3964,7 @@
                                   </composite>
                                 </entry>
                                 <entry>
-                                  <composite guid="22B9B3CA5488B8AB7C4900810CEF0A50" type="bline_point">
+                                  <composite type="bline_point">
                                     <point>
                                       <vector>
                                         <x>0.7567939758</x>
@@ -4003,7 +4003,7 @@
                                   </composite>
                                 </entry>
                                 <entry>
-                                  <composite guid="2E3B84123926A949E4B8D743A3737C78" type="bline_point">
+                                  <composite type="bline_point">
                                     <point>
                                       <vector>
                                         <x>0.7475126386</x>
@@ -4619,7 +4619,7 @@
                       <param name="bline">
                         <bline type="bline_point" loop="false">
                           <entry>
-                            <composite guid="DF20FE72523BFC37C8894C594E6D555F" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.6077144146</x>
@@ -4658,7 +4658,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="7BE64686567DB3CD1110D94F75B1F837" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.6165537834</x>
@@ -4697,7 +4697,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="C09BFE48C1EC532DAA8B962FAB803910" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.6346746087</x>
@@ -4736,7 +4736,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="104C3EBE62299932BC1AB16592281CD1" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.6165537834</x>
@@ -4775,7 +4775,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="1CCE09660F8788D024EB66A73DB46AF9" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>0.6072724462</x>
@@ -6918,7 +6918,7 @@
                       <param name="bline">
                         <bline type="bline_point" loop="false">
                           <entry>
-                            <composite guid="8C9B65EAA6A737A07FFCA0BBA316BD76" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>-0.6031817794</x>
@@ -6957,7 +6957,7 @@
                             </composite>
                           </entry>
                           <entry>
-                            <composite guid="65FE7923EA46F047A787179CE4B2745A" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>-0.5059482455</x>
@@ -7477,7 +7477,7 @@
                             <param name="bline">
                               <bline type="bline_point" loop="false">
                                 <entry>
-                                  <composite guid="DDFF273FCDB6391D3F3DE2183905B333" type="bline_point">
+                                  <composite type="bline_point">
                                     <point>
                                       <vector>
                                         <x>-0.6156587601</x>
@@ -7516,7 +7516,7 @@
                                   </composite>
                                 </entry>
                                 <entry>
-                                  <composite guid="CDA2A9944E6FB65EDF2985DC405D7125" type="bline_point">
+                                  <composite type="bline_point">
                                     <point>
                                       <vector>
                                         <x>-0.5653943419</x>
@@ -7555,7 +7555,7 @@
                                   </composite>
                                 </entry>
                                 <entry>
-                                  <composite guid="B1E7C2819EDBD022C999B2DBF65CCED3" type="bline_point">
+                                  <composite type="bline_point">
                                     <point>
                                       <vector>
                                         <x>-0.6156587601</x>
@@ -7696,7 +7696,7 @@
                         </color>
                       </param>
                       <param name="origin">
-                        <vector guid="D04D44A528FD25D8BA7BA7D17828F0CF">
+                        <vector>
                           <x>0.0000000000</x>
                           <y>0.0000000000</y>
                         </vector>
@@ -8170,9 +8170,9 @@
                         <real value="0.8000000119"/>
                       </param>
                       <param name="bline">
-                        <bline guid="1C1C3F17232A699E2BECE731593625F8" type="bline_point" loop="false">
+                        <bline type="bline_point" loop="false">
                           <entry>
-                            <composite guid="9FD1B641842182A42D3113F494B8C630" type="bline_point">
+                            <composite type="bline_point">
                               <point>
                                 <vector>
                                   <x>-0.6568691134</x>
