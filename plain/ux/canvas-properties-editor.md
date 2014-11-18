@@ -65,4 +65,4 @@ When saying completely and properly, I mean we need to design (UI and UX) and th
 - Advanced Settings ()
 	- Locks and Links
 	- Focus Point X/Y
-	- And other things in most cases user don’t what to change from time to time. I am not sure if metadata is recorded in sif document, if yes, we can attach those parameters in here too, so that we migrate Canvas Options to Canvas Properties Editor.
+	- And other things in most cases user don’t want to change from time to time. I am not sure if metadata is recorded in sif document, if yes, we can attach those parameters in here too, so that we migrate Canvas Options to Canvas Properties Editor.
