@@ -15,6 +15,7 @@ HTMLCode	Name
 #e9b96e		Chocolate 1
 #c17d11		Chocolate 2
 #8f5902		Chocolate 3
+#fcaf3e		Orange 1
 #f57900		Orange 2
 #ce5c00		Orange 3
 #ad7fa8		Plum 1
