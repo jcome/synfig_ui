@@ -1,4 +1,6 @@
-#Canvas Properties
+#The Current Situation
+
+Canvas Properties
 --------------------
 
 - __Canvas Info__
@@ -26,7 +28,7 @@
 		- Focus Point X / Y
 	
 	
-#Canvas Options
+Canvas Options
 -----------------
 
 - __Grid__
@@ -40,7 +42,7 @@
 	
 	
 
-#Questions
+Questions
 ----------
 - What is physical width/height?  
 
@@ -55,13 +57,11 @@ it seems like origin point of coordinate of canvas
 - Canvas Options is not yet ready for final users, shall we remove them till they are implemented completely and properly?  
 When saying completely and properly, I mean we need to design (UI and UX) and then code them down, test, publish to end users.
 
-#Canvas Properties Editor Proposal
-------------------------
+#The Canvas Properties Editor Proposal
+
 - __Canvas Info__
-	- Name
-	- Description  
-	should be in multi-line instead of single line.  
-	And for a long term, XMP intigration is welcome very much!
+	- `Name`
+	- `Description`  should be in multi-line instead of single line. And for a long term, XMP intigration is welcome very much!
 - __Canvas Size__
 	- `Width / Height`  
 	there is a preset avaible
