@@ -55,14 +55,36 @@ When saying completely and properly, I mean we need to design (UI and UX) and th
 #Canvas Properties Editor Proposal
 - Canvas Info
 	- Name
-	- Description (should be in multi-line instead of single line) 
+	- Description  
+	should be in multi-line instead of single line.  
+	And for a long term, XMP intigration is welcome very much!
 - Canvas Size 
-	- Width / Height (there is a preset avaible)
-	- Resoultions X / Y (X and Y are linked by default)
-	- Origin Point （positon of the canvas point to (0,0)）
-- Time
-	- FPS, Start and End time, Duration 
+	- Width / Height  
+	there is a preset avaible
+	- Resoultions X / Y  
+	X and Y are linked by default
+	- Origin Point  
+	positon of the canvas point to (0,0)  
+	provide 9 buttons for quick setup:  
+		
+		| 1 | 4 | 7 |
+		|---|---|---|
+		| 2 | 5 | 8 |
+		| 3 | 6 | 9 |
+		
+		- 1 (Left, Top)
+		- 2 (Left, Middle)
+		- 3 (Left, Bottom)
+		- 4 (Middle, Top)
+		- 5 (Middle, Middle)
+		- 6 (Middle, Bottom)
+		- 7 (Right, Top)
+		- 8 (Right, Middle)
+		- 9 (Right, Bottom)
+	- Time
+		- FPS, Start and End time, Duration 
 - Advanced Settings ()
 	- Locks and Links
 	- Focus Point X/Y
-	- And other things in most cases user don’t want to change from time to time. I am not sure if metadata is recorded in sif document, if yes, we can attach those parameters in here too, so that we migrate Canvas Options to Canvas Properties Editor.
+	- And other things in most cases user don’t want to change from time to time.  
+	I am not sure if metadata is recorded in sif document, if yes, we can attach those parameters in here too, so that we migrate Canvas Options to Canvas Properties Editor.
